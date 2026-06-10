@@ -1,0 +1,1753 @@
+{
+  "title": "Polish Practice",
+  "sentences": [
+    {
+      "polish": "Lubię widzieć śnieg zimą (inst. of zima)",
+      "english": "I like to see snow in winter",
+      "verbs": [
+        "lubić (to like)",
+        "widzieć (to see)"
+      ]
+    },
+    {
+      "polish": "Zdążyliśmy na pociąg",
+      "english": "We made it to the train",
+      "verbs": [
+        "zdążyć (to make it)"
+      ]
+    },
+    {
+      "polish": "Małe samoloty nie mogą lądować we mgle (inst. of mgła)",
+      "english": "Small planes cannot land in the fog",
+      "verbs": [
+        "móc (to be able to)",
+        "lądować (to land)"
+      ]
+    },
+    {
+      "polish": "Wysokie drzewa rosną w lesie",
+      "english": "Tall trees grow in the forest",
+      "verbs": [
+        "rosnąć (to grow)"
+      ]
+    },
+    {
+      "polish": "Mgła była bardzo gęsta",
+      "english": "The fog was very thick",
+      "verbs": [
+        "być (to be)"
+      ]
+    },
+    {
+      "polish": "Nadchodziła mroźna zima",
+      "english": "A freezing winter was coming",
+      "verbs": [
+        "nadchodzić (to approach/come)"
+      ]
+    },
+    {
+      "polish": "Przeprowadziłem się do Gloucester dwadzieścia lat temu",
+      "english": "I moved to Gloucester twenty years ago",
+      "verbs": [
+        "przeprowadzić się (to move)"
+      ]
+    },
+    {
+      "polish": "Wysypanie mąki było wypadkiem",
+      "english": "Spilling the flour was an accident",
+      "verbs": [
+        "wysypać (to spill)",
+        "być (to be)"
+      ]
+    },
+    {
+      "polish": "Musiałbym to dokończyć",
+      "english": "I would have to finish this",
+      "verbs": [
+        "musieć (to have to/must)",
+        "dokończyć (to finish)"
+      ]
+    },
+    {
+      "polish": "Udał się nad jezioro",
+      "english": "He went to the lake",
+      "verbs": [
+        "motion (accusative)",
+        "udać się (to go/proceed)"
+      ]
+    },
+    {
+      "polish": "Marzę o jeziorze",
+      "english": "I dream of the lake",
+      "verbs": [
+        "static location (locative)",
+        "marzyć (to dream)"
+      ]
+    },
+    {
+      "polish": "Jestem nad jeziorem",
+      "english": "I am by the lake",
+      "verbs": [
+        "nad/by the lake (instrumental)",
+        "być (to be)"
+      ]
+    },
+    {
+      "polish": "Widziałem stado kaczek",
+      "english": "I saw a flock of ducks",
+      "verbs": [
+        "widzieć (to see)"
+      ]
+    },
+    {
+      "polish": "Innym razem! Muszę się zatrzymać na dziś wieczór",
+      "english": "Another time! I have to stop for tonight",
+      "verbs": [
+        "musieć (to have to/must)",
+        "zatrzymać się (to stop)"
+      ]
+    },
+    {
+      "polish": "Otrzymałem e-mail z potwierdzeniem rezerwacji",
+      "english": "I received an email with the booking confirmation",
+      "verbs": [
+        "otrzymać (to receive)"
+      ]
+    },
+    {
+      "polish": "Wciąż czekam!",
+      "english": "I'm still waiting!",
+      "verbs": [
+        "czekać (to wait)"
+      ]
+    },
+    {
+      "polish": "Złamane krzesło jest w kącie",
+      "english": "The broken chair is in the corner",
+      "verbs": [
+        "być (to be)"
+      ]
+    },
+    {
+      "polish": "Muszę zabrać dzieci ze szkoły o trzeciej",
+      "english": "I must pick up the children from school at three",
+      "verbs": [
+        "musieć (to have to/must)",
+        "zabrać (to take/pick up)"
+      ]
+    },
+    {
+      "polish": "Czy możesz wziąć ten list na pocztę?",
+      "english": "Can you take this letter to the post office?",
+      "verbs": [
+        "móc (to be able to)",
+        "wziąć (to take)"
+      ]
+    },
+    {
+      "polish": "Mam ranę na palcu",
+      "english": "I have a cut on my finger",
+      "verbs": [
+        "mieć (to have)"
+      ]
+    },
+    {
+      "polish": "Ile jest jeden plus jeden?",
+      "english": "How much is one plus one?",
+      "verbs": [
+        "być (to be)"
+      ]
+    },
+    {
+      "polish": "Jeden plus jeden równa się...?",
+      "english": "One plus one equals...?",
+      "verbs": [
+        "równać się (to equal)"
+      ]
+    },
+    {
+      "polish": "Równa się dwa",
+      "english": "It equals two",
+      "verbs": [
+        "równać się (to equal)"
+      ]
+    },
+    {
+      "polish": "Wynik to dwa",
+      "english": "The result is two",
+      "verbs": [
+        "być (to be)"
+      ]
+    },
+    {
+      "polish": "Wolę herbatę niż kawę",
+      "english": "I prefer tea over coffee",
+      "verbs": [
+        "wolić (to prefer)"
+      ]
+    },
+    {
+      "polish": "Mieliśmy piękny dzień",
+      "english": "We had a beautiful day",
+      "verbs": [
+        "mieć (to have)"
+      ]
+    },
+    {
+      "polish": "Jaki piękny poranek!",
+      "english": "What a beautiful morning!",
+      "verbs": [
+        "być (to be)"
+      ]
+    },
+    {
+      "polish": "Przyzwyczaiła się do nowego domu",
+      "english": "She got used to the new house",
+      "verbs": [
+        "przyzwyczaić się (to get used to)"
+      ]
+    },
+    {
+      "polish": "Wyczekuję na wakacje",
+      "english": "I'm looking forward to the holidays",
+      "verbs": [
+        "wyczekiwać (to look forward to/await)"
+      ]
+    },
+    {
+      "polish": "Wydaje się, że jest w porządku! )",
+      "english": "It seems to be okay!",
+      "verbs": [
+        "wydawać się (to seem, appear (impf)",
+        "wydawać się (to seem/appear)"
+      ]
+    },
+    {
+      "polish": "Pamięć przywraca uśmiech na jej twarz",
+      "english": "Memory brings a smile back to her face",
+      "verbs": [
+        "przywracać (to restore/bring back)"
+      ]
+    },
+    {
+      "polish": "Mieć coś wspólnego (z kimś/czymś) (gen. of wspólny) )",
+      "english": "No translation provided",
+      "verbs": [
+        "To have something in common (with someone/something",
+        "mieć (to have)"
+      ]
+    },
+    {
+      "polish": "Nauka pływania w oceanie to tak ważna umiejętność",
+      "english": "Learning to swim in the ocean is such an important skill",
+      "verbs": [
+        "być (to be)"
+      ]
+    },
+    {
+      "polish": "Chcę kupić taką sukienkę",
+      "english": "I want to buy such a dress",
+      "verbs": [
+        "chcieć (to want)",
+        "kupić (to buy)"
+      ]
+    },
+    {
+      "polish": "Dostaniesz możliwość wyboru koloru",
+      "english": "You will have the opportunity to choose the color",
+      "verbs": [
+        "dostać (to get/receive)",
+        "wybrać (to choose)"
+      ]
+    },
+    {
+      "polish": "Każdy artysta ma swój własny styl",
+      "english": "Every artist has their own style",
+      "verbs": [
+        "mieć (to have)"
+      ]
+    },
+    {
+      "polish": "Zabawa na plaży zachęca dzieci do bycia aktywnymi )",
+      "english": "Playing on the beach encourages children to be active",
+      "verbs": [
+        "zachęcać (to encourage (impf.)",
+        "zachęcać (to encourage)"
+      ]
+    },
+    {
+      "polish": "Bycie rodzicem jest trudne",
+      "english": "Being a parent is difficult",
+      "verbs": [
+        "być (to be)"
+      ]
+    },
+    {
+      "polish": "Ostatnia książka była pełna niesamowitych przygód",
+      "english": "The last book was full of amazing adventures",
+      "verbs": [
+        "być (to be)"
+      ]
+    },
+    {
+      "polish": "Od dziecka był żądny wiedzy i nowych doświadczeń",
+      "english": "Since childhood, he was eager for knowledge and new experiences",
+      "verbs": [
+        "być (to be)"
+      ]
+    },
+    {
+      "polish": "Inwestycja w edukację jest kluczowa dla rozwoju kraju",
+      "english": "Investment in education is key to the country's development",
+      "verbs": [
+        "być (to be)"
+      ]
+    },
+    {
+      "polish": "To zimne piwo jest naprawdę orzeźwiające w ten upalny dzień",
+      "english": "This cold beer is really refreshing on this hot day",
+      "verbs": [
+        "być (to be)"
+      ]
+    },
+    {
+      "polish": "W upalny dzień marzę o szklance chłodnej wody",
+      "english": "On a hot day, I dream of a glass of cool water",
+      "verbs": [
+        "marzyć (to dream)"
+      ]
+    },
+    {
+      "polish": "To jest najlepszy sposób na naukę języka",
+      "english": "This is the best way to learn a language",
+      "verbs": [
+        "być (to be)"
+      ]
+    },
+    {
+      "polish": "Pokonanie strachu jest pierwszym krokiem do sukcesu",
+      "english": "Overcoming fear is the first step to success",
+      "verbs": [
+        "być (to be)"
+      ]
+    },
+    {
+      "polish": "Siedziała w ogrodzie, ciesząc się ciszą i słońcem",
+      "english": "She sat in the garden, enjoying the silence and the sun",
+      "verbs": [
+        "siedzieć (to sit)",
+        "cieszyć się (to enjoy)"
+      ]
+    },
+    {
+      "polish": "To zadanie jest zdecydowanie łatwiejsze niż myślałem",
+      "english": "This task is definitely easier than I thought",
+      "verbs": [
+        "być (to be)",
+        "myśleć (to think)"
+      ]
+    },
+    {
+      "polish": "Lubię zarówno kawę, jak i herbatę",
+      "english": "I like both coffee and tea",
+      "verbs": [
+        "lubić (to like)"
+      ]
+    },
+    {
+      "polish": "Polowanie na nasz wymarzony dom trwało prawie rok",
+      "english": "Hunting for our dream home took almost a year",
+      "verbs": [
+        "trwać (to last/continue)",
+        "polować (to hunt)"
+      ]
+    },
+    {
+      "polish": "Król Henryk VIII lubił polować",
+      "english": "King Henry VIII liked to hunt",
+      "verbs": [
+        "lubić (to like)",
+        "polować (to hunt)"
+      ]
+    },
+    {
+      "polish": "Moja sypialnia jest przytulna",
+      "english": "My bedroom is cozy",
+      "verbs": [
+        "być (to be)"
+      ]
+    },
+    {
+      "polish": "On chce stworzyć nowy plan",
+      "english": "He wants to create a new plan",
+      "verbs": [
+        "chcieć (to want)",
+        "stworzyć (to create)"
+      ]
+    },
+    {
+      "polish": "Potrzebuję twojej osobistej opinii",
+      "english": "I need your personal opinion",
+      "verbs": [
+        "potrzebować (to need)"
+      ]
+    },
+    {
+      "polish": "Potrzebujemy więcej przestrzeni na narzędzia",
+      "english": "We need more space for tools",
+      "verbs": [
+        "potrzebować (to need)"
+      ]
+    },
+    {
+      "polish": "Uczę się i pracuję jednocześnie",
+      "english": "I study and work at the same time",
+      "verbs": [
+        "uczyć się (to study/learn)",
+        "pracować (to work)"
+      ]
+    },
+    {
+      "polish": "Mówiła i płakała jednocześnie",
+      "english": "She spoke and cried at the same time",
+      "verbs": [
+        "mówić (to speak)",
+        "płakać (to cry)"
+      ]
+    },
+    {
+      "polish": "Zarządzanie czasem jest bardzo ważne",
+      "english": "Time management is very important",
+      "verbs": [
+        "być (to be)"
+      ]
+    },
+    {
+      "polish": "Ten system jest łatwy w zarządzaniu",
+      "english": "This system is easy to manage",
+      "verbs": [
+        "być (to be)"
+      ]
+    },
+    {
+      "polish": "To jest nowe, inteligentne urządzenie",
+      "english": "This is a new, smart device",
+      "verbs": [
+        "być (to be)"
+      ]
+    },
+    {
+      "polish": "Czuję się dzisiaj słabo",
+      "english": "I feel weak today",
+      "verbs": [
+        "czuć się (to feel)"
+      ]
+    },
+    {
+      "polish": "Muszę zgłosić ten problem",
+      "english": "I have to report this problem",
+      "verbs": [
+        "musieć (to have to/must)",
+        "zgłosić (to report)"
+      ]
+    },
+    {
+      "polish": "Technik szybko znalazł usterkę w mojej pralce",
+      "english": "The technician quickly found the fault in my washing machine",
+      "verbs": [
+        "znaleźć (to find)"
+      ]
+    },
+    {
+      "polish": "Moja siostra zamieszka w nowym mieszkaniu od stycznia",
+      "english": "My sister will live in a new apartment starting in January",
+      "verbs": [
+        "zamieszkać (to live/dwell)"
+      ]
+    },
+    {
+      "polish": "Lubię podróżować po wschodniej części kraju",
+      "english": "I like traveling in the eastern part of the country",
+      "verbs": [
+        "lubić (to like)",
+        "podróżować (to travel)"
+      ]
+    },
+    {
+      "polish": "To jest duża, międzynarodowa konferencja naukowa",
+      "english": "This is a large, international scientific conference",
+      "verbs": [
+        "być (to be)"
+      ]
+    },
+    {
+      "polish": "Muszę zmienić swoje złe nawyki (NB swoje = moje here)",
+      "english": "I have to change my bad habits",
+      "verbs": [
+        "musieć (to have to/must)",
+        "zmienić (to change)"
+      ]
+    },
+    {
+      "polish": "Miłego dalszego dnia!",
+      "english": "Have a nice rest of the day!",
+      "verbs": [
+        "być (to be)"
+      ]
+    },
+    {
+      "polish": "Ona zmieniła sukienkę",
+      "english": "She changed her dress",
+      "verbs": [
+        "zmienić (to change)"
+      ]
+    },
+    {
+      "polish": "To rzeczywiście dużo zmian",
+      "english": "That's really a lot of changes",
+      "verbs": [
+        "być (to be)"
+      ]
+    },
+    {
+      "polish": "Narzekałem na zimną wodę pod prysznicem",
+      "english": "I complained about the cold water in the shower",
+      "verbs": [
+        "narzekać (to complain)"
+      ]
+    },
+    {
+      "polish": "W zasadzie skończyliśmy projekt",
+      "english": "Basically, we've finished the project",
+      "verbs": [
+        "skończyć (to finish)"
+      ]
+    },
+    {
+      "polish": "Nie widzę powodu, żeby się martwić",
+      "english": "I see no reason to worry",
+      "verbs": [
+        "widzieć (to see)",
+        "martwić się (to worry)"
+      ]
+    },
+    {
+      "polish": "Codziennie spełniam swoje obowiązki w pracy",
+      "english": "Every day I fulfill my duties at work",
+      "verbs": [
+        "spełniać (to fulfill)"
+      ]
+    },
+    {
+      "polish": "Jutro rano dogadam szczegóły umowy z klientem",
+      "english": "Tomorrow morning I'll settle the details of the contract with the client",
+      "verbs": [
+        "dogadać się (to agree, come to terms)",
+        "dogadać się (to agree/come to terms)"
+      ]
+    },
+    {
+      "polish": "Pogadamy na spokojnie",
+      "english": "We'll talk calmly",
+      "verbs": [
+        "pogadać (to talk)"
+      ]
+    },
+    {
+      "polish": "Muszę z nim pogadać o nowym projekcie",
+      "english": "I need to talk to him about the new project",
+      "verbs": [
+        "musieć (to have to/must)",
+        "pogadać (to talk)"
+      ]
+    },
+    {
+      "polish": "Może umówimy się na kawę?",
+      "english": "Maybe we'll meet for coffee?",
+      "verbs": [
+        "umówić się (to meet/arrange)"
+      ]
+    },
+    {
+      "polish": "To musi być zbieg okoliczności",
+      "english": "It must be a coincidence",
+      "verbs": [
+        "musieć (to have to/must)",
+        "być (to be)"
+      ]
+    },
+    {
+      "polish": "Zdał sobie sprawę, że musi odejść",
+      "english": "He realized that he had to leave",
+      "verbs": [
+        "zdać sobie sprawę (to realize)",
+        "musieć (to have to/must)",
+        "odejść (to leave)"
+      ]
+    },
+    {
+      "polish": "Zawołałem go, żeby się pospieszył",
+      "english": "I called him to tell him to hurry up",
+      "verbs": [
+        "zawołać (to call out)",
+        "pospieszyć się (to hurry up)"
+      ]
+    },
+    {
+      "polish": "Czy mogę dołączyć do waszej grupy (gen. after do/to)",
+      "english": "Can I join your group?",
+      "verbs": [
+        "móc (to be able to)",
+        "dołączyć (to join)"
+      ]
+    },
+    {
+      "polish": "Przyszedłem do domu",
+      "english": "I came home",
+      "verbs": [
+        "przyjść (to come/arrive)"
+      ]
+    },
+    {
+      "polish": "Byłem w Krakowie w zeszłym roku",
+      "english": "I was in Krakow last year",
+      "verbs": [
+        "być (to be)"
+      ]
+    },
+    {
+      "polish": "Proszę popatrzeć na ten obraz",
+      "english": "Please look at this painting",
+      "verbs": [
+        "popatrzeć (to look)"
+      ]
+    },
+    {
+      "polish": "Czy zgodzisz się ze mną?",
+      "english": "Will you agree with me?",
+      "verbs": [
+        "zgodzić się (to agree)"
+      ]
+    },
+    {
+      "polish": "Zabawka jest w pudełku",
+      "english": "The toy is in the box",
+      "verbs": [
+        "być (to be)"
+      ]
+    },
+    {
+      "polish": "Pada deszcz na zewnątrz",
+      "english": "It's raining outside",
+      "verbs": [
+        "padać (to fall/rain)"
+      ]
+    },
+    {
+      "polish": "Wazon jest na stole",
+      "english": "The vase is on the table",
+      "verbs": [
+        "być (to be)"
+      ]
+    },
+    {
+      "polish": "Ona jest tak wysoka jak jej brat",
+      "english": "She is as tall as her brother",
+      "verbs": [
+        "być (to be)"
+      ]
+    },
+    {
+      "polish": "To jest moja ulubiona piosenka",
+      "english": "This is my favorite song",
+      "verbs": [
+        "być (to be)"
+      ]
+    },
+    {
+      "polish": "Ona pochodzi z Kanady",
+      "english": "She is from Canada",
+      "verbs": [
+        "pochodzić (to come from)"
+      ]
+    },
+    {
+      "polish": "Możesz wybrać to lub tamto",
+      "english": "You can choose this or that",
+      "verbs": [
+        "móc (to be able to)",
+        "wybrać (to choose)"
+      ]
+    },
+    {
+      "polish": "On dobrze się bawił",
+      "english": "He had a good time",
+      "verbs": [
+        "bawić się (to have fun)"
+      ]
+    },
+    {
+      "polish": "Książka została napisana przez nią (passive voice)",
+      "english": "The book was written by her",
+      "verbs": [
+        "napisać (to write)"
+      ]
+    },
+    {
+      "polish": "Dostępne są inne opcje",
+      "english": "Other options are available",
+      "verbs": [
+        "być (to be)"
+      ]
+    },
+    {
+      "polish": "Wszyscy uczniowie są tutaj",
+      "english": "All the students are here",
+      "verbs": [
+        "być (to be)"
+      ]
+    },
+    {
+      "polish": "Na dachu jest kot",
+      "english": "There is a cat on the roof",
+      "verbs": [
+        "być (to be)"
+      ]
+    },
+    {
+      "polish": "Był tam, kiedy to się stało",
+      "english": "He was there when it happened",
+      "verbs": [
+        "być (to be)",
+        "stać się (to happen)"
+      ]
+    },
+    {
+      "polish": "Wspięła się po drabinie",
+      "english": "She climbed the ladder",
+      "verbs": [
+        "wspiąć (to climb p.)",
+        "wspiąć się (to climb)"
+      ]
+    },
+    {
+      "polish": "Pokrój warzywa w kostkę",
+      "english": "Cut the vegetables into cubes",
+      "verbs": [
+        "pokroić (to cut p.)",
+        "pokroić (to cut)"
+      ]
+    },
+    {
+      "polish": "Jaka jest różnica między masłem i margaryną?",
+      "english": "What is the difference between butter and margarine?",
+      "verbs": [
+        "być (to be)"
+      ]
+    },
+    {
+      "polish": "Chciałbym pojechać pociągiem, raczej wcześnie rano",
+      "english": "I'd like to go by train, rather early in the morning",
+      "verbs": [
+        "chcieć (to want)",
+        "pojechać (to go by vehicle)"
+      ]
+    },
+    {
+      "polish": "Jutro na śniadanie zjem świeżego pączka (pączek = delicious Polish filled doughnut)",
+      "english": "Tomorrow for breakfast I'll eat a fresh doughnut",
+      "verbs": [
+        "jeść (to eat)"
+      ]
+    },
+    {
+      "polish": "Ta drożdżówka jest bardzo smaczna",
+      "english": "This sweet roll is very tasty",
+      "verbs": [
+        "być (to be)"
+      ]
+    },
+    {
+      "polish": "Panuje cisza",
+      "english": "There is silence",
+      "verbs": [
+        "panować (to reign / prevail)",
+        "panować (to reign/prevail)"
+      ]
+    },
+    {
+      "polish": "Nie miałem czasu, kiedy byłem młody, bo wówczas miałem dużo pracy",
+      "english": "I didn't have time when I was young because I had a lot of work then",
+      "verbs": [
+        "mieć (to have)",
+        "być (to be)"
+      ]
+    },
+    {
+      "polish": "Jeden technik został wytypowany do analizy czarnych skrzynek",
+      "english": "One technician was selected to analyze the black boxes",
+      "verbs": [
+        "zostać (to become/be)",
+        "wytypować (to select)"
+      ]
+    },
+    {
+      "polish": "Kapitan otrzymał zgodę na start o godzinie 13:24",
+      "english": "The captain received clearance for takeoff at 13:24",
+      "verbs": [
+        "otrzymać (to receive)"
+      ]
+    },
+    {
+      "polish": "Maszyna wznosiła się w powietrze",
+      "english": "The machine was rising into the air",
+      "verbs": [
+        "wznosić się (to rise)"
+      ]
+    },
+    {
+      "polish": "Moja opona jest przebita (lit. ‘pierced’)",
+      "english": "My tire is punctured",
+      "verbs": [
+        "być (to be)"
+      ]
+    },
+    {
+      "polish": "To wiosło jest bardzo ciężkie",
+      "english": "This oar is very heavy",
+      "verbs": [
+        "być (to be)"
+      ]
+    },
+    {
+      "polish": "Nie widzę w tym nic złego (gen. of zły)",
+      "english": "I see nothing wrong in this",
+      "verbs": [
+        "widzieć (to see)"
+      ]
+    },
+    {
+      "polish": "Ten pies jest zupełnie szalony!",
+      "english": "This dog is completely crazy!",
+      "verbs": [
+        "być (to be)"
+      ]
+    },
+    {
+      "polish": "Marek odpechnął łódź od brzegu",
+      "english": "Marek pushed the boat away from the shore",
+      "verbs": [
+        "odepchnąć (to push away)"
+      ]
+    },
+    {
+      "polish": "Ta szafa została lekko popchnięta",
+      "english": "This wardrobe was pushed slightly",
+      "verbs": [
+        "zostać (to become/be)",
+        "popchnąć (to push)"
+      ]
+    },
+    {
+      "polish": "Szalona dziewczyna została popchnięta do basenu",
+      "english": "The crazy girl was pushed into the pool",
+      "verbs": [
+        "zostać (to become/be)",
+        "popchnąć (to push)"
+      ]
+    },
+    {
+      "polish": "Wiatr przewrócił moje puste wiadro",
+      "english": "The wind knocked over my empty bucket",
+      "verbs": [
+        "przewrócić (to knock over/tip over)"
+      ]
+    },
+    {
+      "polish": "Szedł drogą, wesoło machając ręką",
+      "english": "He walked along the road, waving his hand cheerfully",
+      "verbs": [
+        "iść (to walk)",
+        "machać (to wave)"
+      ]
+    },
+    {
+      "polish": "Oddychaj głęboko",
+      "english": "Breathe deeply",
+      "verbs": [
+        "oddychać (to breathe)"
+      ]
+    },
+    {
+      "polish": "Jezioro jest bardzo głębokie",
+      "english": "The lake is very deep",
+      "verbs": [
+        "być (to be)"
+      ]
+    },
+    {
+      "polish": "Statek wypłynął z portu",
+      "english": "The ship set sail from the port",
+      "verbs": [
+        "wypłynąć (to set sail)"
+      ]
+    },
+    {
+      "polish": "To sprawa w końcu wypłynęła",
+      "english": "This matter finally surfaced",
+      "verbs": [
+        "wypłynąć (to surface)"
+      ]
+    },
+    {
+      "polish": "Musimy się stąd wydostać",
+      "english": "We have to get out of here",
+      "verbs": [
+        "musieć (to have to/must)",
+        "wydostać się (to get out)"
+      ]
+    },
+    {
+      "polish": "Powierzchnia stołu jest brudna",
+      "english": "The surface of the table is dirty",
+      "verbs": [
+        "być (to be)"
+      ]
+    },
+    {
+      "polish": "Wszyscy byli przerażeni",
+      "english": "Everyone was terrified",
+      "verbs": [
+        "być (to be)"
+      ]
+    },
+    {
+      "polish": "Moja kurtka jest całkowicie przemoczona",
+      "english": "My jacket is completely soaked",
+      "verbs": [
+        "być (to be)"
+      ]
+    },
+    {
+      "polish": "Mój tata jest wściekły",
+      "english": "My dad is furious",
+      "verbs": [
+        "być (to be)"
+      ]
+    },
+    {
+      "polish": "On nagle pobladł",
+      "english": "He suddenly turned pale",
+      "verbs": [
+        "pobladnąć (to turn pale)"
+      ]
+    },
+    {
+      "polish": "Utopiłem telefon w jeziorze",
+      "english": "I drowned my phone in the lake",
+      "verbs": [
+        "utopić (to drown something/someone)",
+        "utopić (to drown)"
+      ]
+    },
+    {
+      "polish": "W parku jest mały staw",
+      "english": "There is a small pond in the park",
+      "verbs": [
+        "być (to be)"
+      ]
+    },
+    {
+      "polish": "To może się zdarzyć każdemu",
+      "english": "This can happen to anyone",
+      "verbs": [
+        "móc (to be able to)",
+        "zdarzyć się (to happen)"
+      ]
+    },
+    {
+      "polish": "Nie martw się, na pewno dasz radę zdać ten egzamin!",
+      "english": "Don't worry, you'll definitely be able to pass this exam!",
+      "verbs": [
+        "martwić się (to worry)",
+        "dać radę (to be able to/manage)",
+        "zdać (to pass)"
+      ]
+    },
+    {
+      "polish": "Czym się zajmujesz?",
+      "english": "What do you do for a living?",
+      "verbs": [
+        "zajmować (to occupy)",
+        "zajmować się (to occupy/be involved in)"
+      ]
+    },
+    {
+      "polish": "Czemu tak póżno?",
+      "english": "Why so late?",
+      "verbs": [
+        "być (to be)"
+      ]
+    },
+    {
+      "polish": "Skąd się znacie?",
+      "english": "How do you know each other?",
+      "verbs": [
+        "znać (to know)"
+      ]
+    },
+    {
+      "polish": "Jak myślisz, czy będzie jutro padać?",
+      "english": "Do you think it will rain tomorrow?",
+      "verbs": [
+        "myśleć (to think)",
+        "być (to be)",
+        "padać (to fall/rain)"
+      ]
+    },
+    {
+      "polish": "Chcesz iść do kina czy zostać w domu - Jak uważasz? (opinion/judgement/view)",
+      "english": "Do you want to go to the cinema or stay home - What do you think?",
+      "verbs": [
+        "chcieć (to want)",
+        "iść (to go)",
+        "zostać (to stay)",
+        "uważać (to think/consider)"
+      ]
+    },
+    {
+      "polish": "Co sądzisz o tym filmie? (to judge, judgement)",
+      "english": "What do you think about this movie?",
+      "verbs": [
+        "sądzić (to judge/think)"
+      ]
+    },
+    {
+      "polish": "Uważam, że dasz radę to zrobić",
+      "english": "I think you can do it",
+      "verbs": [
+        "uważać (to think/consider)",
+        "dać radę (to be able to/manage)",
+        "zrobić (to do/make)"
+      ]
+    },
+    {
+      "polish": "Sądzę, że to świetny pomysł",
+      "english": "I think it's a great idea",
+      "verbs": [
+        "sądzić (to judge/think)"
+      ]
+    },
+    {
+      "polish": "Sądzę, że Tatry są niesamowite!",
+      "english": "I think the Tatras are amazing!",
+      "verbs": [
+        "sądzić (to judge/think)",
+        "być (to be)"
+      ]
+    },
+    {
+      "polish": "Jak uważasz?",
+      "english": "What do you think?",
+      "verbs": [
+        "uważać (to think/consider)"
+      ]
+    },
+    {
+      "polish": "Myślę, że...",
+      "english": "I think that...",
+      "verbs": [
+        "myśleć (to think)"
+      ]
+    },
+    {
+      "polish": "Uważam, że...",
+      "english": "I consider that...",
+      "verbs": [
+        "uważać (to think/consider)"
+      ]
+    },
+    {
+      "polish": "Sądzę, że...",
+      "english": "I judge that...",
+      "verbs": [
+        "sądzić (to judge/think)"
+      ]
+    },
+    {
+      "polish": "Mam wrażenie, że nie dasz rady tego zjeść!",
+      "english": "I have the impression that you won't be able to eat this!",
+      "verbs": [
+        "mieć (to have)",
+        "dać radę (to be able to/manage)",
+        "zjeść (to eat)"
+      ]
+    },
+    {
+      "polish": "Zmieniam zdanie",
+      "english": "I'm changing my mind",
+      "verbs": [
+        "zmieniać (to change)"
+      ]
+    },
+    {
+      "polish": "Słyszałem, że w Polsce jest teraz bardzo zimno",
+      "english": "I heard that it's very cold in Poland now",
+      "verbs": [
+        "słyszeć (to hear)",
+        "być (to be)"
+      ]
+    },
+    {
+      "polish": "Muszę się zbierać",
+      "english": "I have to get going",
+      "verbs": [
+        "zbierać (to collect, gather, pick up)",
+        "musieć (to have to/must)",
+        "zbierać się (to get ready/gather)"
+      ]
+    },
+    {
+      "polish": "Jest późno. Zbieramy się?",
+      "english": "It's late. Shall we get going?",
+      "verbs": [
+        "być (to be)",
+        "zbierać się (to get ready/gather)"
+      ]
+    },
+    {
+      "polish": "Wszystkiego najlepszego!",
+      "english": "All the best! / Happy Birthday!",
+      "verbs": [
+        "być (to be)"
+      ]
+    },
+    {
+      "polish": "Przypomnij mi proszę",
+      "english": "Please remind me",
+      "verbs": [
+        "przypomnieć (to remind)"
+      ]
+    },
+    {
+      "polish": "Nie przypominam sobie",
+      "english": "I don't recall",
+      "verbs": [
+        "przypominać (to remind/remember)",
+        "przypominać sobie (to remember)"
+      ]
+    },
+    {
+      "polish": "Słyszałem to nazwisko, ale nie przypominam sobie skąd",
+      "english": "I've heard that name, but I don't recall from where",
+      "verbs": [
+        "słyszeć (to hear)",
+        "przypominać sobie (to remember)"
+      ]
+    },
+    {
+      "polish": "Zapomniałem o Twoich urodzinach! Bardzo przepraszam",
+      "english": "I forgot your birthday! I'm very sorry",
+      "verbs": [
+        "zapomnieć (to forget)"
+      ]
+    },
+    {
+      "polish": "Zawsze zapominam o kluczach",
+      "english": "I always forget the keys",
+      "verbs": [
+        "zapomnieć (to forget)"
+      ]
+    },
+    {
+      "polish": "Zapomniałem zabrać ze sobą telefonu",
+      "english": "I forgot to take my phone with me",
+      "verbs": [
+        "zapomnieć (to forget)",
+        "zabrać (to take)"
+      ]
+    },
+    {
+      "polish": "On chce brać udział w konkursie",
+      "english": "He wants to take part in the competition",
+      "verbs": [
+        "chcieć (to want)",
+        "brać udział (to take part)"
+      ]
+    },
+    {
+      "polish": "Ubrałam dziś koszulę i spodnie",
+      "english": "I put on a shirt and trousers today",
+      "verbs": [
+        "ubierać (to dress/put on)"
+      ]
+    },
+    {
+      "polish": "Ola ma malutką córeczkę i często ubiera ją w kolorowe sukienki",
+      "english": "Ola has a tiny daughter and often dresses her in colorful dresses",
+      "verbs": [
+        "mieć (to have)",
+        "ubierać (to dress/put on)"
+      ]
+    },
+    {
+      "polish": "Proszę rozebrać się od pasa w górę",
+      "english": "Please undress from the waist up",
+      "verbs": [
+        "rozebrać się (to undress)"
+      ]
+    },
+    {
+      "polish": "Przebieramy się w piżamę",
+      "english": "We are changing into pajamas",
+      "verbs": [
+        "przebierać się (to change clothes)"
+      ]
+    },
+    {
+      "polish": "Chcę kupić samochód, ale nie wiem, jaki wybrać",
+      "english": "I want to buy a car, but I don't know which one to choose",
+      "verbs": [
+        "chcieć (to want)",
+        "kupić (to buy)",
+        "wiedzieć (to know)",
+        "wybrać (to choose)"
+      ]
+    },
+    {
+      "polish": "Długo wybierałam te buty, bo nie mogłam się zdecydować",
+      "english": "I took a long time to choose these shoes because I couldn't decide",
+      "verbs": [
+        "wybierać (to choose)",
+        "móc (to be able to)",
+        "zdecydować się (to decide)"
+      ]
+    },
+    {
+      "polish": "W końcu wybrałam te czarne buty",
+      "english": "In the end, I chose these black shoes",
+      "verbs": [
+        "wybrać (to choose)"
+      ]
+    },
+    {
+      "polish": "Dokąd się wybierasz?",
+      "english": "Where are you heading?",
+      "verbs": [
+        "wybierać się (to set out/head to)"
+      ]
+    },
+    {
+      "polish": "W końcu wybraliśmy się na weekend do Warszawy",
+      "english": "In the end, we went to Warsaw for the weekend",
+      "verbs": [
+        "wybrać się (to set out/head to)"
+      ]
+    },
+    {
+      "polish": "Michał jechał bardzo szybko samochodem i policja zabrała mu prawo jazdy na trzy miesiące",
+      "english": "Michal was driving very fast and the police took away his driver's license for three months",
+      "verbs": [
+        "jechać (to go/drive)",
+        "zabrać (to take away)"
+      ]
+    },
+    {
+      "polish": "Moje truskawki są już czerwzone i dojrzałe - muszę je zebrać",
+      "english": "My strawberries are already red and ripe - I have to pick them",
+      "verbs": [
+        "być (to be)",
+        "musieć (to have to/must)",
+        "zebrać (to pick/collect)"
+      ]
+    },
+    {
+      "polish": "Ta organizacja zbiera pieniądze na bezdomne psy i koty",
+      "english": "This organization collects money for homeless dogs and cats",
+      "verbs": [
+        "zbierać (to collect)"
+      ]
+    },
+    {
+      "polish": "Kiedy byłem mały, zbierałem znaczki",
+      "english": "When I was little, I collected stamps",
+      "verbs": [
+        "być (to be)",
+        "zbierać (to collect)"
+      ]
+    },
+    {
+      "polish": "Odbieram telefon",
+      "english": "I'm answering the phone",
+      "verbs": [
+        "odbierać (to answer/pick up)"
+      ]
+    },
+    {
+      "polish": "Muszę odebrać dziecko ze szkoły",
+      "english": "I have to pick up the child from school",
+      "verbs": [
+        "musieć (to have to/must)",
+        "odebrać (to pick up/receive)"
+      ]
+    },
+    {
+      "polish": "Obierz ziemniaki, proszę",
+      "english": "Please peel the potatoes",
+      "verbs": [
+        "obierać (to peel)"
+      ]
+    },
+    {
+      "polish": "Ja nigdy nie obieram jabłek",
+      "english": "I never peel apples",
+      "verbs": [
+        "obierać (to peel)"
+      ]
+    },
+    {
+      "polish": "Wieczorem dzwonię do kolegi",
+      "english": "In the evening, I'm calling a friend",
+      "verbs": [
+        "dzwonić (to call/ring)"
+      ]
+    },
+    {
+      "polish": "W soboty kładę się spać trochę później niż w tygodniu",
+      "english": "On Saturdays, I go to bed a bit later than during the week",
+      "verbs": [
+        "kłaść się spać (to go to bed)"
+      ]
+    },
+    {
+      "polish": "Po południu odrabiam lekcje (odrabiać is for completing a task)",
+      "english": "In the afternoon I do my homework",
+      "verbs": [
+        "odrabiać (to do/complete)"
+      ]
+    },
+    {
+      "polish": "Posprzątam dom i zrobię pranie",
+      "english": "I'll clean the house and do the laundry",
+      "verbs": [
+        "posprzątać (to clean up)",
+        "zrobić (to do/make)"
+      ]
+    },
+    {
+      "polish": "Wieczorem ugotuję coś prostego",
+      "english": "In the evening, I'll cook something simple",
+      "verbs": [
+        "ugotować (to cook)"
+      ]
+    },
+    {
+      "polish": "Wieczorem będę gotować coś prostego",
+      "english": "In the evening, I'll be cooking something simple",
+      "verbs": [
+        "gotować (to cook)"
+      ]
+    },
+    {
+      "polish": "W niedzielę rano idziemy razem do kościoła",
+      "english": "On Sunday morning, we go to church together",
+      "verbs": [
+        "iść (to go)"
+      ]
+    },
+    {
+      "polish": "Po mszy wracamy do domu i jemy obiad",
+      "english": "After mass, we return home and eat lunch",
+      "verbs": [
+        "wracać (to return)",
+        "jeść (to eat)"
+      ]
+    },
+    {
+      "polish": "Wieczorem pomagam dzieciom (dat.) spakować plecaki",
+      "english": "In the evening, I help the children pack their backpacks",
+      "verbs": [
+        "pomagać (to help)",
+        "spakować (to pack)"
+      ]
+    },
+    {
+      "polish": "O Boże!",
+      "english": "Oh my God!",
+      "verbs": []
+    },
+    {
+      "polish": "Mieszkam tu od ponad dwudziestu lat",
+      "english": "I've lived here for over twenty years",
+      "verbs": [
+        "mieszkać (to live)"
+      ]
+    },
+    {
+      "polish": "W październiku zeszłego roku byłem na wakacjach w Krakowie",
+      "english": "Last October, I was on holiday in Krakow",
+      "verbs": [
+        "być (to be)"
+      ]
+    },
+    {
+      "polish": "Mieszkałam blisko uczelni",
+      "english": "I lived near the university",
+      "verbs": [
+        "mieszkać (to live)"
+      ]
+    },
+    {
+      "polish": "Gdzie dokładnie mieszkałeś?",
+      "english": "Where exactly did you live?",
+      "verbs": [
+        "mieszkać (to live)"
+      ]
+    },
+    {
+      "polish": "Czy on kiedykolwiek mieszkał w innym mieście?",
+      "english": "Has he ever lived in another city?",
+      "verbs": [
+        "mieszkać (to live)"
+      ]
+    },
+    {
+      "polish": "Mieszkaliśmy w tej samej dzielnicy",
+      "english": "We lived in the same neighborhood",
+      "verbs": [
+        "mieszkać (to live)"
+      ]
+    },
+    {
+      "polish": "Oszczędzam na własne mieszkanie",
+      "english": "I'm saving for my own apartment",
+      "verbs": [
+        "oszczędzać (to save)"
+      ]
+    },
+    {
+      "polish": "Ale mieszkacie na zadupiu! + dupa)",
+      "english": "But you live in the middle of nowhere!",
+      "verbs": [
+        "za (behind"
+      ]
+    },
+    {
+      "polish": "Mieszkacie w chlewie, czy po prostu nie sprzątacie?",
+      "english": "Do you live in a pigsty, or do you just not la clean?",
+      "verbs": [
+        "mieszkać (to live)",
+        "sprzątać (to clean)"
+      ]
+    },
+    {
+      "polish": "Nadal nie mogę tego zrobić!",
+      "english": "I still can't do it!",
+      "verbs": [
+        "móc (to be able to)",
+        "zrobić (to do/make)"
+      ]
+    },
+    {
+      "polish": "Szukam czegoś do picia",
+      "english": "I'm looking for something to drink",
+      "verbs": [
+        "szukać (to look for)"
+      ]
+    },
+    {
+      "polish": "Szukam kogoś, kto mówi po angielsku",
+      "english": "I'm looking for someone who speaks English",
+      "verbs": [
+        "szukać (to look for)",
+        "mówić (to speak)"
+      ]
+    },
+    {
+      "polish": "Wszędzie cię szukałem!",
+      "english": "I've been looking for you everywhere!",
+      "verbs": [
+        "szukać (to look for)"
+      ]
+    },
+    {
+      "polish": "Szukam swojego mózgu!",
+      "english": "I'm looking for my brain!",
+      "verbs": [
+        "szukać (to look for)"
+      ]
+    },
+    {
+      "polish": "Mogę pożyczyć ci mój samochód, pod warunkiem że go oddasz dziś wieczorem",
+      "english": "I can lend you my car, provided that you return it tonight",
+      "verbs": [
+        "móc (to be able to)",
+        "pożyczyć (to lend)",
+        "oddać (to return)"
+      ]
+    },
+    {
+      "polish": "A z tym niestety bywa różnie (bywać)",
+      "english": "And with that, unfortunately, it varies",
+      "verbs": [
+        "bywać (to vary/be)"
+      ]
+    },
+    {
+      "polish": "Szerokiej drogi!",
+      "english": "Safe travels!",
+      "verbs": []
+    },
+    {
+      "polish": "Innym razem potrafi lać przez cały urlop",
+      "english": "Another time it can pour for the whole vacation",
+      "verbs": [
+        "potrafić (to be able to)",
+        "lać (to pour/rain)"
+      ]
+    },
+    {
+      "polish": "Przepadam za czekoladą! ❤️(przepadać za…)",
+      "english": "I'm crazy about chocolate!",
+      "verbs": [
+        "przepadać za (to be crazy about)"
+      ]
+    },
+    {
+      "polish": "Nie przepadam za leżeniem na plaży ☹️ (nie przepadać za…)",
+      "english": "I'm not fond of lying on the beach",
+      "verbs": [
+        "przepadać za (to be fond of)"
+      ]
+    },
+    {
+      "polish": "Mogę sobie pozbierać piękne muszelki",
+      "english": "I can collect beautiful shells",
+      "verbs": [
+        "móc (to be able to)",
+        "pozbierać (to collect)"
+      ]
+    },
+    {
+      "polish": "Jesienią ptaki odlatują do ciepłych krajów",
+      "english": "In autumn, birds fly away to warm countries",
+      "verbs": [
+        "odlatywać (to fly away,depart)"
+      ]
+    },
+    {
+      "polish": "Ten zapach kojarzy mi się z domem (zapach = 🐽) (kojarzyć się = to associate, ring a bell)",
+      "english": "This smell reminds me of home",
+      "verbs": [
+        "kojarzyć się (to associate/remind)"
+      ]
+    },
+    {
+      "polish": "To dla mnie wyjątkowy dzień",
+      "english": "This is a special day for me",
+      "verbs": [
+        "być (to be)"
+      ]
+    },
+    {
+      "polish": "Musiałem się schować przed deszczem",
+      "english": "I had to hide from the rain",
+      "verbs": [
+        "musieć (to have to)",
+        "schować się (to hide)"
+      ]
+    },
+    {
+      "polish": "Czekamy, aż deszcz wreszcie przestanie padać",
+      "english": "We are waiting for the rain to finally stop",
+      "verbs": [
+        "czekać (to wait)",
+        "przestać (to stop)",
+        "padać (to rain)"
+      ]
+    },
+    {
+      "polish": "Zimą wieczory robią się coraz chłodniejsze",
+      "english": "In winter, the evenings get colder and colder",
+      "verbs": [
+        "robić się (to become)"
+      ]
+    },
+    {
+      "polish": "Obiecuję, że pomogę",
+      "english": "I promise I'll help",
+      "verbs": [
+        "obiecywać (to promise)",
+        "pomóc (to help)"
+      ]
+    },
+    {
+      "polish": "Poproszę jednego obwarzanka z solą",
+      "english": "I'd like one salted obwarzanek, please",
+      "verbs": [
+        "poprosić (to ask for)"
+      ]
+    },
+    {
+      "polish": "Pociąg stoi przy peronie",
+      "english": "The train is at the platform",
+      "verbs": [
+        "stać (to stand)"
+      ]
+    },
+    {
+      "polish": "Podróż zajmie tylko czterdzieści minut (zająć pf occupy/take up)",
+      "english": "The journey will take only forty minutes",
+      "verbs": [
+        "zająć (to take/occupy)"
+      ]
+    },
+    {
+      "polish": "Mam w zwyczaju pić herbatę rano",
+      "english": "I have a habit of drinking tea in the morning",
+      "verbs": [
+        "mieć (to have)",
+        "pić (to drink)"
+      ]
+    },
+    {
+      "polish": "Dynie są bardzo popularne na Halloween",
+      "english": "Pumpkins are very popular on Halloween",
+      "verbs": [
+        "być (to be)"
+      ]
+    },
+    {
+      "polish": "On popełnił błąd, ale obiecał, że go naprawi",
+      "english": "He made a mistake, but he promised to fix it",
+      "verbs": [
+        "popełnić (to commit)",
+        "obiecać (to promise)",
+        "naprawić (to fix)"
+      ]
+    },
+    {
+      "polish": "Dzięki szybkiej reakcji kierowcy, udało się uniknąć wypadku!",
+      "english": "Thanks to the driver's quick reaction, the accident was avoided!",
+      "verbs": [
+        "udać się (to succeed/manage)",
+        "uniknąć (to avoid)"
+      ]
+    },
+    {
+      "polish": "Przed wejściem do domu, należy zdjąć buty",
+      "english": "Before entering the house, one should take off their shoes",
+      "verbs": [
+        "należeć (to be necessary)",
+        "zdjąć (to take off)"
+      ]
+    },
+    {
+      "polish": "Po kolacji należy umyć brudne naczynia",
+      "english": "After dinner, the dirty dishes should be washed",
+      "verbs": [
+        "należeć (to be necessary)",
+        "umyć (to wash)"
+      ]
+    },
+    {
+      "polish": "Po zmywaniu należy dokładnie powycierać wszystkie naczynia",
+      "english": "After washing, all dishes should be wiped dry",
+      "verbs": [
+        "należeć (to be necessary)",
+        "powycierać (to wipe)"
+      ]
+    },
+    {
+      "polish": "O tej porze roku należy pić dużo gorącej herbaty",
+      "english": "At this time of year, one should drink plenty of hot tea",
+      "verbs": [
+        "należeć (to be necessary)",
+        "pić (to drink)"
+      ]
+    },
+    {
+      "polish": "Włożyłem książkę do torby",
+      "english": "I put the book in the bag",
+      "verbs": [
+        "włożyć (to put in)"
+      ]
+    },
+    {
+      "polish": "Musisz wsypać kawę do kubka",
+      "english": "You have to pour the coffee into the mug",
+      "verbs": [
+        "musieć (to have to)",
+        "wsypać (to pour in)"
+      ]
+    },
+    {
+      "polish": "Wsyp proszek do prania",
+      "english": "Pour in the washing powder",
+      "verbs": [
+        "wsypać (to pour in)"
+      ]
+    },
+    {
+      "polish": "Prać w pralce",
+      "english": "To wash in a washing machine",
+      "verbs": [
+        "prać (to wash)"
+      ]
+    },
+    {
+      "polish": "Pralka teraz wiruje",
+      "english": "The washing machine is spinning now",
+      "verbs": [
+        "wirować (to spin)"
+      ]
+    },
+    {
+      "polish": "Włożyłem ubrania do pralki, a potem je wyjąłem",
+      "english": "I put the clothes in the washing machine, and then I took them out",
+      "verbs": [
+        "włożyć (to put in)",
+        "wyjąć (to take out)"
+      ]
+    },
+    {
+      "polish": "Powiesiłem pranie na sznurku",
+      "english": "I hung the laundry on the line",
+      "verbs": [
+        "powiesić (to hang)"
+      ]
+    },
+    {
+      "polish": "Słońce wysuszyło ubrania",
+      "english": "The sun dried the clothes",
+      "verbs": [
+        "wysuszyć (to dry)"
+      ]
+    },
+    {
+      "polish": "Złożyłem suche ubrania",
+      "english": "I folded the dry clothes",
+      "verbs": [
+        "złożyć (to fold)"
+      ]
+    },
+    {
+      "polish": "Schowałem ubrania do szafy",
+      "english": "I put the clothes away in the wardrobe",
+      "verbs": [
+        "schować (to put away)"
+      ]
+    },
+    {
+      "polish": "Wyprałem ubrania, a potem je powiesiłem na sznurku. Kiedy wyschły, złożyłem je i schowałem do szafy.",
+      "english": "I washed the clothes and then hung them on the line. When they dried, I folded them and put them away in the wardrobe.",
+      "verbs": [
+        "wyprać (to wash)",
+        "powiesić (to hang)",
+        "wyschnąć (to dry)",
+        "złożyć (to fold)",
+        "schować (to put away)"
+      ]
+    }
+  ]
+}
