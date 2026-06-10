@@ -175,15 +175,15 @@
       ]
     },
     {
-      "polish": "Ale mieszkacie na zadupiu! + dupa)",
+      "polish": "Ale mieszkacie na zadupiu!",
       "english": "But you live in the middle of nowhere!",
       "verbs": [
-        "za (behind"
+        "mieszkać (to live)"
       ]
     },
     {
       "polish": "Mieszkacie w chlewie, czy po prostu nie sprzątacie?",
-      "english": "Do you live in a pigsty, or do you just not la clean?",
+      "english": "Do you live in a pigsty, or do you just not clean?",
       "verbs": [
         "mieszkać (to live)",
         "sprzątać (to clean)"
@@ -320,7 +320,6 @@
       "polish": "Pokrój warzywa w kostkę",
       "english": "Cut the vegetables into cubes",
       "verbs": [
-        "pokroić (to cut p.)",
         "pokroić (to cut)"
       ]
     },
