@@ -147,12 +147,14 @@
                 }
 
                 container.innerHTML = data.sentences.map(s => {
-                    const verbsHtml = s.verbs.map(v => `<br><span class="verb-line">${v}</span>`).join('');
+                    const verbsHtml = s.verbs.map((v, i) => (i === 0 ? `<span class="verb-line">${v}</span>` : `<br><span class="verb-line">${v}</span>`)).join('');
                     return `
                         <div class="sentence-card">
                             <span class="polish">${s.polish}</span>
                             <div class="translation">
-                                <span class="eng-text">${s.english}</span>${verbsHtml}
+                                <span class="eng-text">${s.english}</span>
+                                ${verbsHtml ? `<hr style="border: 0; border-top: 1px solid #edf2f7; margin: 5px 0;" />` : ''}
+                                ${verbsHtml}
                             </div>
                         </div>
                     `;
