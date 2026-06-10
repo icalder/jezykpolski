@@ -209,6 +209,26 @@
       "polish": "Szerokiej drogi!",
       "english": "Safe travels!",
       "verbs": []
+    },
+    {
+      "polish": "Szerokiej drogi!",
+      "english": "Safe travels!",
+      "verbs": []
+    },
+    {
+      "polish": "Lubię być w ruchu.",
+      "english": "I like to be on the move.",
+      "verbs": [
+        "lubić (to like)",
+        "być (to be)"
+      ]
+    },
+    {
+      "polish": "Poznałem wiele ciekawych miejsc.",
+      "english": "I discovered many interesting places.",
+      "verbs": [
+        "poznać (to get to know / to discover)"
+      ]
     }
   ]
 }
