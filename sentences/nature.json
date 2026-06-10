@@ -1,0 +1,269 @@
+{
+  "title": "Nature Practice",
+  "sentences": [
+    {
+      "polish": "Lubię widzieć śnieg zimą (inst. of zima)",
+      "english": "I like to see snow in winter",
+      "verbs": [
+        "lubić (to like)",
+        "widzieć (to see)"
+      ]
+    },
+    {
+      "polish": "Wysokie drzewa rosną w lesie",
+      "english": "Tall trees grow in the forest",
+      "verbs": [
+        "rosnąć (to grow)"
+      ]
+    },
+    {
+      "polish": "Mgła była bardzo gęsta",
+      "english": "The fog was very thick",
+      "verbs": [
+        "być (to be)"
+      ]
+    },
+    {
+      "polish": "Nadchodziła mroźna zima",
+      "english": "A freezing winter was coming",
+      "verbs": [
+        "nadchodzić (to approach/come)"
+      ]
+    },
+    {
+      "polish": "Marzę o jeziorze",
+      "english": "I dream of the lake",
+      "verbs": [
+        "static location (locative)",
+        "marzyć (to dream)"
+      ]
+    },
+    {
+      "polish": "Widziałem stado kaczek",
+      "english": "I saw a flock of ducks",
+      "verbs": [
+        "widzieć (to see)"
+      ]
+    },
+    {
+      "polish": "Zabawa na plaży zachęca dzieci do bycia aktywnymi )",
+      "english": "Playing on the beach encourages children to be active",
+      "verbs": [
+        "zachęcać (to encourage (impf.)",
+        "zachęcać (to encourage)"
+      ]
+    },
+    {
+      "polish": "Ostatnia książka była pełna niesamowitych przygód",
+      "english": "The last book was full of amazing adventures",
+      "verbs": [
+        "być (to be)"
+      ]
+    },
+    {
+      "polish": "To zimne piwo jest naprawdę orzeźwiające w ten upalny dzień",
+      "english": "This cold beer is really refreshing on this hot day",
+      "verbs": [
+        "być (to be)"
+      ]
+    },
+    {
+      "polish": "W upalny dzień marzę o szklance chłodnej wody",
+      "english": "On a hot day, I dream of a glass of cool water",
+      "verbs": [
+        "marzyć (to dream)"
+      ]
+    },
+    {
+      "polish": "Siedziała w ogrodzie, ciesząc się ciszą i słońcem",
+      "english": "She sat in the garden, enjoying the silence and the sun",
+      "verbs": [
+        "siedzieć (to sit)",
+        "cieszyć się (to enjoy)"
+      ]
+    },
+    {
+      "polish": "Polowanie na nasz wymarzony dom trwało prawie rok",
+      "english": "Hunting for our dream home took almost a year",
+      "verbs": [
+        "trwać (to last/continue)",
+        "polować (to hunt)"
+      ]
+    },
+    {
+      "polish": "Pada deszcz na zewnątrz",
+      "english": "It's raining outside",
+      "verbs": [
+        "padać (to fall/rain)"
+      ]
+    },
+    {
+      "polish": "Wazon jest na stole",
+      "english": "The vase is on the table",
+      "verbs": [
+        "być (to be)"
+      ]
+    },
+    {
+      "polish": "Utopiłem telefon w jeziorze",
+      "english": "I drowned my phone in the lake",
+      "verbs": [
+        "utopić (to drown something/someone)",
+        "utopić (to drown)"
+      ]
+    },
+    {
+      "polish": "Innym razem potrafi lać przez cały urlop",
+      "english": "Another time it can pour for the whole vacation",
+      "verbs": [
+        "potrafić (to be able to)",
+        "lać (to pour/rain)"
+      ]
+    },
+    {
+      "polish": "Nie przepadam za leżeniem na plaży ☹️ (nie przepadać za…)",
+      "english": "I'm not fond of lying on the beach",
+      "verbs": [
+        "przepadać za (to be fond of)"
+      ]
+    },
+    {
+      "polish": "Mogę sobie pozbierać piękne muszelki",
+      "english": "I can collect beautiful shells",
+      "verbs": [
+        "móc (to be able to)",
+        "pozbierać (to collect)"
+      ]
+    },
+    {
+      "polish": "Jesienią ptaki odlatują do ciepłych krajów",
+      "english": "In autumn, birds fly away to warm countries",
+      "verbs": [
+        "odlatywać (to fly away,depart)"
+      ]
+    },
+    {
+      "polish": "Musiałem się schować przed deszczem",
+      "english": "I had to hide from the rain",
+      "verbs": [
+        "musieć (to have to)",
+        "schować się (to hide)"
+      ]
+    },
+    {
+      "polish": "Czekamy, aż deszcz wreszcie przestanie padać",
+      "english": "We are waiting for the rain to finally stop",
+      "verbs": [
+        "czekać (to wait)",
+        "przestać (to stop)",
+        "padać (to rain)"
+      ]
+    },
+    {
+      "polish": "Zimą wieczory robią się coraz chłodniejsze",
+      "english": "In winter, the evenings get colder and colder",
+      "verbs": [
+        "robić się (to become)"
+      ]
+    },
+    {
+      "polish": "Jestem nad jeziorem",
+      "english": "I am by the lake",
+      "verbs": [
+        "nad/by the lake (instrumental)",
+        "być (to be)"
+      ]
+    },
+    {
+      "polish": "Jaki piękny poranek!",
+      "english": "What a beautiful morning!",
+      "verbs": [
+        "być (to be)"
+      ]
+    },
+    {
+      "polish": "Król Henryk VIII lubił polować",
+      "english": "King Henry VIII liked to hunt",
+      "verbs": [
+        "lubić (to like)",
+        "polować (to hunt)"
+      ]
+    },
+    {
+      "polish": "Ten pies jest zupełnie szalony!",
+      "english": "This dog is completely crazy!",
+      "verbs": [
+        "być (to be)"
+      ]
+    },
+    {
+      "polish": "Wiatr przewrócił moje puste wiadro",
+      "english": "The wind knocked over my empty bucket",
+      "verbs": [
+        "przewrócić (to knock over/tip over)"
+      ]
+    },
+    {
+      "polish": "W parku jest mały staw",
+      "english": "There is a small pond in the park",
+      "verbs": [
+        "być (to be)"
+      ]
+    },
+    {
+      "polish": "Jak myślisz, czy będzie jutro padać?",
+      "english": "Do you think it will rain tomorrow?",
+      "verbs": [
+        "myśleć (to think)",
+        "być (to be)",
+        "padać (to fall/rain)"
+      ]
+    },
+    {
+      "polish": "Sądzę, że Tatry są niesamowite!",
+      "english": "I think the Tatras are amazing!",
+      "verbs": [
+        "sądzić (to judge/think)",
+        "być (to be)"
+      ]
+    },
+    {
+      "polish": "Słyszałem, że w Polsce jest teraz bardzo zimno",
+      "english": "I heard that it's very cold in Poland now",
+      "verbs": [
+        "słyszeć (to hear)",
+        "być (to be)"
+      ]
+    },
+    {
+      "polish": "Moje truskawki są już czerwzone i dojrzałe - muszę je zebrać",
+      "english": "My strawberries are already red and ripe - I have to pick them",
+      "verbs": [
+        "być (to be)",
+        "musieć (to have to/must)",
+        "zebrać (to pick/collect)"
+      ]
+    },
+    {
+      "polish": "Ta organizacja zbiera pieniądze na bezdomne psy i koty",
+      "english": "This organization collects money for homeless dogs and cats",
+      "verbs": [
+        "zbierać (to collect)"
+      ]
+    },
+    {
+      "polish": "Ten zapach kojarzy mi się z domem (zapach = 🐽) (kojarzyć się = to associate, ring a bell)",
+      "english": "This smell reminds me of home",
+      "verbs": [
+        "kojarzyć się (to associate/remind)"
+      ]
+    },
+    {
+      "polish": "Dynie są bardzo popularne na Halloween",
+      "english": "Pumpkins are very popular on Halloween",
+      "verbs": [
+        "być (to be)"
+      ]
+    }
+  ]
+}

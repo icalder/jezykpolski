@@ -1,0 +1,57 @@
+{
+  "title": "Work Practice",
+  "sentences": [
+    {
+      "polish": "Zarządzanie czasem jest bardzo ważne",
+      "english": "Time management is very important",
+      "verbs": [
+        "być (to be)"
+      ]
+    },
+    {
+      "polish": "Ten system jest łatwy w zarządzaniu",
+      "english": "This system is easy to manage",
+      "verbs": [
+        "być (to be)"
+      ]
+    },
+    {
+      "polish": "Muszę zgłosić ten problem",
+      "english": "I have to report this problem",
+      "verbs": [
+        "musieć (to have to/must)",
+        "zgłosić (to report)"
+      ]
+    },
+    {
+      "polish": "Codziennie spełniam swoje obowiązki w pracy",
+      "english": "Every day I fulfill my duties at work",
+      "verbs": [
+        "spełniać (to fulfill)"
+      ]
+    },
+    {
+      "polish": "Jutro rano dogadam szczegóły umowy z klientem",
+      "english": "Tomorrow morning I'll settle the details of the contract with the client",
+      "verbs": [
+        "dogadać się (to agree, come to terms)",
+        "dogadać się (to agree/come to terms)"
+      ]
+    },
+    {
+      "polish": "Muszę z nim pogadać o nowym projekcie",
+      "english": "I need to talk to him about the new project",
+      "verbs": [
+        "musieć (to have to/must)",
+        "pogadać (to talk)"
+      ]
+    },
+    {
+      "polish": "W zasadzie skończyliśmy projekt",
+      "english": "Basically, we've finished the project",
+      "verbs": [
+        "skończyć (to finish)"
+      ]
+    }
+  ]
+}

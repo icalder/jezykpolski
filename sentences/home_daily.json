@@ -1,0 +1,380 @@
+{
+  "title": "Home Daily Practice",
+  "sentences": [
+    {
+      "polish": "Wysypanie mąki było wypadkiem",
+      "english": "Spilling the flour was an accident",
+      "verbs": [
+        "wysypać (to spill)",
+        "być (to be)"
+      ]
+    },
+    {
+      "polish": "Złamane krzesło jest w kącie",
+      "english": "The broken chair is in the corner",
+      "verbs": [
+        "być (to be)"
+      ]
+    },
+    {
+      "polish": "Muszę zabrać dzieci ze szkoły o trzeciej",
+      "english": "I must pick up the children from school at three",
+      "verbs": [
+        "musieć (to have to/must)",
+        "zabrać (to take/pick up)"
+      ]
+    },
+    {
+      "polish": "Wolę herbatę niż kawę",
+      "english": "I prefer tea over coffee",
+      "verbs": [
+        "wolić (to prefer)"
+      ]
+    },
+    {
+      "polish": "Lubię zarówno kawę, jak i herbatę",
+      "english": "I like both coffee and tea",
+      "verbs": [
+        "lubić (to like)"
+      ]
+    },
+    {
+      "polish": "Moja sypialnia jest przytulna",
+      "english": "My bedroom is cozy",
+      "verbs": [
+        "być (to be)"
+      ]
+    },
+    {
+      "polish": "Technik szybko znalazł usterkę w mojej pralce",
+      "english": "The technician quickly found the fault in my washing machine",
+      "verbs": [
+        "znaleźć (to find)"
+      ]
+    },
+    {
+      "polish": "Może umówimy się na kawę?",
+      "english": "Maybe we'll meet for coffee?",
+      "verbs": [
+        "umówić się (to meet/arrange)"
+      ]
+    },
+    {
+      "polish": "Ubrałam dziś koszulę i spodnie",
+      "english": "I put on a shirt and trousers today",
+      "verbs": [
+        "ubierać (to dress/put on)"
+      ]
+    },
+    {
+      "polish": "Ola ma malutką córeczkę i często ubiera ją w kolorowe sukienki",
+      "english": "Ola has a tiny daughter and often dresses her in colorful dresses",
+      "verbs": [
+        "mieć (to have)",
+        "ubierać (to dress/put on)"
+      ]
+    },
+    {
+      "polish": "Proszę rozebrać się od pasa w górę",
+      "english": "Please undress from the waist up",
+      "verbs": [
+        "rozebrać się (to undress)"
+      ]
+    },
+    {
+      "polish": "Przebieramy się w piżamę",
+      "english": "We are changing into pajamas",
+      "verbs": [
+        "przebierać się (to change clothes)"
+      ]
+    },
+    {
+      "polish": "Muszę odebrać dziecko ze szkoły",
+      "english": "I have to pick up the child from school",
+      "verbs": [
+        "musieć (to have to/must)",
+        "odebrać (to pick up/receive)"
+      ]
+    },
+    {
+      "polish": "Obierz ziemniaki, proszę",
+      "english": "Please peel the potatoes",
+      "verbs": [
+        "obierać (to peel)"
+      ]
+    },
+    {
+      "polish": "Ja nigdy nie obieram jabłek",
+      "english": "I never peel apples",
+      "verbs": [
+        "obierać (to peel)"
+      ]
+    },
+    {
+      "polish": "W soboty kładę się spać trochę później niż w tygodniu",
+      "english": "On Saturdays, I go to bed a bit later than during the week",
+      "verbs": [
+        "kłaść się spać (to go to bed)"
+      ]
+    },
+    {
+      "polish": "Posprzątam dom i zrobię pranie",
+      "english": "I'll clean the house and do the laundry",
+      "verbs": [
+        "posprzątać (to clean up)",
+        "zrobić (to do/make)"
+      ]
+    },
+    {
+      "polish": "Wieczorem ugotuję coś prostego",
+      "english": "In the evening, I'll cook something simple",
+      "verbs": [
+        "ugotować (to cook)"
+      ]
+    },
+    {
+      "polish": "Wieczorem będę gotować coś prostego",
+      "english": "In the evening, I'll be cooking something simple",
+      "verbs": [
+        "gotować (to cook)"
+      ]
+    },
+    {
+      "polish": "Mieszkałam blisko uczelni",
+      "english": "I lived near the university",
+      "verbs": [
+        "mieszkać (to live)"
+      ]
+    },
+    {
+      "polish": "Gdzie dokładnie mieszkałeś?",
+      "english": "Where exactly did you live?",
+      "verbs": [
+        "mieszkać (to live)"
+      ]
+    },
+    {
+      "polish": "Czy on kiedykolwiek mieszkał w innym mieście?",
+      "english": "Has he ever lived in another city?",
+      "verbs": [
+        "mieszkać (to live)"
+      ]
+    },
+    {
+      "polish": "Mieszkaliśmy w tej samej dzielnicy",
+      "english": "We lived in the same neighborhood",
+      "verbs": [
+        "mieszkać (to live)"
+      ]
+    },
+    {
+      "polish": "Oszczędzam na własne mieszkanie",
+      "english": "I'm saving for my own apartment",
+      "verbs": [
+        "oszczędzać (to save)"
+      ]
+    },
+    {
+      "polish": "Ale mieszkacie na zadupiu! + dupa)",
+      "english": "But you live in the middle of nowhere!",
+      "verbs": [
+        "za (behind"
+      ]
+    },
+    {
+      "polish": "Mieszkacie w chlewie, czy po prostu nie sprzątacie?",
+      "english": "Do you live in a pigsty, or do you just not la clean?",
+      "verbs": [
+        "mieszkać (to live)",
+        "sprzątać (to clean)"
+      ]
+    },
+    {
+      "polish": "Poproszę jednego obwarzanka z solą",
+      "english": "I'd like one salted obwarzanek, please",
+      "verbs": [
+        "poprosić (to ask for)"
+      ]
+    },
+    {
+      "polish": "Włożyłem książkę do torby",
+      "english": "I put the book in the bag",
+      "verbs": [
+        "włożyć (to put in)"
+      ]
+    },
+    {
+      "polish": "Musisz wsypać kawę do kubka",
+      "english": "You have to pour the coffee into the mug",
+      "verbs": [
+        "musieć (to have to)",
+        "wsypać (to pour in)"
+      ]
+    },
+    {
+      "polish": "Wsyp proszek do prania",
+      "english": "Pour in the washing powder",
+      "verbs": [
+        "wsypać (to pour in)"
+      ]
+    },
+    {
+      "polish": "Prać w pralce",
+      "english": "To wash in a washing machine",
+      "verbs": [
+        "prać (to wash)"
+      ]
+    },
+    {
+      "polish": "Pralka teraz wiruje",
+      "english": "The washing machine is spinning now",
+      "verbs": [
+        "wirować (to spin)"
+      ]
+    },
+    {
+      "polish": "Włożyłem ubrania do pralki, a potem je wyjąłem",
+      "english": "I put the clothes in the washing machine, and then I took them out",
+      "verbs": [
+        "włożyć (to put in)",
+        "wyjąć (to take out)"
+      ]
+    },
+    {
+      "polish": "Powiesiłem pranie na sznurku",
+      "english": "I hung the laundry on the line",
+      "verbs": [
+        "powiesić (to hang)"
+      ]
+    },
+    {
+      "polish": "Słońce wysuszyło ubrania",
+      "english": "The sun dried the clothes",
+      "verbs": [
+        "wysuszyć (to dry)"
+      ]
+    },
+    {
+      "polish": "Złożyłem suche ubrania",
+      "english": "I folded the dry clothes",
+      "verbs": [
+        "złożyć (to fold)"
+      ]
+    },
+    {
+      "polish": "Schowałem ubrania do szafy",
+      "english": "I put the clothes away in the wardrobe",
+      "verbs": [
+        "schować (to put away)"
+      ]
+    },
+    {
+      "polish": "Wyprałem ubrania, a potem je powiesiłem na sznurku. Kiedy wyschły, złożyłem je i schowałem do szafy.",
+      "english": "I washed the clothes and then hung them on the line. When they dried, I folded them and put them away in the wardrobe.",
+      "verbs": [
+        "wyprać (to wash)",
+        "powiesić (to hang)",
+        "wyschnąć (to dry)",
+        "złożyć (to fold)",
+        "schować (to put away)"
+      ]
+    },
+    {
+      "polish": "Chcę kupić taką sukienkę",
+      "english": "I want to buy such a dress",
+      "verbs": [
+        "chcieć (to want)",
+        "kupić (to buy)"
+      ]
+    },
+    {
+      "polish": "Dostaniesz możliwość wyboru koloru",
+      "english": "You will have the opportunity to choose the color",
+      "verbs": [
+        "dostać (to get/receive)",
+        "wybrać (to choose)"
+      ]
+    },
+    {
+      "polish": "Ona zmieniła sukienkę",
+      "english": "She changed her dress",
+      "verbs": [
+        "zmienić (to change)"
+      ]
+    },
+    {
+      "polish": "Narzekałem na zimną wodę pod prysznicem",
+      "english": "I complained about the cold water in the shower",
+      "verbs": [
+        "narzekać (to complain)"
+      ]
+    },
+    {
+      "polish": "Zabawka jest w pudełku",
+      "english": "The toy is in the box",
+      "verbs": [
+        "być (to be)"
+      ]
+    },
+    {
+      "polish": "Pokrój warzywa w kostkę",
+      "english": "Cut the vegetables into cubes",
+      "verbs": [
+        "pokroić (to cut p.)",
+        "pokroić (to cut)"
+      ]
+    },
+    {
+      "polish": "Jutro na śniadanie zjem świeżego pączka (pączek = delicious Polish filled doughnut)",
+      "english": "Tomorrow for breakfast I'll eat a fresh doughnut",
+      "verbs": [
+        "jeść (to eat)"
+      ]
+    },
+    {
+      "polish": "Ta drożdżówka jest bardzo smaczna",
+      "english": "This sweet roll is very tasty",
+      "verbs": [
+        "być (to be)"
+      ]
+    },
+    {
+      "polish": "Powierzchnia stołu jest brudna",
+      "english": "The surface of the table is dirty",
+      "verbs": [
+        "być (to be)"
+      ]
+    },
+    {
+      "polish": "Zawsze zapominam o kluczach",
+      "english": "I always forget the keys",
+      "verbs": [
+        "zapomnieć (to forget)"
+      ]
+    },
+    {
+      "polish": "Po kolacji należy umyć brudne naczynia",
+      "english": "After dinner, the dirty dishes should be washed",
+      "verbs": [
+        "należeć (to be necessary)",
+        "umyć (to wash)"
+      ]
+    },
+    {
+      "polish": "Po zmywaniu należy dokładnie powycierać wszystkie naczynia",
+      "english": "After washing, all dishes should be wiped dry",
+      "verbs": [
+        "należeć (to be necessary)",
+        "powycierać (to wipe)"
+      ]
+    },
+    {
+      "polish": "O tej porze roku należy pić dużo gorącej herbaty",
+      "english": "At this time of year, one should drink plenty of hot tea",
+      "verbs": [
+        "należeć (to be necessary)",
+        "pić (to drink)"
+      ]
+    }
+  ]
+}

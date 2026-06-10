@@ -1,0 +1,215 @@
+{
+  "title": "Travel Transport Practice",
+  "sentences": [
+    {
+      "polish": "Kurier rozwozi paczki w całym mieście.",
+      "english": "The courier delivers packages all over the city.",
+      "verbs": [
+        "rozwozić (to deliver)"
+      ]
+    },
+    {
+      "polish": "Musimy załadować bagaże do samochodu.",
+      "english": "We have to load the luggage into the car.",
+      "verbs": [
+        "musieć (to have to)",
+        "załadować (to load)"
+      ]
+    },
+    {
+      "polish": "Zdążyliśmy na pociąg",
+
+      "english": "We made it to the train",
+      "verbs": [
+        "zdążyć (to make it)"
+      ]
+    },
+    {
+      "polish": "Małe samoloty nie mogą lądować we mgle (inst. of mgła)",
+      "english": "Small planes cannot land in the fog",
+      "verbs": [
+        "móc (to be able to)",
+        "lądować (to land)"
+      ]
+    },
+    {
+      "polish": "Udał się nad jezioro",
+      "english": "He went to the lake",
+      "verbs": [
+        "motion (accusative)",
+        "udać się (to go/proceed)"
+      ]
+    },
+    {
+      "polish": "Otrzymałem e-mail z potwierdzeniem rezerwacji",
+      "english": "I received an email with the booking confirmation",
+      "verbs": [
+        "otrzymać (to receive)"
+      ]
+    },
+    {
+      "polish": "Czy możesz wziąć ten list na pocztę?",
+      "english": "Can you take this letter to the post office?",
+      "verbs": [
+        "móc (to be able to)",
+        "wziąć (to take)"
+      ]
+    },
+    {
+      "polish": "Przyzwyczaiła się do nowego domu",
+      "english": "She got used to the new house",
+      "verbs": [
+        "przyzwyczaić się (to get used to)"
+      ]
+    },
+    {
+      "polish": "Lubię podróżować po wschodniej części kraju",
+      "english": "I like traveling in the eastern part of the country",
+      "verbs": [
+        "lubić (to like)",
+        "podróżować (to travel)"
+      ]
+    },
+    {
+      "polish": "Przyszedłem do domu",
+      "english": "I came home",
+      "verbs": [
+        "przyjść (to come/arrive)"
+      ]
+    },
+    {
+      "polish": "Byłem w Krakowie w zeszłym roku",
+      "english": "I was in Krakow last year",
+      "verbs": [
+        "być (to be)"
+      ]
+    },
+    {
+      "polish": "Ona pochodzi z Kanady",
+      "english": "She is from Canada",
+      "verbs": [
+        "pochodzić (to come from)"
+      ]
+    },
+    {
+      "polish": "Chciałbym pojechać pociągiem, raczej wcześnie rano",
+      "english": "I'd like to go by train, rather early in the morning",
+      "verbs": [
+        "chcieć (to want)",
+        "pojechać (to go by vehicle)"
+      ]
+    },
+    {
+      "polish": "Jezioro jest bardzo głębokie",
+      "english": "The lake is very deep",
+      "verbs": [
+        "być (to be)"
+      ]
+    },
+    {
+      "polish": "Chcesz iść do kina czy zostać w domu - Jak uważasz? (opinion/judgement/view)",
+      "english": "Do you want to go to the cinema or stay home - What do you think?",
+      "verbs": [
+        "chcieć (to want)",
+        "iść (to go)",
+        "zostać (to stay)",
+        "uważać (to think/consider)"
+      ]
+    },
+    {
+      "polish": "Dokąd się wybierasz?",
+      "english": "Where are you heading?",
+      "verbs": [
+        "wybierać się (to set out/head to)"
+      ]
+    },
+    {
+      "polish": "W końcu wybraliśmy się na weekend do Warszawy",
+      "english": "In the end, we went to Warsaw for the weekend",
+      "verbs": [
+        "wybrać się (to set out/head to)"
+      ]
+    },
+    {
+      "polish": "Po mszy wracamy do domu i jemy obiad",
+      "english": "After mass, we return home and eat lunch",
+      "verbs": [
+        "wracać (to return)",
+        "jeść (to eat)"
+      ]
+    },
+    {
+      "polish": "W październiku zeszłego roku byłem na wakacjach w Krakowie",
+      "english": "Last October, I was on holiday in Krakow",
+      "verbs": [
+        "być (to be)"
+      ]
+    },
+    {
+      "polish": "Pociąg stoi przy peronie",
+      "english": "The train is at the platform",
+      "verbs": [
+        "stać (to stand)"
+      ]
+    },
+    {
+      "polish": "Podróż zajmie tylko czterdzieści minut (zająć pf occupy/take up)",
+      "english": "The journey will take only forty minutes",
+      "verbs": [
+        "zająć (to take/occupy)"
+      ]
+    },
+    {
+      "polish": "Przed wejściem do domu, należy zdjąć buty",
+      "english": "Before entering the house, one should take off their shoes",
+      "verbs": [
+        "należeć (to be necessary)",
+        "zdjąć (to take off)"
+      ]
+    },
+    {
+      "polish": "Przeprowadziłem się do Gloucester dwadzieścia lat temu",
+      "english": "I moved to Gloucester twenty years ago",
+      "verbs": [
+        "przeprowadzić się (to move)"
+      ]
+    },
+    {
+      "polish": "Wyczekuję na wakacje",
+      "english": "I'm looking forward to the holidays",
+      "verbs": [
+        "wyczekiwać (to look forward to/await)"
+      ]
+    },
+    {
+      "polish": "Szedł drogą, wesoło machając ręką",
+      "english": "He walked along the road, waving his hand cheerfully",
+      "verbs": [
+        "iść (to walk)",
+        "machać (to wave)"
+      ]
+    },
+    {
+      "polish": "Michał jechał bardzo szybko samochodem i policja zabrała mu prawo jazdy na trzy miesiące",
+      "english": "Michal was driving very fast and the police took away his driver's license for three months",
+      "verbs": [
+        "jechać (to go/drive)",
+        "zabrać (to take away)"
+      ]
+    },
+    {
+      "polish": "Mogę pożyczyć ci mój samochód, pod warunkiem że go oddasz dziś wieczorem",
+      "english": "I can lend you my car, provided that you return it tonight",
+      "verbs": [
+        "móc (to be able to)",
+        "pożyczyć (to lend)",
+        "oddać (to return)"
+      ]
+    },
+    {
+      "polish": "Szerokiej drogi!",
+      "english": "Safe travels!",
+      "verbs": []
+    }
+  ]
+}

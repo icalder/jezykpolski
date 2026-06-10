@@ -1,0 +1,55 @@
+{
+  "title": "Health Practice",
+  "sentences": [
+    {
+      "polish": "Mam ranę na palcu",
+      "english": "I have a cut on my finger",
+      "verbs": [
+        "mieć (to have)"
+      ]
+    },
+    {
+      "polish": "Czuję się dzisiaj słabo",
+      "english": "I feel weak today",
+      "verbs": [
+        "czuć się (to feel)"
+      ]
+    },
+    {
+      "polish": "Oddychaj głęboko",
+      "english": "Breathe deeply",
+      "verbs": [
+        "oddychać (to breathe)"
+      ]
+    },
+    {
+      "polish": "Moja kurtka jest całkowicie przemoczona",
+      "english": "My jacket is completely soaked",
+      "verbs": [
+        "być (to be)"
+      ]
+    },
+    {
+      "polish": "Mój tata jest wściekły",
+      "english": "My dad is furious",
+      "verbs": [
+        "być (to be)"
+      ]
+    },
+    {
+      "polish": "On nagle pobladł",
+      "english": "He suddenly turned pale",
+      "verbs": [
+        "pobladnąć (to turn pale)"
+      ]
+    },
+    {
+      "polish": "Muszę zmienić swoje złe nawyki (NB swoje = moje here)",
+      "english": "I have to change my bad habits",
+      "verbs": [
+        "musieć (to have to/must)",
+        "zmienić (to change)"
+      ]
+    }
+  ]
+}

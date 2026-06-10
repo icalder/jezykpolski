@@ -26,11 +26,35 @@
 
         .header {
             display: flex;
+            flex-direction: column;
             align-items: center;
             justify-content: center;
             gap: 15px;
             margin-bottom: 20px;
         }
+
+        .controls {
+            display: flex;
+            align-items: center;
+            gap: 15px;
+        }
+
+        #category-select {
+            padding: 8px 12px;
+            border-radius: 6px;
+            border: 1px solid #cbd5e0;
+            background-color: white;
+            font-family: inherit;
+            color: #2d3748;
+            cursor: pointer;
+            outline: none;
+            transition: border-color 0.2s;
+        }
+
+        #category-select:focus {
+            border-color: #4a5568;
+        }
+
 
         #refresh-btn {
             background: none;
@@ -117,36 +141,107 @@
 
 <body>
     <div class="header">
-        <h1 id="page-title">Polish Practice</h1>
-        <button id="refresh-btn" title="Reset Cards">
-            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-                <path d="M3 12a9 9 0 1 0 9-9 9.75 9.75 0 0 0-6.74 2.74L3 8"></path>
-                <path d="M3 3v5h5"></path>
-            </svg>
-        </button>
+        <div class="controls">
+            <h1 id="page-title">Polish Practice</h1>
+            <select id="category-select">
+                <option value="all">All Categories</option>
+                <option value="general">General</option>
+                <option value="travel_transport">Travel & Transport</option>
+                <option value="home_daily">Home & Daily Life</option>
+                <option value="education">Education</option>
+                <option value="nature">Nature & Environment</option>
+                <option value="work">Work & Business</option>
+                <option value="tech_science">Technology & Science</option>
+                <option value="health">Health & Body</option>
+                <option value="family">Family & Social</option>
+            </select>
+            <button id="refresh-btn" title="Reset Cards">
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                    <path d="M3 12a9 9 0 1 0 9-9 9.75 9.75 0 0 0-6.74 2.74L3 8"></path>
+                    <path d="M3 3v5h5"></path>
+                </svg>
+            </button>
+        </div>
     </div>
     <div class="hint">Tap a sentence to reveal the translation</div>
     <div class="container" id="sentence-container"></div>
 
     <script>
+        const CATEGORIES = {
+            all: ['general', 'travel_transport', 'home_daily', 'education', 'nature', 'work', 'tech_science', 'health', 'family'],
+            general: ['general'],
+            travel_transport: ['travel_transport'],
+            home_daily: ['home_daily'],
+            education: ['education'],
+            nature: ['nature'],
+            work: ['work'],
+            tech_science: ['tech_science'],
+            health: ['health'],
+            family: ['family']
+        };
+
+        function shuffle(array) {
+            for (let i = array.length - 1; i > 0; i--) {
+                const j = Math.floor(Math.random() * (i + 1));
+                [array[i], array[j]] = [array[j], array[i]];
+            }
+            return array;
+        }
+
         async function loadSentences() {
             const container = document.getElementById('sentence-container');
             const titleEl = document.getElementById('page-title');
+            const categorySelect = document.getElementById('category-select');
             
             const urlParams = new URLSearchParams(window.location.search);
-            const dataFile = urlParams.get('file') || 'sentences.json';
+            const dataFile = urlParams.get('file');
 
             try {
-                const response = await fetch(dataFile);
-                if (!response.ok) throw new Error(`Could not load ${dataFile}`);
-                
-                const data = await response.json();
-                
-                if (data.title) {
-                    titleEl.textContent = data.title;
+                let allSentences = [];
+                let finalTitle = "Polish Practice";
+
+                if (dataFile) {
+                    // Handle legacy/specific file query parameter
+                    const response = await fetch(dataFile);
+                    if (!response.ok) throw new Error(`Could not load ${dataFile}`);
+                    const data = await response.json();
+                    allSentences = data.sentences;
+                    finalTitle = data.title || finalTitle;
+                } else {
+                    // Use the category selector
+                    const selectedCat = categorySelect.value;
+                    const filesToLoad = CATEGORIES[selectedCat] || CATEGORIES.all;
+                    
+                    const fetchPromises = filesToLoad.map(async (cat) => {
+                        const response = await fetch(`sentences/${cat}.json`);
+                        if (!response.ok) {
+                            console.warn(`Could not load category ${cat}`);
+                            return { sentences: [] };
+                        }
+                        return response.json();
+                    });
+
+                    const results = await Promise.all(fetchPromises);
+                    results.forEach(data => {
+                        if (data.sentences) {
+                            allSentences = allSentences.concat(data.sentences);
+                        }
+                    });
+
+                    finalTitle = selectedCat === 'all' ? "All Polish Practice" : 
+                                 categorySelect.options[categorySelect.selectedIndex].text;
                 }
 
-                container.innerHTML = data.sentences.map(s => {
+                titleEl.textContent = finalTitle;
+                shuffle(allSentences);
+                container.innerHTML = '';
+
+                if (allSentences.length === 0) {
+                    container.innerHTML = '<p style="text-align: center; color: #718096;">No sentences found for this category.</p>';
+                    return;
+                }
+
+                container.innerHTML = allSentences.map(s => {
                     const verbsHtml = s.verbs.map((v, i) => (i === 0 ? `<span class="verb-line">${v}</span>` : `<br><span class="verb-line">${v}</span>`)).join('');
                     return `
                         <div class="sentence-card">
@@ -241,6 +336,7 @@
 
         loadSentences();
 
+        document.getElementById('category-select').addEventListener('change', loadSentences);
         document.getElementById('refresh-btn').addEventListener('click', loadSentences);
     </script>
 </body>
