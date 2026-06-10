@@ -36,7 +36,6 @@
       "polish": "Udał się nad jezioro",
       "english": "He went to the lake",
       "verbs": [
-        "motion (accusative)",
         "udać się (to go/proceed)"
       ]
     },
@@ -153,7 +152,7 @@
       ]
     },
     {
-      "polish": "Podróż zajmie tylko czterdzieści minut (zająć pf occupy/take up)",
+      "polish": "Podróż zajmie tylko czterdzieści minut",
       "english": "The journey will take only forty minutes",
       "verbs": [
         "zająć (to take/occupy)"
