@@ -8,7 +8,7 @@
         {
           "infinitive": "wysypać",
           "translation": "to spill",
-          "perfective": false
+          "perfective": true
         },
         {
           "infinitive": "być",
@@ -68,7 +68,7 @@
         {
           "infinitive": "znaleźć",
           "translation": "to find",
-          "perfective": false
+          "perfective": true
         }
       ]
     },
@@ -79,7 +79,7 @@
         {
           "infinitive": "umówić się",
           "translation": "to meet/arrange",
-          "perfective": false
+          "perfective": true
         }
       ]
     },
@@ -88,9 +88,9 @@
       "english": "I put on a shirt and trousers today",
       "verbs": [
         {
-          "infinitive": "ubierać",
+          "infinitive": "ubrać",
           "translation": "to dress/put on",
-          "perfective": false
+          "perfective": true
         }
       ]
     },
@@ -101,7 +101,7 @@
         {
           "infinitive": "rozebrać się",
           "translation": "to undress",
-          "perfective": false
+          "perfective": true
         }
       ]
     },
@@ -128,7 +128,7 @@
         {
           "infinitive": "odebrać",
           "translation": "to pick up/receive",
-          "perfective": false
+          "perfective": true
         }
       ]
     },
@@ -137,9 +137,9 @@
       "english": "Please peel the potatoes",
       "verbs": [
         {
-          "infinitive": "obierać",
+          "infinitive": "obrać",
           "translation": "to peel",
-          "perfective": false
+          "perfective": true
         }
       ]
     },
@@ -172,12 +172,12 @@
         {
           "infinitive": "posprzątać",
           "translation": "to clean up",
-          "perfective": false
+          "perfective": true
         },
         {
           "infinitive": "zrobić",
           "translation": "to do/make",
-          "perfective": false
+          "perfective": true
         }
       ]
     },
@@ -188,7 +188,7 @@
         {
           "infinitive": "ugotować",
           "translation": "to cook",
-          "perfective": false
+          "perfective": true
         }
       ]
     },
@@ -292,7 +292,7 @@
         {
           "infinitive": "poprosić",
           "translation": "to ask for",
-          "perfective": false
+          "perfective": true
         }
       ]
     },
@@ -303,7 +303,7 @@
         {
           "infinitive": "włożyć",
           "translation": "to put in",
-          "perfective": false
+          "perfective": true
         }
       ]
     },
@@ -319,7 +319,7 @@
         {
           "infinitive": "wsypać",
           "translation": "to pour in",
-          "perfective": false
+          "perfective": true
         }
       ]
     },
@@ -330,7 +330,7 @@
         {
           "infinitive": "wsypać",
           "translation": "to pour in",
-          "perfective": false
+          "perfective": true
         }
       ]
     },
@@ -363,12 +363,12 @@
         {
           "infinitive": "włożyć",
           "translation": "to put in",
-          "perfective": false
+          "perfective": true
         },
         {
           "infinitive": "wyjąć",
           "translation": "to take out",
-          "perfective": false
+          "perfective": true
         }
       ]
     },
@@ -379,7 +379,7 @@
         {
           "infinitive": "powiesić",
           "translation": "to hang",
-          "perfective": false
+          "perfective": true
         }
       ]
     },
@@ -390,7 +390,7 @@
         {
           "infinitive": "wysuszyć",
           "translation": "to dry",
-          "perfective": false
+          "perfective": true
         }
       ]
     },
@@ -401,7 +401,7 @@
         {
           "infinitive": "złożyć",
           "translation": "to fold",
-          "perfective": false
+          "perfective": true
         }
       ]
     },
@@ -412,7 +412,7 @@
         {
           "infinitive": "schować",
           "translation": "to put away",
-          "perfective": false
+          "perfective": true
         }
       ]
     },
@@ -423,27 +423,27 @@
         {
           "infinitive": "wyprać",
           "translation": "to wash",
-          "perfective": false
+          "perfective": true
         },
         {
           "infinitive": "powiesić",
           "translation": "to hang",
-          "perfective": false
+          "perfective": true
         },
         {
           "infinitive": "wyschnąć",
           "translation": "to dry",
-          "perfective": false
+          "perfective": true
         },
         {
           "infinitive": "złożyć",
           "translation": "to fold",
-          "perfective": false
+          "perfective": true
         },
         {
           "infinitive": "schować",
           "translation": "to put away",
-          "perfective": false
+          "perfective": true
         }
       ]
     },
@@ -459,7 +459,7 @@
         {
           "infinitive": "kupić",
           "translation": "to buy",
-          "perfective": false
+          "perfective": true
         }
       ]
     },
@@ -470,12 +470,12 @@
         {
           "infinitive": "dostać",
           "translation": "to get/receive",
-          "perfective": false
+          "perfective": true
         },
         {
           "infinitive": "wybrać",
           "translation": "to choose",
-          "perfective": false
+          "perfective": true
         }
       ]
     },
@@ -486,7 +486,7 @@
         {
           "infinitive": "zmienić",
           "translation": "to change",
-          "perfective": false
+          "perfective": true
         }
       ]
     },
@@ -519,7 +519,7 @@
         {
           "infinitive": "pokroić",
           "translation": "to cut",
-          "perfective": false
+          "perfective": true
         }
       ]
     },
@@ -528,9 +528,9 @@
       "english": "Tomorrow for breakfast I'll eat a fresh doughnut",
       "verbs": [
         {
-          "infinitive": "jeść",
+          "infinitive": "zjeść",
           "translation": "to eat",
-          "perfective": false
+          "perfective": true
         }
       ]
     },
@@ -563,7 +563,7 @@
         {
           "infinitive": "zapomnieć",
           "translation": "to forget",
-          "perfective": false
+          "perfective": true
         }
       ]
     },
@@ -579,7 +579,7 @@
         {
           "infinitive": "umyć",
           "translation": "to wash",
-          "perfective": false
+          "perfective": true
         }
       ]
     },
@@ -595,7 +595,7 @@
         {
           "infinitive": "powycierać",
           "translation": "to wipe",
-          "perfective": false
+          "perfective": true
         }
       ]
     },

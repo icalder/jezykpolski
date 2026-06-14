@@ -63,7 +63,7 @@
         {
           "infinitive": "pobladnąć",
           "translation": "to turn pale",
-          "perfective": false
+          "perfective": true
         }
       ]
     },
@@ -79,7 +79,7 @@
         {
           "infinitive": "zmienić",
           "translation": "to change",
-          "perfective": false
+          "perfective": true
         }
       ]
     }

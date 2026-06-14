@@ -30,12 +30,12 @@
         {
           "infinitive": "zostać",
           "translation": "to become/be",
-          "perfective": false
+          "perfective": true
         },
         {
           "infinitive": "wytypować",
           "translation": "to select",
-          "perfective": false
+          "perfective": true
         }
       ]
     },
@@ -46,7 +46,7 @@
         {
           "infinitive": "otrzymać",
           "translation": "to receive",
-          "perfective": false
+          "perfective": true
         }
       ]
     },

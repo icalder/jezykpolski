@@ -35,7 +35,7 @@
         {
           "infinitive": "zgłosić",
           "translation": "to report",
-          "perfective": false
+          "perfective": true
         }
       ]
     },
@@ -57,7 +57,7 @@
         {
           "infinitive": "dogadać się",
           "translation": "to agree/come to terms",
-          "perfective": false
+          "perfective": true
         }
       ]
     },
@@ -73,7 +73,7 @@
         {
           "infinitive": "pogadać",
           "translation": "to talk",
-          "perfective": false
+          "perfective": true
         }
       ]
     },
@@ -84,7 +84,7 @@
         {
           "infinitive": "skończyć",
           "translation": "to finish",
-          "perfective": false
+          "perfective": true
         }
       ]
     },

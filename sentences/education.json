@@ -62,12 +62,12 @@
         {
           "infinitive": "dać radę",
           "translation": "to be able to/manage",
-          "perfective": false
+          "perfective": true
         },
         {
           "infinitive": "zdać",
           "translation": "to pass",
-          "perfective": false
+          "perfective": true
         }
       ]
     },
@@ -116,7 +116,7 @@
         {
           "infinitive": "napisać",
           "translation": "to write",
-          "perfective": false
+          "perfective": true
         }
       ]
     },

@@ -62,7 +62,7 @@
         {
           "infinitive": "dokończyć",
           "translation": "to finish",
-          "perfective": false
+          "perfective": true
         }
       ]
     },
@@ -78,7 +78,7 @@
         {
           "infinitive": "zatrzymać się",
           "translation": "to stop",
-          "perfective": false
+          "perfective": true
         }
       ]
     },
@@ -171,7 +171,7 @@
         {
           "infinitive": "stworzyć",
           "translation": "to create",
-          "perfective": false
+          "perfective": true
         }
       ]
     },
@@ -258,7 +258,7 @@
         {
           "infinitive": "pogadać",
           "translation": "to talk",
-          "perfective": false
+          "perfective": true
         }
       ]
     },
@@ -285,7 +285,7 @@
         {
           "infinitive": "zdać sobie sprawę",
           "translation": "to realize",
-          "perfective": false
+          "perfective": true
         },
         {
           "infinitive": "musieć",
@@ -295,7 +295,7 @@
         {
           "infinitive": "odejść",
           "translation": "to leave",
-          "perfective": false
+          "perfective": true
         }
       ]
     },
@@ -306,12 +306,12 @@
         {
           "infinitive": "zawołać",
           "translation": "to call out",
-          "perfective": false
+          "perfective": true
         },
         {
           "infinitive": "pospieszyć się",
           "translation": "to hurry up",
-          "perfective": false
+          "perfective": true
         }
       ]
     },
@@ -327,7 +327,7 @@
         {
           "infinitive": "dołączyć",
           "translation": "to join",
-          "perfective": false
+          "perfective": true
         }
       ]
     },
@@ -338,7 +338,7 @@
         {
           "infinitive": "popatrzeć",
           "translation": "to look",
-          "perfective": false
+          "perfective": true
         }
       ]
     },
@@ -349,7 +349,7 @@
         {
           "infinitive": "zgodzić się",
           "translation": "to agree",
-          "perfective": false
+          "perfective": true
         }
       ]
     },
@@ -376,7 +376,7 @@
         {
           "infinitive": "wybrać",
           "translation": "to choose",
-          "perfective": false
+          "perfective": true
         }
       ]
     },
@@ -425,7 +425,7 @@
         {
           "infinitive": "stać się",
           "translation": "to happen",
-          "perfective": false
+          "perfective": true
         }
       ]
     },
@@ -436,12 +436,12 @@
         {
           "infinitive": "wspiąć",
           "translation": "to climb p.",
-          "perfective": false
+          "perfective": true
         },
         {
           "infinitive": "wspiąć się",
           "translation": "to climb",
-          "perfective": false
+          "perfective": true
         }
       ]
     },
@@ -506,7 +506,7 @@
         {
           "infinitive": "odepchnąć",
           "translation": "to push away",
-          "perfective": false
+          "perfective": true
         }
       ]
     },
@@ -517,12 +517,12 @@
         {
           "infinitive": "zostać",
           "translation": "to become/be",
-          "perfective": false
+          "perfective": true
         },
         {
           "infinitive": "popchnąć",
           "translation": "to push",
-          "perfective": false
+          "perfective": true
         }
       ]
     },
@@ -533,12 +533,12 @@
         {
           "infinitive": "zostać",
           "translation": "to become/be",
-          "perfective": false
+          "perfective": true
         },
         {
           "infinitive": "popchnąć",
           "translation": "to push",
-          "perfective": false
+          "perfective": true
         }
       ]
     },
@@ -549,7 +549,7 @@
         {
           "infinitive": "wypłynąć",
           "translation": "to set sail",
-          "perfective": false
+          "perfective": true
         }
       ]
     },
@@ -560,7 +560,7 @@
         {
           "infinitive": "wypłynąć",
           "translation": "to surface",
-          "perfective": false
+          "perfective": true
         }
       ]
     },
@@ -576,7 +576,7 @@
         {
           "infinitive": "wydostać się",
           "translation": "to get out",
-          "perfective": false
+          "perfective": true
         }
       ]
     },
@@ -603,7 +603,7 @@
         {
           "infinitive": "zdarzyć się",
           "translation": "to happen",
-          "perfective": false
+          "perfective": true
         }
       ]
     },
@@ -624,7 +624,7 @@
       ]
     },
     {
-      "polish": "Czemu tak póżno?",
+      "polish": "Czemu tak późno?",
       "english": "Why so late?",
       "verbs": [
         {
@@ -668,12 +668,12 @@
         {
           "infinitive": "dać radę",
           "translation": "to be able to/manage",
-          "perfective": false
+          "perfective": true
         },
         {
           "infinitive": "zrobić",
           "translation": "to do/make",
-          "perfective": false
+          "perfective": true
         }
       ]
     },
@@ -744,12 +744,12 @@
         {
           "infinitive": "dać radę",
           "translation": "to be able to/manage",
-          "perfective": false
+          "perfective": true
         },
         {
           "infinitive": "zjeść",
           "translation": "to eat",
-          "perfective": false
+          "perfective": true
         }
       ]
     },
@@ -819,7 +819,7 @@
         {
           "infinitive": "przypomnieć",
           "translation": "to remind",
-          "perfective": false
+          "perfective": true
         }
       ]
     },
@@ -862,7 +862,7 @@
         {
           "infinitive": "zapomnieć",
           "translation": "to forget",
-          "perfective": false
+          "perfective": true
         }
       ]
     },
@@ -873,12 +873,12 @@
         {
           "infinitive": "zapomnieć",
           "translation": "to forget",
-          "perfective": false
+          "perfective": true
         },
         {
           "infinitive": "zabrać",
           "translation": "to take",
-          "perfective": false
+          "perfective": true
         }
       ]
     },
@@ -910,7 +910,7 @@
         {
           "infinitive": "kupić",
           "translation": "to buy",
-          "perfective": false
+          "perfective": true
         },
         {
           "infinitive": "wiedzieć",
@@ -920,7 +920,7 @@
         {
           "infinitive": "wybrać",
           "translation": "to choose",
-          "perfective": false
+          "perfective": true
         }
       ]
     },
@@ -941,7 +941,7 @@
         {
           "infinitive": "zdecydować się",
           "translation": "to decide",
-          "perfective": false
+          "perfective": true
         }
       ]
     },
@@ -952,7 +952,7 @@
         {
           "infinitive": "wybrać",
           "translation": "to choose",
-          "perfective": false
+          "perfective": true
         }
       ]
     },
@@ -1033,7 +1033,7 @@
         {
           "infinitive": "zrobić",
           "translation": "to do/make",
-          "perfective": false
+          "perfective": true
         }
       ]
     },
@@ -1131,7 +1131,7 @@
         {
           "infinitive": "pomóc",
           "translation": "to help",
-          "perfective": false
+          "perfective": true
         }
       ]
     },
@@ -1158,17 +1158,17 @@
         {
           "infinitive": "popełnić",
           "translation": "to commit",
-          "perfective": false
+          "perfective": true
         },
         {
           "infinitive": "obiecać",
           "translation": "to promise",
-          "perfective": false
+          "perfective": true
         },
         {
           "infinitive": "naprawić",
           "translation": "to fix",
-          "perfective": false
+          "perfective": true
         }
       ]
     },
@@ -1179,12 +1179,12 @@
         {
           "infinitive": "udać się",
           "translation": "to succeed/manage",
-          "perfective": false
+          "perfective": true
         },
         {
           "infinitive": "uniknąć",
           "translation": "to avoid",
-          "perfective": false
+          "perfective": true
         }
       ]
     }

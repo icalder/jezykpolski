@@ -177,7 +177,7 @@
         {
           "infinitive": "utopić",
           "translation": "to drown",
-          "perfective": false
+          "perfective": true
         }
       ]
     },
@@ -220,7 +220,7 @@
         {
           "infinitive": "pozbierać",
           "translation": "to collect",
-          "perfective": false
+          "perfective": true
         }
       ]
     },
@@ -247,7 +247,7 @@
         {
           "infinitive": "schować się",
           "translation": "to hide",
-          "perfective": false
+          "perfective": true
         }
       ]
     },
@@ -263,7 +263,7 @@
         {
           "infinitive": "przestać",
           "translation": "to stop",
-          "perfective": false
+          "perfective": true
         },
         {
           "infinitive": "padać",
@@ -339,7 +339,7 @@
         {
           "infinitive": "przewrócić",
           "translation": "to knock over/tip over",
-          "perfective": false
+          "perfective": true
         }
       ]
     },
@@ -424,7 +424,7 @@
         {
           "infinitive": "zebrać",
           "translation": "to pick/collect",
-          "perfective": false
+          "perfective": true
         }
       ]
     },

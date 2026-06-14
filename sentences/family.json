@@ -24,7 +24,7 @@
         {
           "infinitive": "zabrać",
           "translation": "to take/pick up",
-          "perfective": false
+          "perfective": true
         }
       ]
     },
@@ -51,7 +51,7 @@
         {
           "infinitive": "spakować",
           "translation": "to pack",
-          "perfective": false
+          "perfective": true
         }
       ]
     },
@@ -78,7 +78,7 @@
         {
           "infinitive": "zamieszkać",
           "translation": "to live/dwell",
-          "perfective": false
+          "perfective": true
         }
       ]
     },

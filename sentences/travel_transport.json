@@ -24,7 +24,7 @@
         {
           "infinitive": "załadować",
           "translation": "to load",
-          "perfective": false
+          "perfective": true
         }
       ]
     },
@@ -35,7 +35,7 @@
         {
           "infinitive": "zdążyć",
           "translation": "to make it",
-          "perfective": false
+          "perfective": true
         }
       ]
     },
@@ -62,7 +62,7 @@
         {
           "infinitive": "udać się",
           "translation": "to go/proceed",
-          "perfective": false
+          "perfective": true
         }
       ]
     },
@@ -73,7 +73,7 @@
         {
           "infinitive": "otrzymać",
           "translation": "to receive",
-          "perfective": false
+          "perfective": true
         }
       ]
     },
@@ -89,7 +89,7 @@
         {
           "infinitive": "wziąć",
           "translation": "to take",
-          "perfective": false
+          "perfective": true
         }
       ]
     },
@@ -100,7 +100,7 @@
         {
           "infinitive": "przyzwyczaić się",
           "translation": "to get used to",
-          "perfective": false
+          "perfective": true
         }
       ]
     },
@@ -127,7 +127,7 @@
         {
           "infinitive": "przyjść",
           "translation": "to come/arrive",
-          "perfective": false
+          "perfective": true
         }
       ]
     },
@@ -165,7 +165,7 @@
         {
           "infinitive": "pojechać",
           "translation": "to go by vehicle",
-          "perfective": false
+          "perfective": true
         }
       ]
     },
@@ -197,7 +197,7 @@
         {
           "infinitive": "zostać",
           "translation": "to stay",
-          "perfective": false
+          "perfective": true
         },
         {
           "infinitive": "uważać",
@@ -224,7 +224,7 @@
         {
           "infinitive": "wybrać się",
           "translation": "to set out/head to",
-          "perfective": false
+          "perfective": true
         }
       ]
     },
@@ -273,7 +273,7 @@
         {
           "infinitive": "zająć",
           "translation": "to take/occupy",
-          "perfective": false
+          "perfective": true
         }
       ]
     },
@@ -289,7 +289,7 @@
         {
           "infinitive": "zdjąć",
           "translation": "to take off",
-          "perfective": false
+          "perfective": true
         }
       ]
     },
@@ -300,7 +300,7 @@
         {
           "infinitive": "przeprowadzić się",
           "translation": "to move",
-          "perfective": false
+          "perfective": true
         }
       ]
     },
@@ -343,7 +343,7 @@
         {
           "infinitive": "zabrać",
           "translation": "to take away",
-          "perfective": false
+          "perfective": true
         }
       ]
     },
@@ -359,12 +359,12 @@
         {
           "infinitive": "pożyczyć",
           "translation": "to lend",
-          "perfective": false
+          "perfective": true
         },
         {
           "infinitive": "oddać",
           "translation": "to return",
-          "perfective": false
+          "perfective": true
         }
       ]
     },
@@ -396,7 +396,7 @@
         {
           "infinitive": "poznać",
           "translation": "to get to know / to discover",
-          "perfective": false
+          "perfective": true
         }
       ]
     }
