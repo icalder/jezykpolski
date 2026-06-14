@@ -5,204 +5,367 @@
       "polish": "Kurier rozwozi paczki w całym mieście.",
       "english": "The courier delivers packages all over the city.",
       "verbs": [
-        "rozwozić (to deliver)"
+        {
+          "infinitive": "rozwozić",
+          "translation": "to deliver",
+          "perfective": false
+        }
       ]
     },
     {
       "polish": "Musimy załadować bagaże do samochodu.",
       "english": "We have to load the luggage into the car.",
       "verbs": [
-        "musieć (to have to)",
-        "załadować (to load)"
+        {
+          "infinitive": "musieć",
+          "translation": "to have to",
+          "perfective": false
+        },
+        {
+          "infinitive": "załadować",
+          "translation": "to load",
+          "perfective": false
+        }
       ]
     },
     {
       "polish": "Zdążyliśmy na pociąg",
-
       "english": "We made it to the train",
       "verbs": [
-        "zdążyć (to make it)"
+        {
+          "infinitive": "zdążyć",
+          "translation": "to make it",
+          "perfective": false
+        }
       ]
     },
     {
       "polish": "Małe samoloty nie mogą lądować we mgle (inst. of mgła)",
       "english": "Small planes cannot land in the fog",
       "verbs": [
-        "móc (to be able to)",
-        "lądować (to land)"
+        {
+          "infinitive": "móc",
+          "translation": "to be able to",
+          "perfective": false
+        },
+        {
+          "infinitive": "lądować",
+          "translation": "to land",
+          "perfective": false
+        }
       ]
     },
     {
       "polish": "Udał się nad jezioro",
       "english": "He went to the lake",
       "verbs": [
-        "udać się (to go/proceed)"
+        {
+          "infinitive": "udać się",
+          "translation": "to go/proceed",
+          "perfective": false
+        }
       ]
     },
     {
       "polish": "Otrzymałem e-mail z potwierdzeniem rezerwacji",
       "english": "I received an email with the booking confirmation",
       "verbs": [
-        "otrzymać (to receive)"
+        {
+          "infinitive": "otrzymać",
+          "translation": "to receive",
+          "perfective": false
+        }
       ]
     },
     {
       "polish": "Czy możesz wziąć ten list na pocztę?",
       "english": "Can you take this letter to the post office?",
       "verbs": [
-        "móc (to be able to)",
-        "wziąć (to take)"
+        {
+          "infinitive": "móc",
+          "translation": "to be able to",
+          "perfective": false
+        },
+        {
+          "infinitive": "wziąć",
+          "translation": "to take",
+          "perfective": false
+        }
       ]
     },
     {
       "polish": "Przyzwyczaiła się do nowego domu",
       "english": "She got used to the new house",
       "verbs": [
-        "przyzwyczaić się (to get used to)"
+        {
+          "infinitive": "przyzwyczaić się",
+          "translation": "to get used to",
+          "perfective": false
+        }
       ]
     },
     {
       "polish": "Lubię podróżować po wschodniej części kraju",
       "english": "I like traveling in the eastern part of the country",
       "verbs": [
-        "lubić (to like)",
-        "podróżować (to travel)"
+        {
+          "infinitive": "lubić",
+          "translation": "to like",
+          "perfective": false
+        },
+        {
+          "infinitive": "podróżować",
+          "translation": "to travel",
+          "perfective": false
+        }
       ]
     },
     {
       "polish": "Przyszedłem do domu",
       "english": "I came home",
       "verbs": [
-        "przyjść (to come/arrive)"
+        {
+          "infinitive": "przyjść",
+          "translation": "to come/arrive",
+          "perfective": false
+        }
       ]
     },
     {
       "polish": "Byłem w Krakowie w zeszłym roku",
       "english": "I was in Krakow last year",
       "verbs": [
-        "być (to be)"
+        {
+          "infinitive": "być",
+          "translation": "to be",
+          "perfective": false
+        }
       ]
     },
     {
       "polish": "Ona pochodzi z Kanady",
       "english": "She is from Canada",
       "verbs": [
-        "pochodzić (to come from)"
+        {
+          "infinitive": "pochodzić",
+          "translation": "to come from",
+          "perfective": false
+        }
       ]
     },
     {
       "polish": "Chciałbym pojechać pociągiem, raczej wcześnie rano",
       "english": "I'd like to go by train, rather early in the morning",
       "verbs": [
-        "chcieć (to want)",
-        "pojechać (to go by vehicle)"
+        {
+          "infinitive": "chcieć",
+          "translation": "to want",
+          "perfective": false
+        },
+        {
+          "infinitive": "pojechać",
+          "translation": "to go by vehicle",
+          "perfective": false
+        }
       ]
     },
     {
       "polish": "Jezioro jest bardzo głębokie",
       "english": "The lake is very deep",
       "verbs": [
-        "być (to be)"
+        {
+          "infinitive": "być",
+          "translation": "to be",
+          "perfective": false
+        }
       ]
     },
     {
       "polish": "Chcesz iść do kina czy zostać w domu - Jak uważasz? (opinion/judgement/view)",
       "english": "Do you want to go to the cinema or stay home - What do you think?",
       "verbs": [
-        "chcieć (to want)",
-        "iść (to go)",
-        "zostać (to stay)",
-        "uważać (to think/consider)"
+        {
+          "infinitive": "chcieć",
+          "translation": "to want",
+          "perfective": false
+        },
+        {
+          "infinitive": "iść",
+          "translation": "to go",
+          "perfective": false
+        },
+        {
+          "infinitive": "zostać",
+          "translation": "to stay",
+          "perfective": false
+        },
+        {
+          "infinitive": "uważać",
+          "translation": "to think/consider",
+          "perfective": false
+        }
       ]
     },
     {
       "polish": "Dokąd się wybierasz?",
       "english": "Where are you heading?",
       "verbs": [
-        "wybierać się (to set out/head to)"
+        {
+          "infinitive": "wybierać się",
+          "translation": "to set out/head to",
+          "perfective": false
+        }
       ]
     },
     {
       "polish": "W końcu wybraliśmy się na weekend do Warszawy",
       "english": "In the end, we went to Warsaw for the weekend",
       "verbs": [
-        "wybrać się (to set out/head to)"
+        {
+          "infinitive": "wybrać się",
+          "translation": "to set out/head to",
+          "perfective": false
+        }
       ]
     },
     {
       "polish": "Po mszy wracamy do domu i jemy obiad",
       "english": "After mass, we return home and eat lunch",
       "verbs": [
-        "wracać (to return)",
-        "jeść (to eat)"
+        {
+          "infinitive": "wracać",
+          "translation": "to return",
+          "perfective": false
+        },
+        {
+          "infinitive": "jeść",
+          "translation": "to eat",
+          "perfective": false
+        }
       ]
     },
     {
       "polish": "W październiku zeszłego roku byłem na wakacjach w Krakowie",
       "english": "Last October, I was on holiday in Krakow",
       "verbs": [
-        "być (to be)"
+        {
+          "infinitive": "być",
+          "translation": "to be",
+          "perfective": false
+        }
       ]
     },
     {
       "polish": "Pociąg stoi przy peronie",
       "english": "The train is at the platform",
       "verbs": [
-        "stać (to stand)"
+        {
+          "infinitive": "stać",
+          "translation": "to stand",
+          "perfective": false
+        }
       ]
     },
     {
       "polish": "Podróż zajmie tylko czterdzieści minut",
       "english": "The journey will take only forty minutes",
       "verbs": [
-        "zająć (to take/occupy)"
+        {
+          "infinitive": "zająć",
+          "translation": "to take/occupy",
+          "perfective": false
+        }
       ]
     },
     {
       "polish": "Przed wejściem do domu, należy zdjąć buty",
       "english": "Before entering the house, one should take off their shoes",
       "verbs": [
-        "należeć (to be necessary)",
-        "zdjąć (to take off)"
+        {
+          "infinitive": "należeć",
+          "translation": "to be necessary",
+          "perfective": false
+        },
+        {
+          "infinitive": "zdjąć",
+          "translation": "to take off",
+          "perfective": false
+        }
       ]
     },
     {
       "polish": "Przeprowadziłem się do Gloucester dwadzieścia lat temu",
       "english": "I moved to Gloucester twenty years ago",
       "verbs": [
-        "przeprowadzić się (to move)"
+        {
+          "infinitive": "przeprowadzić się",
+          "translation": "to move",
+          "perfective": false
+        }
       ]
     },
     {
       "polish": "Wyczekuję na wakacje",
       "english": "I'm looking forward to the holidays",
       "verbs": [
-        "wyczekiwać (to look forward to/await)"
+        {
+          "infinitive": "wyczekiwać",
+          "translation": "to look forward to/await",
+          "perfective": false
+        }
       ]
     },
     {
       "polish": "Szedł drogą, wesoło machając ręką",
       "english": "He walked along the road, waving his hand cheerfully",
       "verbs": [
-        "iść (to walk)",
-        "machać (to wave)"
+        {
+          "infinitive": "iść",
+          "translation": "to walk",
+          "perfective": false
+        },
+        {
+          "infinitive": "machać",
+          "translation": "to wave",
+          "perfective": false
+        }
       ]
     },
     {
       "polish": "Michał jechał bardzo szybko samochodem i policja zabrała mu prawo jazdy na trzy miesiące",
       "english": "Michal was driving very fast and the police took away his driver's license for three months",
       "verbs": [
-        "jechać (to go/drive)",
-        "zabrać (to take away)"
+        {
+          "infinitive": "jechać",
+          "translation": "to go/drive",
+          "perfective": false
+        },
+        {
+          "infinitive": "zabrać",
+          "translation": "to take away",
+          "perfective": false
+        }
       ]
     },
     {
       "polish": "Mogę pożyczyć ci mój samochód, pod warunkiem że go oddasz dziś wieczorem",
       "english": "I can lend you my car, provided that you return it tonight",
       "verbs": [
-        "móc (to be able to)",
-        "pożyczyć (to lend)",
-        "oddać (to return)"
+        {
+          "infinitive": "móc",
+          "translation": "to be able to",
+          "perfective": false
+        },
+        {
+          "infinitive": "pożyczyć",
+          "translation": "to lend",
+          "perfective": false
+        },
+        {
+          "infinitive": "oddać",
+          "translation": "to return",
+          "perfective": false
+        }
       ]
     },
     {
@@ -214,15 +377,27 @@
       "polish": "Lubię być w ruchu.",
       "english": "I like to be on the move.",
       "verbs": [
-        "lubić (to like)",
-        "być (to be)"
+        {
+          "infinitive": "lubić",
+          "translation": "to like",
+          "perfective": false
+        },
+        {
+          "infinitive": "być",
+          "translation": "to be",
+          "perfective": false
+        }
       ]
     },
     {
       "polish": "Poznałem wiele ciekawych miejsc.",
       "english": "I discovered many interesting places.",
       "verbs": [
-        "poznać (to get to know / to discover)"
+        {
+          "infinitive": "poznać",
+          "translation": "to get to know / to discover",
+          "perfective": false
+        }
       ]
     }
   ]

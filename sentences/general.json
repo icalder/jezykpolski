@@ -5,556 +5,1004 @@
       "polish": "Takie sytuacje rzadko się trafiają.",
       "english": "Such situations rarely occur.",
       "verbs": [
-        "trafiać się (to occur/happen)"
+        {
+          "infinitive": "trafiać się",
+          "translation": "to occur/happen",
+          "perfective": false
+        }
       ]
     },
     {
       "polish": "Najpierw wypiję kawę, a potem pójdę do pracy.",
       "english": "First I will drink coffee, and then I will go to work.",
       "verbs": [
-        "pić (to drink)",
-        "iść (to go)"
+        {
+          "infinitive": "pić",
+          "translation": "to drink",
+          "perfective": false
+        },
+        {
+          "infinitive": "iść",
+          "translation": "to go",
+          "perfective": false
+        }
       ]
     },
     {
       "polish": "Niektóre książki są bardzo nudne.",
       "english": "Some books are very boring.",
       "verbs": [
-        "być (to be)"
+        {
+          "infinitive": "być",
+          "translation": "to be",
+          "perfective": false
+        }
       ]
     },
     {
       "polish": "W czasie deszczu zawsze noszę parasol.",
       "english": "During the rain, I always carry an umbrella.",
       "verbs": [
-        "nosić (to carry/wear)"
+        {
+          "infinitive": "nosić",
+          "translation": "to carry/wear",
+          "perfective": false
+        }
       ]
     },
     {
       "polish": "Musiałbym to dokończyć",
       "english": "I would have to finish this",
       "verbs": [
-        "musieć (to have to/must)",
-        "dokończyć (to finish)"
+        {
+          "infinitive": "musieć",
+          "translation": "to have to/must",
+          "perfective": false
+        },
+        {
+          "infinitive": "dokończyć",
+          "translation": "to finish",
+          "perfective": false
+        }
       ]
     },
     {
       "polish": "Innym razem! Muszę się zatrzymać na dziś wieczór",
       "english": "Another time! I have to stop for tonight",
       "verbs": [
-        "musieć (to have to/must)",
-        "zatrzymać się (to stop)"
+        {
+          "infinitive": "musieć",
+          "translation": "to have to/must",
+          "perfective": false
+        },
+        {
+          "infinitive": "zatrzymać się",
+          "translation": "to stop",
+          "perfective": false
+        }
       ]
     },
     {
       "polish": "Wciąż czekam!",
       "english": "I'm still waiting!",
       "verbs": [
-        "czekać (to wait)"
+        {
+          "infinitive": "czekać",
+          "translation": "to wait",
+          "perfective": false
+        }
       ]
     },
     {
       "polish": "Mieliśmy piękny dzień",
       "english": "We had a beautiful day",
       "verbs": [
-        "mieć (to have)"
+        {
+          "infinitive": "mieć",
+          "translation": "to have",
+          "perfective": false
+        }
       ]
     },
     {
       "polish": "Wydaje się, że jest w porządku!",
       "english": "It seems to be okay!",
       "verbs": [
-        "wydawać się (to seem/appear)"
+        {
+          "infinitive": "wydawać się",
+          "translation": "to seem/appear",
+          "perfective": false
+        }
       ]
     },
     {
       "polish": "Pamięć przywraca uśmiech na jej twarz",
       "english": "Memory brings a smile back to her face",
       "verbs": [
-        "przywracać (to restore/bring back)"
+        {
+          "infinitive": "przywracać",
+          "translation": "to restore/bring back",
+          "perfective": false
+        }
       ]
     },
     {
       "polish": "Mieć coś wspólnego (z kimś/czymś)",
       "english": "To have something in common (with someone/something)",
       "verbs": [
-        "mieć (to have)"
+        {
+          "infinitive": "mieć",
+          "translation": "to have",
+          "perfective": false
+        }
       ]
     },
     {
       "polish": "Każdy artysta ma swój własny styl",
       "english": "Every artist has their own style",
       "verbs": [
-        "mieć (to have)"
+        {
+          "infinitive": "mieć",
+          "translation": "to have",
+          "perfective": false
+        }
       ]
     },
     {
       "polish": "Pokonanie strachu jest pierwszym krokiem do sukcesu",
       "english": "Overcoming fear is the first step to success",
       "verbs": [
-        "być (to be)"
+        {
+          "infinitive": "być",
+          "translation": "to be",
+          "perfective": false
+        }
       ]
     },
     {
       "polish": "On chce stworzyć nowy plan",
       "english": "He wants to create a new plan",
       "verbs": [
-        "chcieć (to want)",
-        "stworzyć (to create)"
+        {
+          "infinitive": "chcieć",
+          "translation": "to want",
+          "perfective": false
+        },
+        {
+          "infinitive": "stworzyć",
+          "translation": "to create",
+          "perfective": false
+        }
       ]
     },
     {
       "polish": "Potrzebuję twojej osobistej opinii",
       "english": "I need your personal opinion",
       "verbs": [
-        "potrzebować (to need)"
+        {
+          "infinitive": "potrzebować",
+          "translation": "to need",
+          "perfective": false
+        }
       ]
     },
     {
       "polish": "Potrzebujemy więcej przestrzeni na narzędzia",
       "english": "We need more space for tools",
       "verbs": [
-        "potrzebować (to need)"
+        {
+          "infinitive": "potrzebować",
+          "translation": "to need",
+          "perfective": false
+        }
       ]
     },
     {
       "polish": "Mówiła i płakała jednocześnie",
       "english": "She spoke and cried at the same time",
       "verbs": [
-        "mówić (to speak)",
-        "płakać (to cry)"
+        {
+          "infinitive": "mówić",
+          "translation": "to speak",
+          "perfective": false
+        },
+        {
+          "infinitive": "płakać",
+          "translation": "to cry",
+          "perfective": false
+        }
       ]
     },
     {
       "polish": "Miłego dalszego dnia!",
       "english": "Have a nice rest of the day!",
       "verbs": [
-        "być (to be)"
+        {
+          "infinitive": "być",
+          "translation": "to be",
+          "perfective": false
+        }
       ]
     },
     {
       "polish": "To rzeczywiście dużo zmian",
       "english": "That's really a lot of changes",
       "verbs": [
-        "być (to be)"
+        {
+          "infinitive": "być",
+          "translation": "to be",
+          "perfective": false
+        }
       ]
     },
     {
       "polish": "Nie widzę powodu, żeby się martwić",
       "english": "I see no reason to worry",
       "verbs": [
-        "widzieć (to see)",
-        "martwić się (to worry)"
+        {
+          "infinitive": "widzieć",
+          "translation": "to see",
+          "perfective": false
+        },
+        {
+          "infinitive": "martwić się",
+          "translation": "to worry",
+          "perfective": false
+        }
       ]
     },
     {
       "polish": "Pogadamy na spokojnie",
       "english": "We'll talk calmly",
       "verbs": [
-        "pogadać (to talk)"
+        {
+          "infinitive": "pogadać",
+          "translation": "to talk",
+          "perfective": false
+        }
       ]
     },
     {
       "polish": "To musi być zbieg okoliczności",
       "english": "It must be a coincidence",
       "verbs": [
-        "musieć (to have to/must)",
-        "być (to be)"
+        {
+          "infinitive": "musieć",
+          "translation": "to have to/must",
+          "perfective": false
+        },
+        {
+          "infinitive": "być",
+          "translation": "to be",
+          "perfective": false
+        }
       ]
     },
     {
       "polish": "Zdał sobie sprawę, że musi odejść",
       "english": "He realized that he had to leave",
       "verbs": [
-        "zdać sobie sprawę (to realize)",
-        "musieć (to have to/must)",
-        "odejść (to leave)"
+        {
+          "infinitive": "zdać sobie sprawę",
+          "translation": "to realize",
+          "perfective": false
+        },
+        {
+          "infinitive": "musieć",
+          "translation": "to have to/must",
+          "perfective": false
+        },
+        {
+          "infinitive": "odejść",
+          "translation": "to leave",
+          "perfective": false
+        }
       ]
     },
     {
       "polish": "Zawołałem go, żeby się pospieszył",
       "english": "I called him to tell him to hurry up",
       "verbs": [
-        "zawołać (to call out)",
-        "pospieszyć się (to hurry up)"
+        {
+          "infinitive": "zawołać",
+          "translation": "to call out",
+          "perfective": false
+        },
+        {
+          "infinitive": "pospieszyć się",
+          "translation": "to hurry up",
+          "perfective": false
+        }
       ]
     },
     {
       "polish": "Czy mogę dołączyć do waszej grupy (gen. after do/to)",
       "english": "Can I join your group?",
       "verbs": [
-        "móc (to be able to)",
-        "dołączyć (to join)"
+        {
+          "infinitive": "móc",
+          "translation": "to be able to",
+          "perfective": false
+        },
+        {
+          "infinitive": "dołączyć",
+          "translation": "to join",
+          "perfective": false
+        }
       ]
     },
     {
       "polish": "Proszę popatrzeć na ten obraz",
       "english": "Please look at this painting",
       "verbs": [
-        "popatrzeć (to look)"
+        {
+          "infinitive": "popatrzeć",
+          "translation": "to look",
+          "perfective": false
+        }
       ]
     },
     {
       "polish": "Czy zgodzisz się ze mną?",
       "english": "Will you agree with me?",
       "verbs": [
-        "zgodzić się (to agree)"
+        {
+          "infinitive": "zgodzić się",
+          "translation": "to agree",
+          "perfective": false
+        }
       ]
     },
     {
       "polish": "To jest moja ulubiona piosenka",
       "english": "This is my favorite song",
       "verbs": [
-        "być (to be)"
+        {
+          "infinitive": "być",
+          "translation": "to be",
+          "perfective": false
+        }
       ]
     },
     {
       "polish": "Możesz wybrać to lub tamto",
       "english": "You can choose this or that",
       "verbs": [
-        "móc (to be able to)",
-        "wybrać (to choose)"
+        {
+          "infinitive": "móc",
+          "translation": "to be able to",
+          "perfective": false
+        },
+        {
+          "infinitive": "wybrać",
+          "translation": "to choose",
+          "perfective": false
+        }
       ]
     },
     {
       "polish": "On dobrze się bawił",
       "english": "He had a good time",
       "verbs": [
-        "bawić się (to have fun)"
+        {
+          "infinitive": "bawić się",
+          "translation": "to have fun",
+          "perfective": false
+        }
       ]
     },
     {
       "polish": "Dostępne są inne opcje",
       "english": "Other options are available",
       "verbs": [
-        "być (to be)"
+        {
+          "infinitive": "być",
+          "translation": "to be",
+          "perfective": false
+        }
       ]
     },
     {
       "polish": "Na dachu jest kot",
       "english": "There is a cat on the roof",
       "verbs": [
-        "być (to be)"
+        {
+          "infinitive": "być",
+          "translation": "to be",
+          "perfective": false
+        }
       ]
     },
     {
       "polish": "Był tam, kiedy to się stało",
       "english": "He was there when it happened",
       "verbs": [
-        "być (to be)",
-        "stać się (to happen)"
+        {
+          "infinitive": "być",
+          "translation": "to be",
+          "perfective": false
+        },
+        {
+          "infinitive": "stać się",
+          "translation": "to happen",
+          "perfective": false
+        }
       ]
     },
     {
       "polish": "Wspięła się po drabinie",
       "english": "She climbed the ladder",
       "verbs": [
-        "wspiąć (to climb p.)",
-        "wspiąć się (to climb)"
+        {
+          "infinitive": "wspiąć",
+          "translation": "to climb p.",
+          "perfective": false
+        },
+        {
+          "infinitive": "wspiąć się",
+          "translation": "to climb",
+          "perfective": false
+        }
       ]
     },
     {
       "polish": "Jaka jest różnica między masłem i margaryną?",
       "english": "What is the difference between butter and margarine?",
       "verbs": [
-        "być (to be)"
+        {
+          "infinitive": "być",
+          "translation": "to be",
+          "perfective": false
+        }
       ]
     },
     {
       "polish": "Panuje cisza",
       "english": "There is silence",
       "verbs": [
-        "panować (to reign / prevail)",
-        "panować (to reign/prevail)"
+        {
+          "infinitive": "panować",
+          "translation": "to reign / prevail",
+          "perfective": false
+        },
+        {
+          "infinitive": "panować",
+          "translation": "to reign/prevail",
+          "perfective": false
+        }
       ]
     },
     {
       "polish": "Nie miałem czasu, kiedy byłem młody, bo wówczas miałem dużo pracy",
       "english": "I didn't have time when I was young because I had a lot of work then",
       "verbs": [
-        "mieć (to have)",
-        "być (to be)"
+        {
+          "infinitive": "mieć",
+          "translation": "to have",
+          "perfective": false
+        },
+        {
+          "infinitive": "być",
+          "translation": "to be",
+          "perfective": false
+        }
       ]
     },
     {
       "polish": "Nie widzę w tym nic złego (gen. of zły)",
       "english": "I see nothing wrong in this",
       "verbs": [
-        "widzieć (to see)"
+        {
+          "infinitive": "widzieć",
+          "translation": "to see",
+          "perfective": false
+        }
       ]
     },
     {
       "polish": "Marek odpechnął łódź od brzegu",
       "english": "Marek pushed the boat away from the shore",
       "verbs": [
-        "odepchnąć (to push away)"
+        {
+          "infinitive": "odepchnąć",
+          "translation": "to push away",
+          "perfective": false
+        }
       ]
     },
     {
       "polish": "Ta szafa została lekko popchnięta",
       "english": "This wardrobe was pushed slightly",
       "verbs": [
-        "zostać (to become/be)",
-        "popchnąć (to push)"
+        {
+          "infinitive": "zostać",
+          "translation": "to become/be",
+          "perfective": false
+        },
+        {
+          "infinitive": "popchnąć",
+          "translation": "to push",
+          "perfective": false
+        }
       ]
     },
     {
       "polish": "Szalona dziewczyna została popchnięta do basenu",
       "english": "The crazy girl was pushed into the pool",
       "verbs": [
-        "zostać (to become/be)",
-        "popchnąć (to push)"
+        {
+          "infinitive": "zostać",
+          "translation": "to become/be",
+          "perfective": false
+        },
+        {
+          "infinitive": "popchnąć",
+          "translation": "to push",
+          "perfective": false
+        }
       ]
     },
     {
       "polish": "Statek wypłynął z portu",
       "english": "The ship set sail from the port",
       "verbs": [
-        "wypłynąć (to set sail)"
+        {
+          "infinitive": "wypłynąć",
+          "translation": "to set sail",
+          "perfective": false
+        }
       ]
     },
     {
       "polish": "To sprawa w końcu wypłynęła",
       "english": "This matter finally surfaced",
       "verbs": [
-        "wypłynąć (to surface)"
+        {
+          "infinitive": "wypłynąć",
+          "translation": "to surface",
+          "perfective": false
+        }
       ]
     },
     {
       "polish": "Musimy się stąd wydostać",
       "english": "We have to get out of here",
       "verbs": [
-        "musieć (to have to/must)",
-        "wydostać się (to get out)"
+        {
+          "infinitive": "musieć",
+          "translation": "to have to/must",
+          "perfective": false
+        },
+        {
+          "infinitive": "wydostać się",
+          "translation": "to get out",
+          "perfective": false
+        }
       ]
     },
     {
       "polish": "Wszyscy byli przerażeni",
       "english": "Everyone was terrified",
       "verbs": [
-        "być (to be)"
+        {
+          "infinitive": "być",
+          "translation": "to be",
+          "perfective": false
+        }
       ]
     },
     {
       "polish": "To może się zdarzyć każdemu",
       "english": "This can happen to anyone",
       "verbs": [
-        "móc (to be able to)",
-        "zdarzyć się (to happen)"
+        {
+          "infinitive": "móc",
+          "translation": "to be able to",
+          "perfective": false
+        },
+        {
+          "infinitive": "zdarzyć się",
+          "translation": "to happen",
+          "perfective": false
+        }
       ]
     },
     {
       "polish": "Czym się zajmujesz?",
       "english": "What do you do for a living?",
       "verbs": [
-        "zajmować (to occupy)",
-        "zajmować się (to occupy/be involved in)"
+        {
+          "infinitive": "zajmować",
+          "translation": "to occupy",
+          "perfective": false
+        },
+        {
+          "infinitive": "zajmować się",
+          "translation": "to occupy/be involved in",
+          "perfective": false
+        }
       ]
     },
     {
       "polish": "Czemu tak póżno?",
       "english": "Why so late?",
       "verbs": [
-        "być (to be)"
+        {
+          "infinitive": "być",
+          "translation": "to be",
+          "perfective": false
+        }
       ]
     },
     {
       "polish": "Skąd się znacie?",
       "english": "How do you know each other?",
       "verbs": [
-        "znać (to know)"
+        {
+          "infinitive": "znać",
+          "translation": "to know",
+          "perfective": false
+        }
       ]
     },
     {
       "polish": "Co sądzisz o tym filmie? (to judge, judgement)",
       "english": "What do you think about this movie?",
       "verbs": [
-        "sądzić (to judge/think)"
+        {
+          "infinitive": "sądzić",
+          "translation": "to judge/think",
+          "perfective": false
+        }
       ]
     },
     {
       "polish": "Uważam, że dasz radę to zrobić",
       "english": "I think you can do it",
       "verbs": [
-        "uważać (to think/consider)",
-        "dać radę (to be able to/manage)",
-        "zrobić (to do/make)"
+        {
+          "infinitive": "uważać",
+          "translation": "to think/consider",
+          "perfective": false
+        },
+        {
+          "infinitive": "dać radę",
+          "translation": "to be able to/manage",
+          "perfective": false
+        },
+        {
+          "infinitive": "zrobić",
+          "translation": "to do/make",
+          "perfective": false
+        }
       ]
     },
     {
       "polish": "Sądzę, że to świetny pomysł",
       "english": "I think it's a great idea",
       "verbs": [
-        "sądzić (to judge/think)"
+        {
+          "infinitive": "sądzić",
+          "translation": "to judge/think",
+          "perfective": false
+        }
       ]
     },
     {
       "polish": "Jak uważasz?",
       "english": "What do you think?",
       "verbs": [
-        "uważać (to think/consider)"
+        {
+          "infinitive": "uważać",
+          "translation": "to think/consider",
+          "perfective": false
+        }
       ]
     },
     {
       "polish": "Myślę, że...",
       "english": "I think that...",
       "verbs": [
-        "myśleć (to think)"
+        {
+          "infinitive": "myśleć",
+          "translation": "to think",
+          "perfective": false
+        }
       ]
     },
     {
       "polish": "Uważam, że...",
       "english": "I consider that...",
       "verbs": [
-        "uważać (to think/consider)"
+        {
+          "infinitive": "uważać",
+          "translation": "to think/consider",
+          "perfective": false
+        }
       ]
     },
     {
       "polish": "Sądzę, że...",
       "english": "I judge that...",
       "verbs": [
-        "sądzić (to judge/think)"
+        {
+          "infinitive": "sądzić",
+          "translation": "to judge/think",
+          "perfective": false
+        }
       ]
     },
     {
       "polish": "Mam wrażenie, że nie dasz rady tego zjeść!",
       "english": "I have the impression that you won't be able to eat this!",
       "verbs": [
-        "mieć (to have)",
-        "dać radę (to be able to/manage)",
-        "zjeść (to eat)"
+        {
+          "infinitive": "mieć",
+          "translation": "to have",
+          "perfective": false
+        },
+        {
+          "infinitive": "dać radę",
+          "translation": "to be able to/manage",
+          "perfective": false
+        },
+        {
+          "infinitive": "zjeść",
+          "translation": "to eat",
+          "perfective": false
+        }
       ]
     },
     {
       "polish": "Zmieniam zdanie",
       "english": "I'm changing my mind",
       "verbs": [
-        "zmieniać (to change)"
+        {
+          "infinitive": "zmieniać",
+          "translation": "to change",
+          "perfective": false
+        }
       ]
     },
     {
       "polish": "Muszę się zbierać",
       "english": "I have to get going",
       "verbs": [
-        "zbierać (to collect, gather, pick up)",
-        "musieć (to have to/must)",
-        "zbierać się (to get ready/gather)"
+        {
+          "infinitive": "zbierać",
+          "translation": "to collect, gather, pick up",
+          "perfective": false
+        },
+        {
+          "infinitive": "musieć",
+          "translation": "to have to/must",
+          "perfective": false
+        },
+        {
+          "infinitive": "zbierać się",
+          "translation": "to get ready/gather",
+          "perfective": false
+        }
       ]
     },
     {
       "polish": "Jest późno. Zbieramy się?",
       "english": "It's late. Shall we get going?",
       "verbs": [
-        "być (to be)",
-        "zbierać się (to get ready/gather)"
+        {
+          "infinitive": "być",
+          "translation": "to be",
+          "perfective": false
+        },
+        {
+          "infinitive": "zbierać się",
+          "translation": "to get ready/gather",
+          "perfective": false
+        }
       ]
     },
     {
       "polish": "Wszystkiego najlepszego!",
       "english": "All the best! / Happy Birthday!",
       "verbs": [
-        "być (to be)"
+        {
+          "infinitive": "być",
+          "translation": "to be",
+          "perfective": false
+        }
       ]
     },
     {
       "polish": "Przypomnij mi proszę",
       "english": "Please remind me",
       "verbs": [
-        "przypomnieć (to remind)"
+        {
+          "infinitive": "przypomnieć",
+          "translation": "to remind",
+          "perfective": false
+        }
       ]
     },
     {
       "polish": "Nie przypominam sobie",
       "english": "I don't recall",
       "verbs": [
-        "przypominać (to remind/remember)",
-        "przypominać sobie (to remember)"
+        {
+          "infinitive": "przypominać",
+          "translation": "to remind/remember",
+          "perfective": false
+        },
+        {
+          "infinitive": "przypominać sobie",
+          "translation": "to remember",
+          "perfective": false
+        }
       ]
     },
     {
       "polish": "Słyszałem to nazwisko, ale nie przypominam sobie skąd",
       "english": "I've heard that name, but I don't recall from where",
       "verbs": [
-        "słyszeć (to hear)",
-        "przypominać sobie (to remember)"
+        {
+          "infinitive": "słyszeć",
+          "translation": "to hear",
+          "perfective": false
+        },
+        {
+          "infinitive": "przypominać sobie",
+          "translation": "to remember",
+          "perfective": false
+        }
       ]
     },
     {
       "polish": "Zapomniałem o Twoich urodzinach! Bardzo przepraszam",
       "english": "I forgot your birthday! I'm very sorry",
       "verbs": [
-        "zapomnieć (to forget)"
+        {
+          "infinitive": "zapomnieć",
+          "translation": "to forget",
+          "perfective": false
+        }
       ]
     },
     {
       "polish": "Zapomniałem zabrać ze sobą telefonu",
       "english": "I forgot to take my phone with me",
       "verbs": [
-        "zapomnieć (to forget)",
-        "zabrać (to take)"
+        {
+          "infinitive": "zapomnieć",
+          "translation": "to forget",
+          "perfective": false
+        },
+        {
+          "infinitive": "zabrać",
+          "translation": "to take",
+          "perfective": false
+        }
       ]
     },
     {
       "polish": "On chce brać udział w konkursie",
       "english": "He wants to take part in the competition",
       "verbs": [
-        "chcieć (to want)",
-        "brać udział (to take part)"
+        {
+          "infinitive": "chcieć",
+          "translation": "to want",
+          "perfective": false
+        },
+        {
+          "infinitive": "brać udział",
+          "translation": "to take part",
+          "perfective": false
+        }
       ]
     },
     {
       "polish": "Chcę kupić samochód, ale nie wiem, jaki wybrać",
       "english": "I want to buy a car, but I don't know which one to choose",
       "verbs": [
-        "chcieć (to want)",
-        "kupić (to buy)",
-        "wiedzieć (to know)",
-        "wybrać (to choose)"
+        {
+          "infinitive": "chcieć",
+          "translation": "to want",
+          "perfective": false
+        },
+        {
+          "infinitive": "kupić",
+          "translation": "to buy",
+          "perfective": false
+        },
+        {
+          "infinitive": "wiedzieć",
+          "translation": "to know",
+          "perfective": false
+        },
+        {
+          "infinitive": "wybrać",
+          "translation": "to choose",
+          "perfective": false
+        }
       ]
     },
     {
       "polish": "Długo wybierałam te buty, bo nie mogłam się zdecydować",
       "english": "I took a long time to choose these shoes because I couldn't decide",
       "verbs": [
-        "wybierać (to choose)",
-        "móc (to be able to)",
-        "zdecydować się (to decide)"
+        {
+          "infinitive": "wybierać",
+          "translation": "to choose",
+          "perfective": false
+        },
+        {
+          "infinitive": "móc",
+          "translation": "to be able to",
+          "perfective": false
+        },
+        {
+          "infinitive": "zdecydować się",
+          "translation": "to decide",
+          "perfective": false
+        }
       ]
     },
     {
       "polish": "W końcu wybrałam te czarne buty",
       "english": "In the end, I chose these black shoes",
       "verbs": [
-        "wybrać (to choose)"
+        {
+          "infinitive": "wybrać",
+          "translation": "to choose",
+          "perfective": false
+        }
       ]
     },
     {
       "polish": "Kiedy byłem mały, zbierałem znaczki",
       "english": "When I was little, I collected stamps",
       "verbs": [
-        "być (to be)",
-        "zbierać (to collect)"
+        {
+          "infinitive": "być",
+          "translation": "to be",
+          "perfective": false
+        },
+        {
+          "infinitive": "zbierać",
+          "translation": "to collect",
+          "perfective": false
+        }
       ]
     },
     {
       "polish": "Odbieram telefon",
       "english": "I'm answering the phone",
       "verbs": [
-        "odbierać (to answer/pick up)"
+        {
+          "infinitive": "odbierać",
+          "translation": "to answer/pick up",
+          "perfective": false
+        }
       ]
     },
     {
       "polish": "Wieczorem dzwonię do kolegi",
       "english": "In the evening, I'm calling a friend",
       "verbs": [
-        "dzwonić (to call/ring)"
+        {
+          "infinitive": "dzwonić",
+          "translation": "to call/ring",
+          "perfective": false
+        }
       ]
     },
     {
       "polish": "W niedzielę rano idziemy razem do kościoła",
       "english": "On Sunday morning, we go to church together",
       "verbs": [
-        "iść (to go)"
+        {
+          "infinitive": "iść",
+          "translation": "to go",
+          "perfective": false
+        }
       ]
     },
     {
@@ -566,98 +1014,178 @@
       "polish": "Mieszkam tu od ponad dwudziestu lat",
       "english": "I've lived here for over twenty years",
       "verbs": [
-        "mieszkać (to live)"
+        {
+          "infinitive": "mieszkać",
+          "translation": "to live",
+          "perfective": false
+        }
       ]
     },
     {
       "polish": "Nadal nie mogę tego zrobić!",
       "english": "I still can't do it!",
       "verbs": [
-        "móc (to be able to)",
-        "zrobić (to do/make)"
+        {
+          "infinitive": "móc",
+          "translation": "to be able to",
+          "perfective": false
+        },
+        {
+          "infinitive": "zrobić",
+          "translation": "to do/make",
+          "perfective": false
+        }
       ]
     },
     {
       "polish": "Szukam czegoś do picia",
       "english": "I'm looking for something to drink",
       "verbs": [
-        "szukać (to look for)"
+        {
+          "infinitive": "szukać",
+          "translation": "to look for",
+          "perfective": false
+        }
       ]
     },
     {
       "polish": "Szukam kogoś, kto mówi po angielsku",
       "english": "I'm looking for someone who speaks English",
       "verbs": [
-        "szukać (to look for)",
-        "mówić (to speak)"
+        {
+          "infinitive": "szukać",
+          "translation": "to look for",
+          "perfective": false
+        },
+        {
+          "infinitive": "mówić",
+          "translation": "to speak",
+          "perfective": false
+        }
       ]
     },
     {
       "polish": "Wszędzie cię szukałem!",
       "english": "I've been looking for you everywhere!",
       "verbs": [
-        "szukać (to look for)"
+        {
+          "infinitive": "szukać",
+          "translation": "to look for",
+          "perfective": false
+        }
       ]
     },
     {
       "polish": "Szukam swojego mózgu!",
       "english": "I'm looking for my brain!",
       "verbs": [
-        "szukać (to look for)"
+        {
+          "infinitive": "szukać",
+          "translation": "to look for",
+          "perfective": false
+        }
       ]
     },
     {
       "polish": "A z tym niestety bywa różnie (bywać)",
       "english": "And with that, unfortunately, it varies",
       "verbs": [
-        "bywać (to vary/be)"
+        {
+          "infinitive": "bywać",
+          "translation": "to vary/be",
+          "perfective": false
+        }
       ]
     },
     {
       "polish": "Przepadam za czekoladą! ❤️(przepadać za…)",
       "english": "I'm crazy about chocolate!",
       "verbs": [
-        "przepadać za (to be crazy about)"
+        {
+          "infinitive": "przepadać za",
+          "translation": "to be crazy about",
+          "perfective": false
+        }
       ]
     },
     {
       "polish": "To dla mnie wyjątkowy dzień",
       "english": "This is a special day for me",
       "verbs": [
-        "być (to be)"
+        {
+          "infinitive": "być",
+          "translation": "to be",
+          "perfective": false
+        }
       ]
     },
     {
       "polish": "Obiecuję, że pomogę",
       "english": "I promise I'll help",
       "verbs": [
-        "obiecywać (to promise)",
-        "pomóc (to help)"
+        {
+          "infinitive": "obiecywać",
+          "translation": "to promise",
+          "perfective": false
+        },
+        {
+          "infinitive": "pomóc",
+          "translation": "to help",
+          "perfective": false
+        }
       ]
     },
     {
       "polish": "Mam w zwyczaju pić herbatę rano",
       "english": "I have a habit of drinking tea in the morning",
       "verbs": [
-        "mieć (to have)",
-        "pić (to drink)"
+        {
+          "infinitive": "mieć",
+          "translation": "to have",
+          "perfective": false
+        },
+        {
+          "infinitive": "pić",
+          "translation": "to drink",
+          "perfective": false
+        }
       ]
     },
     {
       "polish": "On popełnił błąd, ale obiecał, że go naprawi",
       "english": "He made a mistake, but he promised to fix it",
       "verbs": [
-        "popełnić (to commit)",
-        "obiecać (to promise)",
-        "naprawić (to fix)"
+        {
+          "infinitive": "popełnić",
+          "translation": "to commit",
+          "perfective": false
+        },
+        {
+          "infinitive": "obiecać",
+          "translation": "to promise",
+          "perfective": false
+        },
+        {
+          "infinitive": "naprawić",
+          "translation": "to fix",
+          "perfective": false
+        }
       ]
     },
     {
       "polish": "Dzięki szybkiej reakcji kierowcy, udało się uniknąć wypadku!",
       "english": "Thanks to the driver's quick reaction, the accident was avoided!",
       "verbs": [
-        "udać się (to succeed/manage)",
-        "uniknąć (to avoid)"
+        {
+          "infinitive": "udać się",
+          "translation": "to succeed/manage",
+          "perfective": false
+        },
+        {
+          "infinitive": "uniknąć",
+          "translation": "to avoid",
+          "perfective": false
+        }
       ]
     }
   ]

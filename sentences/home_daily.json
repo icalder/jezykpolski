@@ -5,358 +5,614 @@
       "polish": "Wysypanie mąki było wypadkiem",
       "english": "Spilling the flour was an accident",
       "verbs": [
-        "wysypać (to spill)",
-        "być (to be)"
+        {
+          "infinitive": "wysypać",
+          "translation": "to spill",
+          "perfective": false
+        },
+        {
+          "infinitive": "być",
+          "translation": "to be",
+          "perfective": false
+        }
       ]
     },
     {
       "polish": "Złamane krzesło jest w kącie",
       "english": "The broken chair is in the corner",
       "verbs": [
-        "być (to be)"
+        {
+          "infinitive": "być",
+          "translation": "to be",
+          "perfective": false
+        }
       ]
     },
     {
       "polish": "Wolę herbatę niż kawę",
       "english": "I prefer tea over coffee",
       "verbs": [
-        "wolić (to prefer)"
+        {
+          "infinitive": "wolić",
+          "translation": "to prefer",
+          "perfective": false
+        }
       ]
     },
     {
       "polish": "Lubię zarówno kawę, jak i herbatę",
       "english": "I like both coffee and tea",
       "verbs": [
-        "lubić (to like)"
+        {
+          "infinitive": "lubić",
+          "translation": "to like",
+          "perfective": false
+        }
       ]
     },
     {
       "polish": "Moja sypialnia jest przytulna",
       "english": "My bedroom is cozy",
       "verbs": [
-        "być (to be)"
+        {
+          "infinitive": "być",
+          "translation": "to be",
+          "perfective": false
+        }
       ]
     },
     {
       "polish": "Technik szybko znalazł usterkę w mojej pralce",
       "english": "The technician quickly found the fault in my washing machine",
       "verbs": [
-        "znaleźć (to find)"
+        {
+          "infinitive": "znaleźć",
+          "translation": "to find",
+          "perfective": false
+        }
       ]
     },
     {
       "polish": "Może umówimy się na kawę?",
       "english": "Maybe we'll meet for coffee?",
       "verbs": [
-        "umówić się (to meet/arrange)"
+        {
+          "infinitive": "umówić się",
+          "translation": "to meet/arrange",
+          "perfective": false
+        }
       ]
     },
     {
       "polish": "Ubrałam dziś koszulę i spodnie",
       "english": "I put on a shirt and trousers today",
       "verbs": [
-        "ubierać (to dress/put on)"
+        {
+          "infinitive": "ubierać",
+          "translation": "to dress/put on",
+          "perfective": false
+        }
       ]
     },
     {
       "polish": "Proszę rozebrać się od pasa w górę",
       "english": "Please undress from the waist up",
       "verbs": [
-        "rozebrać się (to undress)"
+        {
+          "infinitive": "rozebrać się",
+          "translation": "to undress",
+          "perfective": false
+        }
       ]
     },
     {
       "polish": "Przebieramy się w piżamę",
       "english": "We are changing into pajamas",
       "verbs": [
-        "przebierać się (to change clothes)"
+        {
+          "infinitive": "przebierać się",
+          "translation": "to change clothes",
+          "perfective": false
+        }
       ]
     },
     {
       "polish": "Muszę odebrać dziecko ze szkoły",
       "english": "I have to pick up the child from school",
       "verbs": [
-        "musieć (to have to/must)",
-        "odebrać (to pick up/receive)"
+        {
+          "infinitive": "musieć",
+          "translation": "to have to/must",
+          "perfective": false
+        },
+        {
+          "infinitive": "odebrać",
+          "translation": "to pick up/receive",
+          "perfective": false
+        }
       ]
     },
     {
       "polish": "Obierz ziemniaki, proszę",
       "english": "Please peel the potatoes",
       "verbs": [
-        "obierać (to peel)"
+        {
+          "infinitive": "obierać",
+          "translation": "to peel",
+          "perfective": false
+        }
       ]
     },
     {
       "polish": "Ja nigdy nie obieram jabłek",
       "english": "I never peel apples",
       "verbs": [
-        "obierać (to peel)"
+        {
+          "infinitive": "obierać",
+          "translation": "to peel",
+          "perfective": false
+        }
       ]
     },
     {
       "polish": "W soboty kładę się spać trochę później niż w tygodniu",
       "english": "On Saturdays, I go to bed a bit later than during the week",
       "verbs": [
-        "kłaść się spać (to go to bed)"
+        {
+          "infinitive": "kłaść się spać",
+          "translation": "to go to bed",
+          "perfective": false
+        }
       ]
     },
     {
       "polish": "Posprzątam dom i zrobię pranie",
       "english": "I'll clean the house and do the laundry",
       "verbs": [
-        "posprzątać (to clean up)",
-        "zrobić (to do/make)"
+        {
+          "infinitive": "posprzątać",
+          "translation": "to clean up",
+          "perfective": false
+        },
+        {
+          "infinitive": "zrobić",
+          "translation": "to do/make",
+          "perfective": false
+        }
       ]
     },
     {
       "polish": "Wieczorem ugotuję coś prostego",
       "english": "In the evening, I'll cook something simple",
       "verbs": [
-        "ugotować (to cook)"
+        {
+          "infinitive": "ugotować",
+          "translation": "to cook",
+          "perfective": false
+        }
       ]
     },
     {
       "polish": "Wieczorem będę gotować coś prostego",
       "english": "In the evening, I'll be cooking something simple",
       "verbs": [
-        "gotować (to cook)"
+        {
+          "infinitive": "gotować",
+          "translation": "to cook",
+          "perfective": false
+        }
       ]
     },
     {
       "polish": "Mieszkałam blisko uczelni",
       "english": "I lived near the university",
       "verbs": [
-        "mieszkać (to live)"
+        {
+          "infinitive": "mieszkać",
+          "translation": "to live",
+          "perfective": false
+        }
       ]
     },
     {
       "polish": "Gdzie dokładnie mieszkałeś?",
       "english": "Where exactly did you live?",
       "verbs": [
-        "mieszkać (to live)"
+        {
+          "infinitive": "mieszkać",
+          "translation": "to live",
+          "perfective": false
+        }
       ]
     },
     {
       "polish": "Czy on kiedykolwiek mieszkał w innym mieście?",
       "english": "Has he ever lived in another city?",
       "verbs": [
-        "mieszkać (to live)"
+        {
+          "infinitive": "mieszkać",
+          "translation": "to live",
+          "perfective": false
+        }
       ]
     },
     {
       "polish": "Mieszkaliśmy w tej samej dzielnicy",
       "english": "We lived in the same neighborhood",
       "verbs": [
-        "mieszkać (to live)"
+        {
+          "infinitive": "mieszkać",
+          "translation": "to live",
+          "perfective": false
+        }
       ]
     },
     {
       "polish": "Oszczędzam na własne mieszkanie",
       "english": "I'm saving for my own apartment",
       "verbs": [
-        "oszczędzać (to save)"
+        {
+          "infinitive": "oszczędzać",
+          "translation": "to save",
+          "perfective": false
+        }
       ]
     },
     {
       "polish": "Ale mieszkacie na zadupiu!",
       "english": "But you live in the middle of nowhere!",
       "verbs": [
-        "mieszkać (to live)"
+        {
+          "infinitive": "mieszkać",
+          "translation": "to live",
+          "perfective": false
+        }
       ]
     },
     {
       "polish": "Mieszkacie w chlewie, czy po prostu nie sprzątacie?",
       "english": "Do you live in a pigsty, or do you just not clean?",
       "verbs": [
-        "mieszkać (to live)",
-        "sprzątać (to clean)"
+        {
+          "infinitive": "mieszkać",
+          "translation": "to live",
+          "perfective": false
+        },
+        {
+          "infinitive": "sprzątać",
+          "translation": "to clean",
+          "perfective": false
+        }
       ]
     },
     {
       "polish": "Poproszę jednego obwarzanka z solą",
       "english": "I'd like one salted obwarzanek, please",
       "verbs": [
-        "poprosić (to ask for)"
+        {
+          "infinitive": "poprosić",
+          "translation": "to ask for",
+          "perfective": false
+        }
       ]
     },
     {
       "polish": "Włożyłem książkę do torby",
       "english": "I put the book in the bag",
       "verbs": [
-        "włożyć (to put in)"
+        {
+          "infinitive": "włożyć",
+          "translation": "to put in",
+          "perfective": false
+        }
       ]
     },
     {
       "polish": "Musisz wsypać kawę do kubka",
       "english": "You have to pour the coffee into the mug",
       "verbs": [
-        "musieć (to have to)",
-        "wsypać (to pour in)"
+        {
+          "infinitive": "musieć",
+          "translation": "to have to",
+          "perfective": false
+        },
+        {
+          "infinitive": "wsypać",
+          "translation": "to pour in",
+          "perfective": false
+        }
       ]
     },
     {
       "polish": "Wsyp proszek do prania",
       "english": "Pour in the washing powder",
       "verbs": [
-        "wsypać (to pour in)"
+        {
+          "infinitive": "wsypać",
+          "translation": "to pour in",
+          "perfective": false
+        }
       ]
     },
     {
       "polish": "Prać w pralce",
       "english": "To wash in a washing machine",
       "verbs": [
-        "prać (to wash)"
+        {
+          "infinitive": "prać",
+          "translation": "to wash",
+          "perfective": false
+        }
       ]
     },
     {
       "polish": "Pralka teraz wiruje",
       "english": "The washing machine is spinning now",
       "verbs": [
-        "wirować (to spin)"
+        {
+          "infinitive": "wirować",
+          "translation": "to spin",
+          "perfective": false
+        }
       ]
     },
     {
       "polish": "Włożyłem ubrania do pralki, a potem je wyjąłem",
       "english": "I put the clothes in the washing machine, and then I took them out",
       "verbs": [
-        "włożyć (to put in)",
-        "wyjąć (to take out)"
+        {
+          "infinitive": "włożyć",
+          "translation": "to put in",
+          "perfective": false
+        },
+        {
+          "infinitive": "wyjąć",
+          "translation": "to take out",
+          "perfective": false
+        }
       ]
     },
     {
       "polish": "Powiesiłem pranie na sznurku",
       "english": "I hung the laundry on the line",
       "verbs": [
-        "powiesić (to hang)"
+        {
+          "infinitive": "powiesić",
+          "translation": "to hang",
+          "perfective": false
+        }
       ]
     },
     {
       "polish": "Słońce wysuszyło ubrania",
       "english": "The sun dried the clothes",
       "verbs": [
-        "wysuszyć (to dry)"
+        {
+          "infinitive": "wysuszyć",
+          "translation": "to dry",
+          "perfective": false
+        }
       ]
     },
     {
       "polish": "Złożyłem suche ubrania",
       "english": "I folded the dry clothes",
       "verbs": [
-        "złożyć (to fold)"
+        {
+          "infinitive": "złożyć",
+          "translation": "to fold",
+          "perfective": false
+        }
       ]
     },
     {
       "polish": "Schowałem ubrania do szafy",
       "english": "I put the clothes away in the wardrobe",
       "verbs": [
-        "schować (to put away)"
+        {
+          "infinitive": "schować",
+          "translation": "to put away",
+          "perfective": false
+        }
       ]
     },
     {
       "polish": "Wyprałem ubrania, a potem je powiesiłem na sznurku. Kiedy wyschły, złożyłem je i schowałem do szafy.",
       "english": "I washed the clothes and then hung them on the line. When they dried, I folded them and put them away in the wardrobe.",
       "verbs": [
-        "wyprać (to wash)",
-        "powiesić (to hang)",
-        "wyschnąć (to dry)",
-        "złożyć (to fold)",
-        "schować (to put away)"
+        {
+          "infinitive": "wyprać",
+          "translation": "to wash",
+          "perfective": false
+        },
+        {
+          "infinitive": "powiesić",
+          "translation": "to hang",
+          "perfective": false
+        },
+        {
+          "infinitive": "wyschnąć",
+          "translation": "to dry",
+          "perfective": false
+        },
+        {
+          "infinitive": "złożyć",
+          "translation": "to fold",
+          "perfective": false
+        },
+        {
+          "infinitive": "schować",
+          "translation": "to put away",
+          "perfective": false
+        }
       ]
     },
     {
       "polish": "Chcę kupić taką sukienkę",
       "english": "I want to buy such a dress",
       "verbs": [
-        "chcieć (to want)",
-        "kupić (to buy)"
+        {
+          "infinitive": "chcieć",
+          "translation": "to want",
+          "perfective": false
+        },
+        {
+          "infinitive": "kupić",
+          "translation": "to buy",
+          "perfective": false
+        }
       ]
     },
     {
       "polish": "Dostaniesz możliwość wyboru koloru",
       "english": "You will have the opportunity to choose the color",
       "verbs": [
-        "dostać (to get/receive)",
-        "wybrać (to choose)"
+        {
+          "infinitive": "dostać",
+          "translation": "to get/receive",
+          "perfective": false
+        },
+        {
+          "infinitive": "wybrać",
+          "translation": "to choose",
+          "perfective": false
+        }
       ]
     },
     {
       "polish": "Ona zmieniła sukienkę",
       "english": "She changed her dress",
       "verbs": [
-        "zmienić (to change)"
+        {
+          "infinitive": "zmienić",
+          "translation": "to change",
+          "perfective": false
+        }
       ]
     },
     {
       "polish": "Narzekałem na zimną wodę pod prysznicem",
       "english": "I complained about the cold water in the shower",
       "verbs": [
-        "narzekać (to complain)"
+        {
+          "infinitive": "narzekać",
+          "translation": "to complain",
+          "perfective": false
+        }
       ]
     },
     {
       "polish": "Zabawka jest w pudełku",
       "english": "The toy is in the box",
       "verbs": [
-        "być (to be)"
+        {
+          "infinitive": "być",
+          "translation": "to be",
+          "perfective": false
+        }
       ]
     },
     {
       "polish": "Pokrój warzywa w kostkę",
       "english": "Cut the vegetables into cubes",
       "verbs": [
-        "pokroić (to cut)"
+        {
+          "infinitive": "pokroić",
+          "translation": "to cut",
+          "perfective": false
+        }
       ]
     },
     {
       "polish": "Jutro na śniadanie zjem świeżego pączka (pączek = delicious Polish filled doughnut)",
       "english": "Tomorrow for breakfast I'll eat a fresh doughnut",
       "verbs": [
-        "jeść (to eat)"
+        {
+          "infinitive": "jeść",
+          "translation": "to eat",
+          "perfective": false
+        }
       ]
     },
     {
       "polish": "Ta drożdżówka jest bardzo smaczna",
       "english": "This sweet roll is very tasty",
       "verbs": [
-        "być (to be)"
+        {
+          "infinitive": "być",
+          "translation": "to be",
+          "perfective": false
+        }
       ]
     },
     {
       "polish": "Powierzchnia stołu jest brudna",
       "english": "The surface of the table is dirty",
       "verbs": [
-        "być (to be)"
+        {
+          "infinitive": "być",
+          "translation": "to be",
+          "perfective": false
+        }
       ]
     },
     {
       "polish": "Zawsze zapominam o kluczach",
       "english": "I always forget the keys",
       "verbs": [
-        "zapomnieć (to forget)"
+        {
+          "infinitive": "zapomnieć",
+          "translation": "to forget",
+          "perfective": false
+        }
       ]
     },
     {
       "polish": "Po kolacji należy umyć brudne naczynia",
       "english": "After dinner, the dirty dishes should be washed",
       "verbs": [
-        "należeć (to be necessary)",
-        "umyć (to wash)"
+        {
+          "infinitive": "należeć",
+          "translation": "to be necessary",
+          "perfective": false
+        },
+        {
+          "infinitive": "umyć",
+          "translation": "to wash",
+          "perfective": false
+        }
       ]
     },
     {
       "polish": "Po zmywaniu należy dokładnie powycierać wszystkie naczynia",
       "english": "After washing, all dishes should be wiped dry",
       "verbs": [
-        "należeć (to be necessary)",
-        "powycierać (to wipe)"
+        {
+          "infinitive": "należeć",
+          "translation": "to be necessary",
+          "perfective": false
+        },
+        {
+          "infinitive": "powycierać",
+          "translation": "to wipe",
+          "perfective": false
+        }
       ]
     },
     {
       "polish": "O tej porze roku należy pić dużo gorącej herbaty",
       "english": "At this time of year, one should drink plenty of hot tea",
       "verbs": [
-        "należeć (to be necessary)",
-        "pić (to drink)"
+        {
+          "infinitive": "należeć",
+          "translation": "to be necessary",
+          "perfective": false
+        },
+        {
+          "infinitive": "pić",
+          "translation": "to drink",
+          "perfective": false
+        }
       ]
     }
   ]

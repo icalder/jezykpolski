@@ -5,52 +5,92 @@
       "polish": "Często odwiedzam moich przyjaciół.",
       "english": "I often visit my friends.",
       "verbs": [
-        "odwiedzać (to visit)"
+        {
+          "infinitive": "odwiedzać",
+          "translation": "to visit",
+          "perfective": false
+        }
       ]
     },
     {
       "polish": "Muszę zabrać dzieci ze szkoły o trzeciej",
       "english": "I must pick up the children from school at three",
       "verbs": [
-        "musieć (to have to/must)",
-        "zabrać (to take/pick up)"
+        {
+          "infinitive": "musieć",
+          "translation": "to have to/must",
+          "perfective": false
+        },
+        {
+          "infinitive": "zabrać",
+          "translation": "to take/pick up",
+          "perfective": false
+        }
       ]
     },
     {
       "polish": "Bycie rodzicem jest trudne",
       "english": "Being a parent is difficult",
       "verbs": [
-        "być (to be)"
+        {
+          "infinitive": "być",
+          "translation": "to be",
+          "perfective": false
+        }
       ]
     },
     {
       "polish": "Wieczorem pomagam dzieciom (dat.) spakować plecaki",
       "english": "In the evening, I help the children pack their backpacks",
       "verbs": [
-        "pomagać (to help)",
-        "spakować (to pack)"
+        {
+          "infinitive": "pomagać",
+          "translation": "to help",
+          "perfective": false
+        },
+        {
+          "infinitive": "spakować",
+          "translation": "to pack",
+          "perfective": false
+        }
       ]
     },
     {
       "polish": "Ola ma malutką córeczkę i często ubiera ją w kolorowe sukienki",
       "english": "Ola has a tiny daughter and often dresses her in colorful dresses",
       "verbs": [
-        "mieć (to have)",
-        "ubierać (to dress/put on)"
+        {
+          "infinitive": "mieć",
+          "translation": "to have",
+          "perfective": false
+        },
+        {
+          "infinitive": "ubierać",
+          "translation": "to dress/put on",
+          "perfective": false
+        }
       ]
     },
     {
       "polish": "Moja siostra zamieszka w nowym mieszkaniu od stycznia",
       "english": "My sister will live in a new apartment starting in January",
       "verbs": [
-        "zamieszkać (to live/dwell)"
+        {
+          "infinitive": "zamieszkać",
+          "translation": "to live/dwell",
+          "perfective": false
+        }
       ]
     },
     {
       "polish": "Ona jest tak wysoka jak jej brat",
       "english": "She is as tall as her brother",
       "verbs": [
-        "być (to be)"
+        {
+          "infinitive": "być",
+          "translation": "to be",
+          "perfective": false
+        }
       ]
     }
   ]

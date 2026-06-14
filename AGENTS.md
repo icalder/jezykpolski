@@ -28,8 +28,11 @@ Before modifying any JSON file, you must first propose the entry and the target 
       "polish": "Polish sentence text",
       "english": "English translation",
       "verbs": [
-        "verb (translation)",
-        "another verb (translation)"
+        {
+          "infinitive": "verb",
+          "translation": "translation",
+          "perfective": false
+        }
       ]
     }
   ]
@@ -42,15 +45,26 @@ Before modifying any JSON file, you must first propose the entry and the target 
   "polish": "Lubię widzieć śnieg zimą",
   "english": "I like to see snow in winter",
   "verbs": [
-    "lubić (to like)",
-    "widzieć (to see)"
+    {
+      "infinitive": "lubić",
+      "translation": "to like",
+      "perfective": false
+    },
+    {
+      "infinitive": "widzieć",
+      "translation": "to see",
+      "perfective": false
+    }
   ]
 }
 ```
 
 - **`polish`**: The example sentence featuring the new vocabulary.
 - **`english`**: The English translation of that sentence.
-- **`verbs`**: An array containing the key verbs used in the sentence, their infinitives, and translations. It can also include brief grammatical notes (e.g., "static location (locative)").
+- **`verbs`**: An array of objects containing:
+    - **`infinitive`**: The infinitive form of the verb.
+    - **`translation`**: The English translation.
+    - **`perfective`**: A boolean (`true` if the verb is Perfective/dokonany, `false` if Imperfective/niedokonany).
 
 ## Linguistic Analysis Guidelines
 

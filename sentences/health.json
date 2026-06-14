@@ -5,50 +5,82 @@
       "polish": "Mam ranę na palcu",
       "english": "I have a cut on my finger",
       "verbs": [
-        "mieć (to have)"
+        {
+          "infinitive": "mieć",
+          "translation": "to have",
+          "perfective": false
+        }
       ]
     },
     {
       "polish": "Czuję się dzisiaj słabo",
       "english": "I feel weak today",
       "verbs": [
-        "czuć się (to feel)"
+        {
+          "infinitive": "czuć się",
+          "translation": "to feel",
+          "perfective": false
+        }
       ]
     },
     {
       "polish": "Oddychaj głęboko",
       "english": "Breathe deeply",
       "verbs": [
-        "oddychać (to breathe)"
+        {
+          "infinitive": "oddychać",
+          "translation": "to breathe",
+          "perfective": false
+        }
       ]
     },
     {
       "polish": "Moja kurtka jest całkowicie przemoczona",
       "english": "My jacket is completely soaked",
       "verbs": [
-        "być (to be)"
+        {
+          "infinitive": "być",
+          "translation": "to be",
+          "perfective": false
+        }
       ]
     },
     {
       "polish": "Mój tata jest wściekły",
       "english": "My dad is furious",
       "verbs": [
-        "być (to be)"
+        {
+          "infinitive": "być",
+          "translation": "to be",
+          "perfective": false
+        }
       ]
     },
     {
       "polish": "On nagle pobladł",
       "english": "He suddenly turned pale",
       "verbs": [
-        "pobladnąć (to turn pale)"
+        {
+          "infinitive": "pobladnąć",
+          "translation": "to turn pale",
+          "perfective": false
+        }
       ]
     },
     {
       "polish": "Muszę zmienić swoje złe nawyki (NB swoje = moje here)",
       "english": "I have to change my bad habits",
       "verbs": [
-        "musieć (to have to/must)",
-        "zmienić (to change)"
+        {
+          "infinitive": "musieć",
+          "translation": "to have to/must",
+          "perfective": false
+        },
+        {
+          "infinitive": "zmienić",
+          "translation": "to change",
+          "perfective": false
+        }
       ]
     }
   ]

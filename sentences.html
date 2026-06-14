@@ -126,6 +126,21 @@
             font-weight: 400;
         }
 
+        .perf-badge {
+            display: inline-block;
+            background-color: #e9d5ff;
+            color: #6b21a8;
+            font-size: 0.65rem;
+            font-weight: 700;
+            padding: 1px 5px;
+            border-radius: 4px;
+            margin: 0 6px;
+            vertical-align: middle;
+            text-transform: uppercase;
+            line-height: 1;
+            border: 1px solid #d8b4fe;
+        }
+
         .sentence-card.revealed .translation {
             display: block;
         }
@@ -242,7 +257,13 @@
                 }
 
                 container.innerHTML = allSentences.map(s => {
-                    const verbsHtml = s.verbs.map((v, i) => (i === 0 ? `<span class="verb-line">${v}</span>` : `<br><span class="verb-line">${v}</span>`)).join('');
+                    const verbsHtml = s.verbs.map((v, i) => {
+                        const verbContent = typeof v === 'object' 
+                            ? `${v.infinitive} (${v.translation})${v.perfective ? '<span class="perf-badge">P</span>' : ''}`
+                            : v;
+                        const line = `<span class="verb-line">${verbContent}</span>`;
+                        return i === 0 ? line : `<br>${line}`;
+                    }).join('');
                     return `
                         <div class="sentence-card">
                             <span class="polish">${s.polish}</span>
