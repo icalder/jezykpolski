@@ -59,6 +59,17 @@
           "perfective": true
         }
       ]
+    },
+    {
+      "polish": "Najtrudniejsze są długie dyżury i praca w nocy.",
+      "english": "The hardest things are long shifts and working at night.",
+      "verbs": [
+        {
+          "infinitive": "być",
+          "translation": "to be",
+          "perfective": false
+        }
+      ]
     }
   ]
 }

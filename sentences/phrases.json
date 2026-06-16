@@ -215,6 +215,39 @@
           "perfective": false
         }
       ]
+    },
+    {
+      "polish": "Chętnie pomogę.",
+      "english": "I will gladly help.",
+      "verbs": [
+        {
+          "infinitive": "pomóc",
+          "translation": "to help",
+          "perfective": true
+        }
+      ]
+    },
+    {
+      "polish": "Chętniej poszedłbym do kina niż do teatru.",
+      "english": "I would rather go to the cinema than to the theater.",
+      "verbs": [
+        {
+          "infinitive": "pójść",
+          "translation": "to go",
+          "perfective": true
+        }
+      ]
+    },
+    {
+      "polish": "Najchętniej poszedłbym w góry.",
+      "english": "I would most gladly go to the mountains.",
+      "verbs": [
+        {
+          "infinitive": "pójść",
+          "translation": "to go",
+          "perfective": true
+        }
+      ]
     }
   ]
 }
