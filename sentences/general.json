@@ -67,22 +67,6 @@
       ]
     },
     {
-      "polish": "Innym razem! Muszę się zatrzymać na dziś wieczór",
-      "english": "Another time! I have to stop for tonight",
-      "verbs": [
-        {
-          "infinitive": "musieć",
-          "translation": "to have to/must",
-          "perfective": false
-        },
-        {
-          "infinitive": "zatrzymać się",
-          "translation": "to stop",
-          "perfective": true
-        }
-      ]
-    },
-    {
       "polish": "Wciąż czekam!",
       "english": "I'm still waiting!",
       "verbs": [
@@ -122,17 +106,6 @@
         {
           "infinitive": "przywracać",
           "translation": "to restore/bring back",
-          "perfective": false
-        }
-      ]
-    },
-    {
-      "polish": "Mieć coś wspólnego (z kimś/czymś)",
-      "english": "To have something in common (with someone/something)",
-      "verbs": [
-        {
-          "infinitive": "mieć",
-          "translation": "to have",
           "perfective": false
         }
       ]
@@ -214,17 +187,6 @@
       ]
     },
     {
-      "polish": "Miłego dalszego dnia!",
-      "english": "Have a nice rest of the day!",
-      "verbs": [
-        {
-          "infinitive": "być",
-          "translation": "to be",
-          "perfective": false
-        }
-      ]
-    },
-    {
       "polish": "To rzeczywiście dużo zmian",
       "english": "That's really a lot of changes",
       "verbs": [
@@ -232,70 +194,6 @@
           "infinitive": "być",
           "translation": "to be",
           "perfective": false
-        }
-      ]
-    },
-    {
-      "polish": "Nie widzę powodu, żeby się martwić",
-      "english": "I see no reason to worry",
-      "verbs": [
-        {
-          "infinitive": "widzieć",
-          "translation": "to see",
-          "perfective": false
-        },
-        {
-          "infinitive": "martwić się",
-          "translation": "to worry",
-          "perfective": false
-        }
-      ]
-    },
-    {
-      "polish": "Pogadamy na spokojnie",
-      "english": "We'll talk calmly",
-      "verbs": [
-        {
-          "infinitive": "pogadać",
-          "translation": "to talk",
-          "perfective": true
-        }
-      ]
-    },
-    {
-      "polish": "To musi być zbieg okoliczności",
-      "english": "It must be a coincidence",
-      "verbs": [
-        {
-          "infinitive": "musieć",
-          "translation": "to have to/must",
-          "perfective": false
-        },
-        {
-          "infinitive": "być",
-          "translation": "to be",
-          "perfective": false
-        }
-      ]
-    },
-    {
-      "polish": "Zdał sobie sprawę, że musi odejść",
-      "english": "He realized that he had to leave",
-      "verbs": [
-        {
-          "infinitive": "zdać sobie sprawę",
-          "translation": "to realize",
-          "perfective": true
-        },
-        {
-          "infinitive": "musieć",
-          "translation": "to have to/must",
-          "perfective": false
-        },
-        {
-          "infinitive": "odejść",
-          "translation": "to leave",
-          "perfective": true
         }
       ]
     },
@@ -554,17 +452,6 @@
       ]
     },
     {
-      "polish": "To sprawa w końcu wypłynęła",
-      "english": "This matter finally surfaced",
-      "verbs": [
-        {
-          "infinitive": "wypłynąć",
-          "translation": "to surface",
-          "perfective": true
-        }
-      ]
-    },
-    {
       "polish": "Musimy się stąd wydostać",
       "english": "We have to get out of here",
       "verbs": [
@@ -604,22 +491,6 @@
           "infinitive": "zdarzyć się",
           "translation": "to happen",
           "perfective": true
-        }
-      ]
-    },
-    {
-      "polish": "Czym się zajmujesz?",
-      "english": "What do you do for a living?",
-      "verbs": [
-        {
-          "infinitive": "zajmować",
-          "translation": "to occupy",
-          "perfective": false
-        },
-        {
-          "infinitive": "zajmować się",
-          "translation": "to occupy/be involved in",
-          "perfective": false
         }
       ]
     },
@@ -750,65 +621,6 @@
           "infinitive": "zjeść",
           "translation": "to eat",
           "perfective": true
-        }
-      ]
-    },
-    {
-      "polish": "Zmieniam zdanie",
-      "english": "I'm changing my mind",
-      "verbs": [
-        {
-          "infinitive": "zmieniać",
-          "translation": "to change",
-          "perfective": false
-        }
-      ]
-    },
-    {
-      "polish": "Muszę się zbierać",
-      "english": "I have to get going",
-      "verbs": [
-        {
-          "infinitive": "zbierać",
-          "translation": "to collect, gather, pick up",
-          "perfective": false
-        },
-        {
-          "infinitive": "musieć",
-          "translation": "to have to/must",
-          "perfective": false
-        },
-        {
-          "infinitive": "zbierać się",
-          "translation": "to get ready/gather",
-          "perfective": false
-        }
-      ]
-    },
-    {
-      "polish": "Jest późno. Zbieramy się?",
-      "english": "It's late. Shall we get going?",
-      "verbs": [
-        {
-          "infinitive": "być",
-          "translation": "to be",
-          "perfective": false
-        },
-        {
-          "infinitive": "zbierać się",
-          "translation": "to get ready/gather",
-          "perfective": false
-        }
-      ]
-    },
-    {
-      "polish": "Wszystkiego najlepszego!",
-      "english": "All the best! / Happy Birthday!",
-      "verbs": [
-        {
-          "infinitive": "być",
-          "translation": "to be",
-          "perfective": false
         }
       ]
     },
@@ -1006,11 +818,6 @@
       ]
     },
     {
-      "polish": "O Boże!",
-      "english": "Oh my God!",
-      "verbs": []
-    },
-    {
       "polish": "Mieszkam tu od ponad dwudziestu lat",
       "english": "I've lived here for over twenty years",
       "verbs": [
@@ -1082,28 +889,6 @@
         {
           "infinitive": "szukać",
           "translation": "to look for",
-          "perfective": false
-        }
-      ]
-    },
-    {
-      "polish": "A z tym niestety bywa różnie (bywać)",
-      "english": "And with that, unfortunately, it varies",
-      "verbs": [
-        {
-          "infinitive": "bywać",
-          "translation": "to vary/be",
-          "perfective": false
-        }
-      ]
-    },
-    {
-      "polish": "Przepadam za czekoladą! ❤️(przepadać za…)",
-      "english": "I'm crazy about chocolate!",
-      "verbs": [
-        {
-          "infinitive": "przepadać za",
-          "translation": "to be crazy about",
           "perfective": false
         }
       ]

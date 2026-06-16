@@ -166,6 +166,7 @@
                 <option value="education">Education</option>
                 <option value="nature">Nature & Environment</option>
                 <option value="work">Work & Business</option>
+                <option value="phrases">Phrases & Idioms</option>
                 <option value="tech_science">Technology & Science</option>
                 <option value="health">Health & Body</option>
                 <option value="family">Family & Social</option>
@@ -183,7 +184,7 @@
 
     <script>
         const CATEGORIES = {
-            all: ['general', 'travel_transport', 'home_daily', 'education', 'nature', 'work', 'tech_science', 'health', 'family'],
+            all: ['general', 'travel_transport', 'home_daily', 'education', 'nature', 'work', 'tech_science', 'health', 'family', 'phrases'],
             general: ['general'],
             travel_transport: ['travel_transport'],
             home_daily: ['home_daily'],
@@ -192,7 +193,8 @@
             work: ['work'],
             tech_science: ['tech_science'],
             health: ['health'],
-            family: ['family']
+            family: ['family'],
+            phrases: ['phrases']
         };
 
         function shuffle(array) {
@@ -360,5 +362,5 @@
         document.getElementById('category-select').addEventListener('change', loadSentences);
         document.getElementById('refresh-btn').addEventListener('click', loadSentences);
     </script>
-</body>
-</html>
+</body
+></html>

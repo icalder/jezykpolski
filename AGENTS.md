@@ -11,7 +11,7 @@ Your primary objective is to analyze Polish words and phrases (from YouTube vide
 **Do not maintain a list of single words.** The project has retired `vocab.txt`. All new vocabulary must be captured as example sentences to ensure they are learned in context.
 
 ### 2. Managing Sentence Files
-All learning data is stored in the `sentences/` directory as category-specific JSON files (e.g., `sentences/tech_science.json`, `sentences/travel_transport.json`). 
+All learning data is stored in the `sentences/` directory as category-specific JSON files (e.g., `sentences/tech_science.json`, `sentences/travel_transport.json`, `sentences/phrases.json`). 
 
 **Categorization Logic:**
 When proposing a new entry, you must also suggest the appropriate category file based on the theme of the sentence.
