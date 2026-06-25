@@ -248,6 +248,17 @@
           "perfective": true
         }
       ]
+    },
+    {
+      "polish": "A my przy okazji kupiliśmy jeszcze chleb.",
+      "english": "And while we were at it, we also bought more bread.",
+      "verbs": [
+        {
+          "infinitive": "kupić",
+          "translation": "to buy",
+          "perfective": true
+        }
+      ]
     }
   ]
 }
