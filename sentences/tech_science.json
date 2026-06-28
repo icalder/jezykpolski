@@ -82,6 +82,22 @@
           "perfective": false
         }
       ]
+    },
+    {
+      "polish": "Te nowe funkcje są bardzo przydatne. Pozwalają mi one przenieść dane znacznie szybciej.",
+      "english": "These new features are very useful. They allow me to move data much faster.",
+      "verbs": [
+        {
+          "infinitive": "pozwalać",
+          "translation": "to allow",
+          "perfective": false
+        },
+        {
+          "infinitive": "przenieść",
+          "translation": "to move",
+          "perfective": true
+        }
+      ]
     }
   ]
 }
