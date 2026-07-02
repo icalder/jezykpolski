@@ -972,6 +972,17 @@
           "perfective": true
         }
       ]
+    },
+    {
+      "polish": "Wymaga to dużego wysiłku.",
+      "english": "It requires a lot of effort.",
+      "verbs": [
+        {
+          "infinitive": "wymagać",
+          "translation": "to require",
+          "perfective": false
+        }
+      ]
     }
   ]
 }

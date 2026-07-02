@@ -250,6 +250,33 @@
       ]
     },
     {
+      "polish": "Idziemy do przodu i do tyłu.",
+      "english": "We are going forward and backward.",
+      "verbs": [
+        {
+          "infinitive": "iść",
+          "translation": "to go",
+          "perfective": false
+        }
+      ]
+    },
+    {
+      "polish": "Dasz radę, wierzę w ciebie!",
+      "english": "You can do it, I believe in you!",
+      "verbs": [
+        {
+          "infinitive": "dać radę",
+          "translation": "to be able to / manage",
+          "perfective": true
+        },
+        {
+          "infinitive": "wierzyć",
+          "translation": "to believe",
+          "perfective": false
+        }
+      ]
+    },
+    {
       "polish": "A my przy okazji kupiliśmy jeszcze chleb.",
       "english": "And while we were at it, we also bought more bread.",
       "verbs": [
