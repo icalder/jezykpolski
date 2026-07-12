@@ -84,6 +84,17 @@
       ]
     },
     {
+      "polish": "Moje nowe urządzenie nie działa poprawnie po aktualizacji.",
+      "english": "My new device is not working correctly after the update.",
+      "verbs": [
+        {
+          "infinitive": "działać",
+          "translation": "to work/function",
+          "perfective": false
+        }
+      ]
+    },
+    {
       "polish": "Te nowe funkcje są bardzo przydatne. Pozwalają mi one przenieść dane znacznie szybciej.",
       "english": "These new features are very useful. They allow me to move data much faster.",
       "verbs": [

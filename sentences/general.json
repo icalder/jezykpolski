@@ -974,6 +974,33 @@
       ]
     },
     {
+      "polish": "Ten produkt zawiera wszystkie niezbędne składniki.",
+      "english": "This product contains all the necessary ingredients.",
+      "verbs": [
+        {
+          "infinitive": "zawierać",
+          "translation": "to contain",
+          "perfective": false
+        }
+      ]
+    },
+    {
+      "polish": "Należy pamiętać o ryzykach związanych z tą inwestycją.",
+      "english": "It is necessary to remember the risks associated with this investment.",
+      "verbs": [
+        {
+          "infinitive": "należeć",
+          "translation": "to be necessary/should",
+          "perfective": false
+        },
+        {
+          "infinitive": "pamiętać",
+          "translation": "to remember",
+          "perfective": false
+        }
+      ]
+    },
+    {
       "polish": "Wymaga to dużego wysiłku.",
       "english": "It requires a lot of effort.",
       "verbs": [

@@ -2,6 +2,59 @@
   "title": "Common Phrases & Idioms",
   "sentences": [
     {
+      "polish": "Przepraszam, że przeszkadzam, ale czy mógłbym prosić o chwilę uwagi?",
+      "english": "I'm sorry to interrupt, but could I ask for a moment of your attention?",
+      "verbs": [
+        {
+          "infinitive": "przepraszać",
+          "translation": "to apologize",
+          "perfective": false
+        },
+        {
+          "infinitive": "przeszkadzać",
+          "translation": "to interrupt/disturb",
+          "perfective": false
+        },
+        {
+          "infinitive": "prosić",
+          "translation": "to ask/request",
+          "perfective": false
+        }
+      ]
+    },
+    {
+      "polish": "Praktyka czyni mistrza, więc musisz ćwiczyć codziennie.",
+      "english": "Practice makes perfect, so you have to practice every day.",
+      "verbs": [
+        {
+          "infinitive": "ćwiczyć",
+          "translation": "to practice",
+          "perfective": false
+        },
+        {
+          "infinitive": "musieć",
+          "translation": "to have to/must",
+          "perfective": false
+        }
+      ]
+    },
+    {
+      "polish": "Bardzo dziękuję za wyjaśnienie tej skomplikowanej kwestii.",
+      "english": "Thank you very much for explaining this complicated matter.",
+      "verbs": [
+        {
+          "infinitive": "dziękować",
+          "translation": "to thank",
+          "perfective": false
+        },
+        {
+          "infinitive": "wyjaśniać",
+          "translation": "to explain",
+          "perfective": false
+        }
+      ]
+    },
+    {
       "polish": "Innym razem! Muszę się zatrzymać na dziś wieczór",
       "english": "Another time! I have to stop for tonight",
       "verbs": [
