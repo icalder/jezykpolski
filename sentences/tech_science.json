@@ -109,6 +109,33 @@
           "perfective": true
         }
       ]
+    },
+    {
+      "polish": "Internet jest głównym źródłem informacji w dzisiejszym świecie.",
+      "english": "The Internet is the main source of information in today's world.",
+      "verbs": [
+        {
+          "infinitive": "być",
+          "translation": "to be",
+          "perfective": false
+        }
+      ]
+    },
+    {
+      "polish": "Urządzenie zostało odłączone od źródła zasilania.",
+      "english": "The device was disconnected from the power source.",
+      "verbs": [
+        {
+          "infinitive": "zostać",
+          "translation": "to become/be",
+          "perfective": true
+        },
+        {
+          "infinitive": "odłączyć",
+          "translation": "to disconnect",
+          "perfective": true
+        }
+      ]
     }
   ]
 }

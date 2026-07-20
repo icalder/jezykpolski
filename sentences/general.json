@@ -1010,6 +1010,55 @@
           "perfective": false
         }
       ]
+    },
+    {
+      "polish": "Ten film powstał w zeszłym roku.",
+      "english": "This film was made last year.",
+      "verbs": [
+        {
+          "infinitive": "powstać",
+          "translation": "to arise/be made",
+          "perfective": true
+        }
+      ]
+    },
+    {
+      "polish": "Ten telefon kradnie całą moją uwagę.",
+      "english": "This phone steals all my attention.",
+      "verbs": [
+        {
+          "infinitive": "kraść",
+          "translation": "to steal",
+          "perfective": false
+        }
+      ]
+    },
+    {
+      "polish": "Dziecko bawi się ziemią.",
+      "english": "The child is playing with the soil.",
+      "verbs": [
+        {
+          "infinitive": "bawić się",
+          "translation": "to play with",
+          "perfective": false
+        }
+      ]
+    },
+    {
+      "polish": "Niestety przegrali mecz, ale dali z siebie wszystko.",
+      "english": "Unfortunately, they lost the match, but they gave it their all.",
+      "verbs": [
+        {
+          "infinitive": "przegrać",
+          "translation": "to lose",
+          "perfective": true
+        },
+        {
+          "infinitive": "dać",
+          "translation": "to give",
+          "perfective": true
+        }
+      ]
     }
   ]
 }
