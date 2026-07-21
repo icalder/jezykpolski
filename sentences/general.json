@@ -332,11 +332,6 @@
       "english": "She climbed the ladder",
       "verbs": [
         {
-          "infinitive": "wspiąć",
-          "translation": "to climb p.",
-          "perfective": true
-        },
-        {
           "infinitive": "wspiąć się",
           "translation": "to climb",
           "perfective": true
@@ -358,11 +353,6 @@
       "polish": "Panuje cisza",
       "english": "There is silence",
       "verbs": [
-        {
-          "infinitive": "panować",
-          "translation": "to reign / prevail",
-          "perfective": false
-        },
         {
           "infinitive": "panować",
           "translation": "to reign/prevail",
@@ -398,7 +388,7 @@
       ]
     },
     {
-      "polish": "Marek odpechnął łódź od brzegu",
+      "polish": "Marek odepchnął łódź od brzegu",
       "english": "Marek pushed the boat away from the shore",
       "verbs": [
         {
