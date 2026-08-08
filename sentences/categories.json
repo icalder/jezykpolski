@@ -1,0 +1,16 @@
+{
+  "allLabel": "All Categories",
+  "categories": [
+    {"id": "general", "name": "General", "file": "general"},
+    {"id": "travel_transport", "name": "Travel & Transport", "file": "travel_transport"},
+    {"id": "home_daily", "name": "Home & Daily Life", "file": "home_daily"},
+    {"id": "education", "name": "Education", "file": "education"},
+    {"id": "nature", "name": "Nature & Environment", "file": "nature"},
+    {"id": "work", "name": "Work & Business", "file": "work"},
+    {"id": "tech_science", "name": "Technology & Science", "file": "tech_science"},
+    {"id": "health", "name": "Health & Body", "file": "health"},
+    {"id": "family", "name": "Family & Social", "file": "family"},
+    {"id": "phrases", "name": "Phrases & Idioms", "file": "phrases"},
+    {"id": "jobs_professions", "name": "Jobs & Professions", "file": "jobs_professions"}
+  ]
+}

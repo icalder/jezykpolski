@@ -159,17 +159,7 @@
         <div class="controls">
             <h1 id="page-title">Polish Practice</h1>
             <select id="category-select">
-                <option value="all">All Categories</option>
-                <option value="general">General</option>
-                <option value="travel_transport">Travel & Transport</option>
-                <option value="home_daily">Home & Daily Life</option>
-                <option value="education">Education</option>
-                <option value="nature">Nature & Environment</option>
-                <option value="work">Work & Business</option>
-                <option value="phrases">Phrases & Idioms</option>
-                <option value="tech_science">Technology & Science</option>
-                <option value="health">Health & Body</option>
-                <option value="family">Family & Social</option>
+                <option value="all">Loading…</option>
             </select>
             <button id="refresh-btn" title="Reset Cards">
                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
@@ -183,19 +173,50 @@
     <div class="container" id="sentence-container"></div>
 
     <script>
-        const CATEGORIES = {
-            all: ['general', 'travel_transport', 'home_daily', 'education', 'nature', 'work', 'tech_science', 'health', 'family', 'phrases'],
-            general: ['general'],
-            travel_transport: ['travel_transport'],
-            home_daily: ['home_daily'],
-            education: ['education'],
-            nature: ['nature'],
-            work: ['work'],
-            tech_science: ['tech_science'],
-            health: ['health'],
-            family: ['family'],
-            phrases: ['phrases']
-        };
+        let CATEGORY_MANIFEST = null;
+        const sentenceCache = new Map();
+
+        function parseJSONL(text) {
+            const lines = text.trim().split('\n');
+            const result = { title: null, sentences: [] };
+            for (const line of lines) {
+                if (!line.trim()) continue;
+                try {
+                    const obj = JSON.parse(line);
+                    if (obj.title && result.title === null) result.title = obj.title;
+                    else result.sentences.push(obj);
+                } catch (e) {
+                    console.warn('Failed to parse JSONL line:', line);
+                }
+            }
+            return result;
+        }
+
+        async function loadJSONL(fileBaseName) {
+            const cacheKey = `${fileBaseName}.jsonl`;
+            if (sentenceCache.has(cacheKey)) return sentenceCache.get(cacheKey);
+            const response = await fetch(`sentences/${cacheKey}`);
+            if (!response.ok) throw new Error(`Could not load sentences/${cacheKey}`);
+            const text = await response.text();
+            const data = parseJSONL(text);
+            sentenceCache.set(cacheKey, data);
+            return data;
+        }
+
+        function populateCategorySelect() {
+            const select = document.getElementById('category-select');
+            select.innerHTML = '';
+            const allOpt = document.createElement('option');
+            allOpt.value = 'all';
+            allOpt.textContent = CATEGORY_MANIFEST.allLabel || 'All Categories';
+            select.appendChild(allOpt);
+            CATEGORY_MANIFEST.categories.forEach(cat => {
+                const opt = document.createElement('option');
+                opt.value = cat.id;
+                opt.textContent = cat.name;
+                select.appendChild(opt);
+            });
+        }
 
         function shuffle(array) {
             for (let i = array.length - 1; i > 0; i--) {
@@ -218,35 +239,35 @@
                 let finalTitle = "Polish Practice";
 
                 if (dataFile) {
-                    // Handle legacy/specific file query parameter
+                    // Handle legacy/specific file query parameter (supports .json and .jsonl)
                     const response = await fetch(dataFile);
                     if (!response.ok) throw new Error(`Could not load ${dataFile}`);
-                    const data = await response.json();
+                    const text = await response.text();
+                    const data = dataFile.endsWith('.jsonl') ? parseJSONL(text) : JSON.parse(text);
                     allSentences = data.sentences;
                     finalTitle = data.title || finalTitle;
                 } else {
-                    // Use the category selector
+                    // Use the category selector (driven by manifest)
                     const selectedCat = categorySelect.value;
-                    const filesToLoad = CATEGORIES[selectedCat] || CATEGORIES.all;
-                    
-                    const fetchPromises = filesToLoad.map(async (cat) => {
-                        const response = await fetch(`sentences/${cat}.json`);
-                        if (!response.ok) {
-                            console.warn(`Could not load category ${cat}`);
-                            return { sentences: [] };
-                        }
-                        return response.json();
-                    });
 
-                    const results = await Promise.all(fetchPromises);
-                    results.forEach(data => {
-                        if (data.sentences) {
-                            allSentences = allSentences.concat(data.sentences);
+                    if (selectedCat === 'all') {
+                        const results = await Promise.all(
+                            CATEGORY_MANIFEST.categories.map(cat => loadJSONL(cat.file))
+                        );
+                        results.forEach(data => {
+                            if (data.sentences) {
+                                allSentences = allSentences.concat(data.sentences);
+                            }
+                        });
+                        finalTitle = CATEGORY_MANIFEST.allLabel || 'All Polish Practice';
+                    } else {
+                        const cat = CATEGORY_MANIFEST.categories.find(c => c.id === selectedCat);
+                        if (cat) {
+                            const data = await loadJSONL(cat.file);
+                            allSentences = data.sentences;
+                            finalTitle = data.title || cat.name;
                         }
-                    });
-
-                    finalTitle = selectedCat === 'all' ? "All Polish Practice" : 
-                                 categorySelect.options[categorySelect.selectedIndex].text;
+                    }
                 }
 
                 titleEl.textContent = finalTitle;
@@ -357,10 +378,28 @@
             }
         }
 
-        loadSentences();
+        async function init() {
+            const response = await fetch('sentences/categories.json');
+            if (!response.ok) throw new Error('Could not load categories manifest');
+            CATEGORY_MANIFEST = await response.json();
+            populateCategorySelect();
+            await loadSentences();
+        }
 
-        document.getElementById('category-select').addEventListener('change', loadSentences);
-        document.getElementById('refresh-btn').addEventListener('click', loadSentences);
+        document.getElementById('category-select').addEventListener('change', () => {
+            sentenceCache.clear();
+            loadSentences();
+        });
+        document.getElementById('refresh-btn').addEventListener('click', () => {
+            sentenceCache.clear();
+            loadSentences();
+        });
+
+        init().catch(e => {
+            document.getElementById('sentence-container').innerHTML =
+                `<p style="color: red; text-align: center;">Error loading categories: ${e.message}</p>`;
+            console.error(e);
+        });
     </script>
 </body
 ></html>
