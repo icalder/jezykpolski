@@ -7,3 +7,4 @@
 {"polish":"Muszę z nim pogadać o nowym projekcie","english":"I need to talk to him about the new project","verbs":[{"infinitive":"musieć","translation":"to have to/must","perfective":false},{"infinitive":"pogadać","translation":"to talk","perfective":true}]}
 {"polish":"W zasadzie skończyliśmy projekt","english":"Basically, we've finished the project","verbs":[{"infinitive":"skończyć","translation":"to finish","perfective":true}]}
 {"polish":"Na razie traktuję tę pracę jako coś przejściowego.","english":"For now, I'm treating this job as something transitional.","verbs":[{"infinitive":"traktować","translation":"to treat / to consider","perfective":false}]}
+{"polish":"Muszę złożyć wniosek.","english":"I have to submit the application.","verbs":[{"infinitive":"złożyć","translation":"to submit","perfective":true},{"infinitive":"musieć","translation":"to have to/must","perfective":false}]}

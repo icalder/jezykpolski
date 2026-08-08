@@ -29,3 +29,6 @@
 {"polish":"Szerokiej drogi!","english":"Safe travels!","verbs":[]}
 {"polish":"Lubię być w ruchu.","english":"I like to be on the move.","verbs":[{"infinitive":"lubić","translation":"to like","perfective":false},{"infinitive":"być","translation":"to be","perfective":false}]}
 {"polish":"Poznałem wiele ciekawych miejsc.","english":"I discovered many interesting places.","verbs":[{"infinitive":"poznać","translation":"to get to know / to discover","perfective":true}]}
+{"polish":"To jest znak.","english":"This is a sign.","verbs":[{"infinitive":"być","translation":"to be","perfective":false}]}
+{"polish":"Czekam na potwierdzenie rezerwacji.","english":"I'm waiting for the booking confirmation.","verbs":[{"infinitive":"czekać","translation":"to wait","perfective":false}]}
+{"polish":"Hotel znajduje się naprzeciwko parku.","english":"The hotel is located opposite the park.","verbs":[{"infinitive":"znajdować się","translation":"to be located","perfective":false}]}

@@ -24,3 +24,8 @@
 {"polish":"Idziemy do przodu i do tyłu.","english":"We are going forward and backward.","verbs":[{"infinitive":"iść","translation":"to go","perfective":false}]}
 {"polish":"Dasz radę, wierzę w ciebie!","english":"You can do it, I believe in you!","verbs":[{"infinitive":"dać radę","translation":"to be able to / manage","perfective":true},{"infinitive":"wierzyć","translation":"to believe","perfective":false}]}
 {"polish":"A my przy okazji kupiliśmy jeszcze chleb.","english":"And while we were at it, we also bought more bread.","verbs":[{"infinitive":"kupić","translation":"to buy","perfective":true}]}
+{"polish":"Miło was wszystkich poznać","english":"Nice to meet you all.","verbs":[{"infinitive":"poznać","translation":"to meet","perfective":true}]}
+{"polish":"On mówi, że tak, a ja z kolei myślę inaczej.","english":"He says so, and I, on the other hand, think differently.","verbs":[{"infinitive":"mówić","translation":"to say","perfective":false},{"infinitive":"myśleć","translation":"to think","perfective":false}]}
+{"polish":"To kosztuje mniej więcej sto złotych.","english":"It costs more or less a hundred zlotys.","verbs":[{"infinitive":"kosztować","translation":"to cost","perfective":false}]}
+{"polish":"Siadaj śmiało.","english":"Feel free to sit down.","verbs":[{"infinitive":"siadać","translation":"to sit down","perfective":false}]}
+{"polish":"Życzę ci powodzenia!","english":"I wish you good luck!","verbs":[{"infinitive":"życzyć","translation":"to wish","perfective":true}]}

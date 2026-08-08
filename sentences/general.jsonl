@@ -78,3 +78,8 @@
 {"polish":"Ten telefon kradnie całą moją uwagę.","english":"This phone steals all my attention.","verbs":[{"infinitive":"kraść","translation":"to steal","perfective":false}]}
 {"polish":"Dziecko bawi się ziemią.","english":"The child is playing with the soil.","verbs":[{"infinitive":"bawić się","translation":"to play with","perfective":false}]}
 {"polish":"Niestety przegrali mecz, ale dali z siebie wszystko.","english":"Unfortunately, they lost the match, but they gave it their all.","verbs":[{"infinitive":"przegrać","translation":"to lose","perfective":true},{"infinitive":"dać","translation":"to give","perfective":true}]}
+{"polish":"Kamień nie wie, że leży. Ja wiem, i to jest cała różnica","english":"A stone doesn't know that it lies. I know, and that is the whole difference.","verbs":[{"infinitive":"wiedzieć","translation":"to know","perfective":false}]}
+{"polish":"To było całkowite zaprzeczenie faktów.","english":"It was a total denial of the facts.","verbs":[{"infinitive":"być","translation":"to be","perfective":false}]}
+{"polish":"Bez wahania powiedział tak.","english":"He said yes without hesitation.","verbs":[{"infinitive":"powiedzieć","translation":"to say/tell","perfective":true}]}
+{"polish":"Nie dotykaj tego.","english":"Don't touch that.","verbs":[{"infinitive":"dotykać","translation":"to touch","perfective":false}]}
+{"polish":"Ten czas szybko minie.","english":"This time will pass quickly.","verbs":[{"infinitive":"minąć","translation":"to pass/pass by","perfective":true}]}

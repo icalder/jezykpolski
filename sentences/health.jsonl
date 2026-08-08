@@ -6,3 +6,4 @@
 {"polish":"Mój tata jest wściekły","english":"My dad is furious","verbs":[{"infinitive":"być","translation":"to be","perfective":false}]}
 {"polish":"On nagle pobladł","english":"He suddenly turned pale","verbs":[{"infinitive":"pobladnąć","translation":"to turn pale","perfective":true}]}
 {"polish":"Muszę zmienić swoje złe nawyki (NB swoje = moje here)","english":"I have to change my bad habits","verbs":[{"infinitive":"musieć","translation":"to have to/must","perfective":false},{"infinitive":"zmienić","translation":"to change","perfective":true}]}
+{"polish":"Idę do przychodni.","english":"I am going to the clinic.","verbs":[{"infinitive":"iść","translation":"to go","perfective":false}]}
